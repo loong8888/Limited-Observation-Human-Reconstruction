@@ -5,7 +5,7 @@ Associate image evidence with 3D queries or primitives through projection, voxel
 
 > Supervised completion is learned from training data. Hybrids such as ECON and SIFU also use mechanisms discussed in other families.
 
-These rows reproduce the manuscript inventory. Years and technical labels are imported; see the [provenance policy](../data/README.md). PA = pixel alignment; VA = voxel alignment; SDS = score distillation. A dash means unreported or not specified by the source table.
+We summarize representative work reviewed in our survey below. PA = pixel alignment; VA = voxel alignment; SDS = score distillation. A dash indicates information not reported in the cited source.
 
 | Method | Year | Input | Representation | Alignment | Mechanism | Source |
 | --- | --- | --- | --- | --- | --- | --- |

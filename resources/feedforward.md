@@ -5,7 +5,7 @@ Predict or sample subject-specific humans using shared learned models without pe
 
 > Sampling can require repeated network evaluations. Fast prediction, complete geometry, calibrated uncertainty, and native animatability are different properties.
 
-These rows reproduce the manuscript inventory. Years and technical labels are imported; see the [provenance policy](../data/README.md). PA = pixel alignment; VA = voxel alignment; SDS = score distillation. A dash means unreported or not specified by the source table.
+We summarize representative work reviewed in our survey below. PA = pixel alignment; VA = voxel alignment; SDS = score distillation. A dash indicates information not reported in the cited source.
 
 ## Full body
 

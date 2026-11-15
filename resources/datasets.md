@@ -5,7 +5,7 @@ Separate dataset content, input restriction, and reference fidelity before selec
 
 > Sp / Te / Qu / Co indicate spatial, temporal, quality, and coherence axes. Parentheses denote imposed restrictions. Counts have different units; fitted bodies and generated images are not ground-truth clothed geometry.
 
-These rows reproduce the manuscript inventory. Years and technical labels are imported; see the [provenance policy](../data/README.md). PA = pixel alignment; VA = voxel alignment; SDS = score distillation. A dash means unreported or not specified by the source table.
+We summarize representative work reviewed in our survey below. PA = pixel alignment; VA = voxel alignment; SDS = score distillation. A dash indicates information not reported in the cited source.
 
 | Dataset | Type | Scale | Use | Axes | Reference | Source |
 | --- | --- | --- | --- | --- | --- | --- |

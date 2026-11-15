@@ -1,17 +1,19 @@
 <h1 align="center">Limited-Observation Human Reconstruction</h1>
 <p align="center"><strong>From incomplete evidence to complete 3D humans.</strong></p>
 <p align="center">A companion resource for<br><em>Reconstructing Complete 3D Humans from Limited Observations: A Survey</em></p>
-<p align="center"><a href="paper/survey-draft.pdf">Survey draft</a> &middot; <a href="resources/taxonomy.md">Taxonomy</a> &middot; <a href="resources/papers.md">Paper index</a> &middot; <a href="data/references.bib">BibTeX</a> &middot; <a href="CONTRIBUTING.md">Contribute</a></p>
+<p align="center"><a href="https://loong8888.github.io/Limited-Observation-Human-Reconstruction/homepage/">Search the Literature</a> &middot; <a href="paper/survey-draft.pdf">Survey</a> &middot; <a href="resources/taxonomy.md">Taxonomy</a> &middot; <a href="resources/papers.md">Paper index</a> &middot; <a href="data/references.bib">BibTeX</a> &middot; <a href="CONTRIBUTING.md">Contribute</a></p>
 
 <p align="center"><img src="assets/survey-overview.png" width="900" alt="Survey overview: six reconstruction and generation families, their composition, datasets, evaluation, and research directions"></p>
 
 **Jinlong Fan · Jing Zhang · Mingming Gong · Yuxiang Yang · Dacheng Tao**
 
-How can a system reconstruct a particular person when the available images do not reveal the whole person? This collection separates **what is missing** from **how it is compensated**. It connects evidence-based reconstruction with data-driven generation across full-body, head, and hand reconstruction.
+How can we reconstruct a complete 3D human when the available observations reveal only part of the person? A single photograph leaves the back unseen; an occluded video may never expose a hidden limb; and a personal photo collection may span different poses, outfits, cameras, and years. Recovering geometry, appearance, and deformation from such evidence requires more than fitting what is visible: it requires deciding how observations and prior knowledge should work together.
 
-The paper is the conceptual guide; this repository adds searchable inventories, reusable resources, and practical evaluation guidance. The accompanying PDF follows the author-finalized v2 manuscript.
+In our survey, **Reconstructing Complete 3D Humans from Limited Observations**, we organize this problem by separating **what evidence is missing** from **how methods compensate for it**. We characterize limited observation along four axes and review six mechanism-based method families, connecting template fitting and feature alignment with temporal aggregation, generative guidance, feed-forward reconstruction, and conditional generation. Our emphasis is on the interaction between reconstruction and generation: preserving subject-specific evidence while inferring plausible content that was not observed. Full-body reconstruction is our main focus, with head and hand methods included where they illuminate shared mechanisms.
 
-**Repository:** [loong8888/Limited-Observation-Human-Reconstruction](https://github.com/loong8888/Limited-Observation-Human-Reconstruction) · **arXiv:** `ARXIV_ID_TO_BE_ADDED` (replace when assigned).
+We maintain this repository as a companion to the survey and a practical entry point into the field. Alongside the literature organized by our taxonomy, we collect datasets, official implementations, reusable tools, reading routes, and evaluation considerations. These resources help readers compare assumptions, identify suitable starting points, and distinguish fidelity to observed evidence from the plausibility of completed regions. We welcome contributions that extend the collection and clarify the connections between methods.
+
+**Repository:** [loong8888/Limited-Observation-Human-Reconstruction](https://github.com/loong8888/Limited-Observation-Human-Reconstruction)
 
 ## Start Here
 
@@ -22,10 +24,10 @@ The paper is the conceptual guide; this repository adds searchable inventories, 
 | [Six method families](resources/taxonomy.md) | [Datasets and capture resources](resources/datasets.md) |
 | [All 243 bibliography records](resources/papers.md) | [Models, rendering, and geometry tools](resources/tools.md) |
 | [Reading routes by observation regime](resources/reading-routes.md) | [Evaluation and reproducibility checklist](resources/evaluation.md) |
-| [11 official implementation entry points](resources/implementations.md) | [Publication and maintenance guide](MAINTAINING.md) |
+| [Official implementation entry points](resources/implementations.md) | [Structured catalogue data](data/README.md) |
 | [Hybrid systems and prior interfaces](resources/composition.md) | [Open problems and research opportunities](resources/research-directions.md) |
 
-A filterable, offline-capable browser is included at [homepage/index.html](homepage/index.html). Open it locally, or publish this repository with GitHub Pages using the instructions in [MAINTAINING.md](MAINTAINING.md).
+
 
 ## Four Observation Axes
 
@@ -53,36 +55,34 @@ The axes may interact. Text-only generation is a useful boundary case, not evide
 
 Inventories follow the manuscript tables, including explicitly discussed neighboring methods. They are **not mutually exclusive memberships**, and the evidence-to-prior ordering is conceptual rather than a measured ranking.
 
-## Coverage and Provenance
+## What We Cover
 
-- **243** bibliography records, **154** method-inventory rows, and **26** dataset rows in the initial snapshot.
-- Bibliographic metadata and technical summaries are imported from the author's manuscript and bibliography. The [reference audit](resources/reference-audit.md) distinguishes source matches, conflicts, and unresolved records; matching a title does not verify every field.
-- Tools and related collections are a separate extension, with official links and access-check dates.
-- Numerical results are deliberately not presented as a leaderboard. See [evaluation guidance](resources/evaluation.md).
-- Source hashes and import scope: [provenance](data/provenance.json). Data organization: [data guide](data/README.md).
+Our collection currently includes **243 references**, **154 method-inventory entries**, and **26 dataset entries**. We connect these records to paper sources and to project pages and code where available. We also provide complementary tools and reading routes beyond the survey's core method discussion.
+
+We organize methods by their compensatory mechanisms rather than by representation alone. The same paper may therefore contribute to several families, and inclusion does not imply that its input assumptions or outputs are interchangeable with those of neighboring methods. Likewise, results reported under different capture settings, splits, masks, or training budgets should not be read as a controlled leaderboard. Our [evaluation guide](resources/evaluation.md) explains the distinctions that matter when comparing systems.
 
 ## Repository Map
 
 ```text
-assets/       Survey overview and figure provenance
+assets/       Survey overview and navigation icons
 data/         Paper metadata, method/dataset inventories, BibTeX, tool links
 homepage/     Searchable static catalogue, works without a build server
-paper/        Local survey draft and citation notes
+paper/        Survey manuscript and BibTeX citation
 resources/    Six families, datasets, evaluation, reading routes, tools
 scripts/      Rebuild catalogue pages and validate repository consistency
-.github/      Issue templates and automated local-integrity checks
+.github/      Issue templates and catalogue validation
 ```
 
 ## Cite and Contribute
 
-Use [paper/citation.bib](paper/citation.bib) for the current **unpublished manuscript**; replace it with the official citation after release. Please also cite the original methods and datasets rather than this collection alone.
+If our survey or this collection supports your research, please cite [our survey](paper/citation.bib). For specific methods, datasets, or software, please also cite the corresponding original work.
 
 Corrections, new resources, and discussion of boundary cases are welcome. Please provide an official source, the relevant mechanism, and any evaluation caveats. See [CONTRIBUTING.md](CONTRIBUTING.md).
 
-**Correspondence:** [Yuxiang Yang](mailto:yyx@hdu.edu.cn), Hangzhou Dianzi University.
+**Main Contact:** [Jinlong Fan](mailto:jfan@hdu.edu.cn), [Yuxiang Yang](mailto:yyx@hdu.edu.cn), Hangzhou Dianzi University.
 
 ## Acknowledgments and Rights
 
-The organization was inspired by [Human-Centric AI Resources](https://github.com/cseeyangchen/Human-Centric-AI). Its branding, third-party images, and publication claims have not been reused. [Awesome Digital Human](https://github.com/weihaox/awesome-digital-human) and [Awesome 3D Human Reconstruction](https://github.com/rlczddl/awesome-3d-human-reconstruction) are complementary discovery collections.
+We thank [Human-Centric AI Resources](https://github.com/cseeyangchen/Human-Centric-AI) for inspiring the organization of this collection. We also recommend [Awesome Digital Human](https://github.com/weihaox/awesome-digital-human) and [Awesome 3D Human Reconstruction](https://github.com/rlczddl/awesome-3d-human-reconstruction) as complementary resources.
 
-Third-party papers, datasets, models, and code retain their original terms. Original scripts are MIT-licensed; original resource documentation is CC BY 4.0. The manuscript and third-party materials are excluded from these blanket grants; see [LICENSE](LICENSE) and the [release checklist](MAINTAINING.md).
+Our original scripts are MIT-licensed, and our original resource documentation is licensed under CC BY 4.0. The manuscript, figures, and third-party papers, datasets, models, code, and icons retain their respective rights and terms. See [LICENSE](LICENSE) for details.

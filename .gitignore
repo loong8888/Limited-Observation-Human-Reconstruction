@@ -8,3 +8,10 @@ data/audit-cache/
 # Local review artifacts, not part of the public resource collection.
 /BUILD_REPORT.md
 /RELEASE_CHECKLIST.md
+/UPLOAD_GUIDE.md
+/MAINTAINING.md
+/data/reference_audit.json
+/data/metadata_corrections.json
+/data/provenance.json
+/data/publication.json
+/resources/reference-audit.md

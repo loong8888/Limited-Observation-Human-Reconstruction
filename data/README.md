@@ -1,14 +1,27 @@
-# Data Guide
+# Catalogue Data
 
-- `papers.json`: complete imported bibliography; title, authors, year, venue, URL, raw BibTeX, source status, and inventory-group links.
-- `inventories.json`: manuscript method/dataset table rows, original table labels, section numbers, summaries, and caveats.
-- `references.bib`: the author's supplied bibliography, preserved as a snapshot.
-- `tools.json`: complementary tools and collections, with official URLs, purpose, caveat, and link-check date.
-- `code_links.json`: selected official implementation URLs keyed by bibliography ID, with check scope and date.
-- `provenance.json`: source filenames, hashes, and provenance policy.
-- `reference_audit.json`: per-record metadata responses, source evidence, and unresolved conflicts.
-- `paper_links.json`: PDF/project/code discovery and access-check status for all 243 records. A blank means not located, not nonexistent. Accessibility alone does not prove official authorship.
+We provide the collection in structured formats so that readers can search, reuse, and extend it.
 
-A paper's `inventory_groups` records where it appears in the manuscript inventory, not exclusive scientific family membership. A source paper may describe a dataset as well as a method.
+| File | Contents |
+| --- | --- |
+| `papers.json` | Titles, authors, venues, years, source links, BibTeX, and taxonomy associations |
+| `references.bib` | References accompanying our survey and resource collection |
+| `inventories.json` | Method and dataset inventories, including mechanisms, representations, and assumptions |
+| `paper_links.json` | Paper sources and available PDF, project, and code links |
+| `code_links.json` | Selected official implementations used as entry points |
+| `tools.json` | Complementary software and collections, with their roles and limitations |
 
-`rows[].cells` follows the corresponding `headers` array exactly. Unknown or unreported values remain dashes. Publication metadata is imported rather than independently re-audited here. URLs are DOI links, supplied URLs, or explicit arXiv identifiers; a missing link is never replaced by a guessed URL.
+Taxonomy associations indicate where a paper contributes to our discussion, not an exclusive classification. A paper may describe both a method and a dataset. Blank project or code fields mean that no link is provided; they do not establish that an implementation does not exist. Dashes indicate information not reported in the cited source.
+
+## Reuse and Contribute
+
+Each inventory's `headers` defines the meaning and order of its row `cells`. Citation IDs connect entries to `papers.json` and `references.bib`. Please preserve IDs when correcting a record so that links continue to work.
+
+To regenerate our inventories and catalogue after making changes, run these commands from the repository root:
+
+```sh
+python3 scripts/build.py
+python3 scripts/validate.py
+```
+
+Our validation script checks data consistency and repository links. For contributions, please provide the original paper or official project source; see [CONTRIBUTING.md](../CONTRIBUTING.md). License scope is described in [LICENSE](../LICENSE).

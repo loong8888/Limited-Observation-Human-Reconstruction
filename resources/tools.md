@@ -1,7 +1,7 @@
 # Models and Tools
 [Back to repository](../README.md)
 
-These are complementary implementation resources, not evaluated baselines. Official repository pages were accessed on 2026-11-13; installations, model weights, and runtime compatibility were not tested. Consult each project for current licenses.
+We collect reusable components for body modeling, camera estimation, differentiable rendering, generative guidance, and evaluation. These tools complement the methods reviewed in our survey; they are not a benchmark ranking. Please consult each project for installation instructions, model access, and licensing terms.
 
 ## Body models
 

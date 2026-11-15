@@ -28,6 +28,7 @@ for g in groups:
         if not set(r['citations'])<=ids: errors.append('Unknown citation: '+r['name'])
         if any('\\' in c for c in r['cells']): errors.append('Residual TeX: '+r['name'])
 for f in list(ROOT.rglob('*.md'))+list((ROOT/'homepage').glob('*.html')):
+    if f.name in {'BUILD_REPORT.md','RELEASE_CHECKLIST.md','UPLOAD_GUIDE.md','MAINTAINING.md'} or '.git' in f.parts or 'audit-cache' in f.parts: continue
     text=f.read_text()
     links=re.findall(r'\]\(([^)]+)\)',text)+re.findall(r'(?:href|src)="([^"]+)"',text)
     for link in links:

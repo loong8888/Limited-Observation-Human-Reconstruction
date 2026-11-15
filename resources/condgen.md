@@ -5,7 +5,7 @@ Generate human geometry or appearance from semantic, identity, or latent conditi
 
 > Conditional generation need not recover a particular observed subject. Body scaffolds and volumetric primitives do not automatically imply full clothed-surface recovery.
 
-These rows reproduce the manuscript inventory. Years and technical labels are imported; see the [provenance policy](../data/README.md). PA = pixel alignment; VA = voxel alignment; SDS = score distillation. A dash means unreported or not specified by the source table.
+We summarize representative work reviewed in our survey below. PA = pixel alignment; VA = voxel alignment; SDS = score distillation. A dash indicates information not reported in the cited source.
 
 ## Text-driven score distillation
 

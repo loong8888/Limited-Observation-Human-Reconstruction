@@ -1,7 +1,7 @@
 # Paper Index
 [Back to repository](../README.md) · [BibTeX](../data/references.bib) · [Searchable catalogue](../homepage/index.html)
 
-Every record has a publisher, arXiv, proceedings, or DOI source link. Metadata corrections and version distinctions are recorded in the [audit](reference-audit.md). Inventory links indicate manuscript placement, including neighboring work, not exclusive classification. A direct PDF is optional; the source landing page remains the stable entry point.
+We collect the methods, datasets, and foundational studies discussed in our survey. Follow each title to the paper source, and use the PDF, project, and code links where available. Category links connect papers to our mechanism-based taxonomy; hybrid methods may appear in more than one inventory. Earlier titles are retained as aliases where relevant.
 
 Years: [2027](#year-2027) · [2026](#year-2026) · [2025](#year-2025) · [2024](#year-2024) · [2023](#year-2023) · [2022](#year-2022) · [2021](#year-2021) · [2020](#year-2020) · [2019](#year-2019) · [2018](#year-2018) · [2017](#year-2017) · [2016](#year-2016) · [2015](#year-2015) · [2005](#year-2005) · [1999](#year-1999)
 
@@ -15,7 +15,7 @@ Fan, Jinlong and Xu, Yaotian and Zhao, Haimei and Yang, Yuxiang and Zhang, Jing.
 
 Inventory: [Generative-Prior-Guided Optimization](priorguided.md)
 
-Use the title/source link above for the paper; no confirmed direct PDF is supplied.
+
 
 <details><summary>BibTeX</summary>
 
@@ -40,9 +40,9 @@ Use the title/source link above for the paper; no confirmed direct PDF is suppli
 
 Wilser, Nicola and Cordier, Frédéric and Maillot, Yvan. **International Journal of Image and Graphics**, 2026.
 
-Context: cited in the survey; not listed in the seven imported method/dataset inventories.
+Related foundations and context for our survey.
 
-Use the title/source link above for the paper; no confirmed direct PDF is supplied.
+
 
 <details><summary>BibTeX</summary>
 
@@ -64,9 +64,9 @@ Use the title/source link above for the paper; no confirmed direct PDF is suppli
 
 Chen, Guikun and Wang, Wenguan. **ACM Computing Surveys**, 2026.
 
-Context: cited in the survey; not listed in the seven imported method/dataset inventories.
+Related foundations and context for our survey.
 
-[PDF](https://arxiv.org/pdf/2401.03890) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2401.03890)
 
 <details><summary>BibTeX</summary>
 
@@ -89,9 +89,9 @@ Context: cited in the survey; not listed in the seven imported method/dataset in
 
 Mazur, Kirill and Karaev, Nikita and Chang, Matthew and Malik, Jitendra and Shafiullah, Nur Muhammad "Mahi''. **arXiv preprint arXiv:2609.24487**, 2026.
 
-Context: cited in the survey; not listed in the seven imported method/dataset inventories.
+Related foundations and context for our survey.
 
-[PDF](https://arxiv.org/pdf/2609.24487) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2609.24487)
 
 <details><summary>BibTeX</summary>
 
@@ -112,7 +112,7 @@ Mir, Aymen and Guler, Riza Alp and Tang, Xiangjun and Wonka, Peter and Pons-Moll
 
 Inventory: [Generative-Prior-Guided Optimization](priorguided.md)
 
-[PDF](https://arxiv.org/pdf/2603.17975) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2603.17975)
 
 <details><summary>BibTeX</summary>
 
@@ -134,9 +134,9 @@ Inventory: [Generative-Prior-Guided Optimization](priorguided.md)
 
 Chen, Dong-Lin and Mohd Rahim, Mohd Shafry and Sim, Hiew Moi and Wang, Bin and Li, Min-Song and Haidar Abdullah, Asniyani Nur. **Journal of King Saud University - Computer and Information Sciences**, 2026.
 
-Context: cited in the survey; not listed in the seven imported method/dataset inventories.
+Related foundations and context for our survey.
 
-[PDF](https://link.springer.com/content/pdf/10.1007/s44443-025-00460-1.pdf) — PDF response confirmed.
+[PDF](https://link.springer.com/content/pdf/10.1007/s44443-025-00460-1.pdf)
 
 <details><summary>BibTeX</summary>
 
@@ -161,7 +161,7 @@ Wu, Renlong and Zhang, Zhilu and Chen, Mingyang and Yan, Zifei and Zuo, Wangmeng
 
 Inventory: [Generative-Prior-Guided Optimization](priorguided.md)
 
-Use the title/source link above for the paper; no confirmed direct PDF is supplied.
+
 
 <details><summary>BibTeX</summary>
 
@@ -184,9 +184,9 @@ Use the title/source link above for the paper; no confirmed direct PDF is suppli
 
 Qu, Yansong and Dai, Shaohui and Li, Xinyang and Wang, Yuze and Shen, You and Zhang, Shengchuan and Cao, Liujuan. **Proceedings of the AAAI Conference on Artificial Intelligence**, 2026.
 
-Context: cited in the survey; not listed in the seven imported method/dataset inventories.
+Related foundations and context for our survey.
 
-Use the title/source link above for the paper; no confirmed direct PDF is supplied.
+
 
 <details><summary>BibTeX</summary>
 
@@ -211,7 +211,7 @@ Li, Jiakun and Fang, Li and Zhu, Hao and Hu, Fei and Ye, Long and Zhang, Yuan an
 
 Inventory: [Generative-Prior-Guided Optimization](priorguided.md)
 
-[PDF](https://arxiv.org/pdf/2608.20759) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2608.20759)
 
 <details><summary>BibTeX</summary>
 
@@ -235,9 +235,7 @@ Peng, Cheng and Su, Zhuo and Wang, Liao and Guo, Chen and Li, Zhaohu and Long, C
 
 Inventory: [Feed-Forward Generative Reconstruction](feedforward.md)
 
-[PDF](https://arxiv.org/pdf/2512.17717) — PDF linked by primary source.
-
-[Project](https://pengc02.github.io/flexavatar/) — Author project linked by primary source.
+[PDF](https://arxiv.org/pdf/2512.17717) · [Project](https://pengc02.github.io/flexavatar/)
 
 <details><summary>BibTeX</summary>
 
@@ -261,9 +259,7 @@ Wu, Yiqian and Khirodkar, Rawal and Zakharov, Egor and Bagautdinov, Timur and Xi
 
 Inventory: [Conditional Generation](condgen.md)
 
-[PDF](https://arxiv.org/pdf/2604.07273) — PDF response confirmed.
-
-[Project](https://onethousandwu.com/GenLCA-Page/) — accessible; provenance requires source review.
+[PDF](https://arxiv.org/pdf/2604.07273) · [Project](https://onethousandwu.com/GenLCA-Page/)
 
 <details><summary>BibTeX</summary>
 
@@ -287,7 +283,7 @@ Abe, Keito and Shiohara, Kaede and Otonari, Takashi and Yamasaki, Toshihiko. **a
 
 Inventory: [Template-Constrained Fitting](template.md)
 
-[PDF](https://arxiv.org/pdf/2607.05243) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2607.05243)
 
 <details><summary>BibTeX</summary>
 
@@ -308,9 +304,7 @@ CHEN, YUE and Chen, Xingyu and Xue, Yuxuan and Chen, Anpei and Xiu, Yuliang and 
 
 Inventory: [Template-Constrained Fitting](template.md) · [Feed-Forward Generative Reconstruction](feedforward.md)
 
-[PDF](https://proceedings.iclr.cc/paper_files/paper/2026/file/467c017e2639255e9c5d91a2e582f95a-Paper-Conference.pdf) — PDF linked by primary source.
-
-[Project](https://fanegg.github.io/Human3R/) — Author project linked by primary source.
+[PDF](https://proceedings.iclr.cc/paper_files/paper/2026/file/467c017e2639255e9c5d91a2e582f95a-Paper-Conference.pdf) · [Project](https://fanegg.github.io/Human3R/)
 
 <details><summary>BibTeX</summary>
 
@@ -333,7 +327,7 @@ Fan, Jinlong and Zhao, Shanshan and Zheng, Liang and Zhang, Jing and Yang, Yuxia
 
 Inventory: [Generative-Prior-Guided Optimization](priorguided.md)
 
-[PDF](https://arxiv.org/pdf/2601.02098) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2601.02098)
 
 <details><summary>BibTeX</summary>
 
@@ -354,9 +348,7 @@ Liu, Zhizheng and Lin, Joe and Wu, Wayne and Zhou, Bolei. **International Confer
 
 Inventory: [Template-Constrained Fitting](template.md)
 
-Use the title/source link above for the paper; no confirmed direct PDF is supplied.
-
-[Code](https://github.com/genforce/JOSH) — Official implementation identified through author/paper source.
+[Code](https://github.com/genforce/JOSH)
 
 <details><summary>BibTeX</summary>
 
@@ -379,7 +371,7 @@ Xi, Dianbing and An, Guoyuan and Zhu, Jingsen and Liu, Zhijian and Liu, Yuan and
 
 Inventory: [Generative-Prior-Guided Optimization](priorguided.md)
 
-Use the title/source link above for the paper; no confirmed direct PDF is supplied.
+
 
 <details><summary>BibTeX</summary>
 
@@ -404,7 +396,7 @@ Zhang, Muxin and Yu, Chaohui and Yang, Yuanwang and Wei, Min and Su, Zhuo and Li
 
 Inventory: [Conditional Generation](condgen.md)
 
-[PDF](https://arxiv.org/pdf/2608.12175) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2608.12175)
 
 <details><summary>BibTeX</summary>
 
@@ -425,13 +417,9 @@ Inventory: [Conditional Generation](condgen.md)
 
 Guo, Fengzhi and Hsu, Chih-Chuan and Ding, Sihao and Zhang, Cheng. **International Conference on Learning Representations (ICLR)**, 2026.
 
-Context: cited in the survey; not listed in the seven imported method/dataset inventories.
+Related foundations and context for our survey.
 
-[PDF](https://proceedings.iclr.cc/paper_files/paper/2026/file/26300457961c3e056ea61c9d3ebec2a4-Paper-Conference.pdf) — PDF linked by primary source.
-
-[Project](https://tamu-visual-ai.github.io/usplat4d/) — Author project linked by primary source.
-
-[Code](https://github.com/TAMU-Visual-AI/usplat4d) — Official implementation identified through author/paper source.
+[PDF](https://proceedings.iclr.cc/paper_files/paper/2026/file/26300457961c3e056ea61c9d3ebec2a4-Paper-Conference.pdf) · [Project](https://tamu-visual-ai.github.io/usplat4d/) · [Code](https://github.com/TAMU-Visual-AI/usplat4d)
 
 <details><summary>BibTeX</summary>
 
@@ -454,7 +442,7 @@ Wang, Weiquan and Shao, Feifei and Li, Lin and Wang, Zhen and Zhang, Fengda and 
 
 Inventory: [Canonical-Space Temporal Aggregation](temporal.md)
 
-[PDF](https://arxiv.org/pdf/2602.06343) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2602.06343)
 
 <details><summary>BibTeX</summary>
 
@@ -475,7 +463,7 @@ Cai, Zeyu and Li, Ziyang and Li, Xiaoben and Li, Boqian and Wang, Zeyu and Zhang
 
 Inventory: [Generative-Prior-Guided Optimization](priorguided.md)
 
-[PDF](https://proceedings.iclr.cc/paper_files/paper/2026/file/63fa7efdd3bcf944a4bd6e0ff6a50041-Paper-Conference.pdf) — PDF linked by primary source.
+[PDF](https://proceedings.iclr.cc/paper_files/paper/2026/file/63fa7efdd3bcf944a4bd6e0ff6a50041-Paper-Conference.pdf)
 
 <details><summary>BibTeX</summary>
 
@@ -496,9 +484,9 @@ Inventory: [Generative-Prior-Guided Optimization](priorguided.md)
 
 Huang, Shuo and Wang, Zixuan and Qin, Xiaoyu and Sun, Shikun and Li, Jiayi and Jia, Jia. **ACM SIGGRAPH Conference Papers**, 2026.
 
-Context: cited in the survey; not listed in the seven imported method/dataset inventories.
+Related foundations and context for our survey.
 
-Use the title/source link above for the paper; no confirmed direct PDF is supplied.
+
 
 <details><summary>BibTeX</summary>
 
@@ -523,9 +511,9 @@ Use the title/source link above for the paper; no confirmed direct PDF is suppli
 
 Gu, Meiying and Li, Jiahe and Wu, Yuchen and Luo, Haonan and Zheng, Jin and Bai, Xiao. **Image and Vision Computing**, 2025.
 
-Context: cited in the survey; not listed in the seven imported method/dataset inventories.
+Related foundations and context for our survey.
 
-Use the title/source link above for the paper; no confirmed direct PDF is supplied.
+
 
 <details><summary>BibTeX</summary>
 
@@ -549,7 +537,7 @@ Huang, Yangyi and Yuan, Ye and Li, Xueting and Kautz, Jan and Iqbal, Umar. **Pro
 
 Inventory: [Generative-Prior-Guided Optimization](priorguided.md)
 
-[PDF](https://arxiv.org/pdf/2505.24877) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2505.24877)
 
 <details><summary>BibTeX</summary>
 
@@ -571,9 +559,9 @@ Inventory: [Generative-Prior-Guided Optimization](priorguided.md)
 
 Zhu, Kaiwen and Gu, Jinjin and You, Zhiyuan and Qiao, Yu and Dong, Chao. **International Conference on Learning Representations (ICLR)**, 2025.
 
-Context: cited in the survey; not listed in the seven imported method/dataset inventories.
+Related foundations and context for our survey.
 
-[PDF](https://proceedings.iclr.cc/paper_files/paper/2025/file/921ac785fa9edc73cacaf2664f43d234-Paper-Conference.pdf) — PDF linked by primary source.
+[PDF](https://proceedings.iclr.cc/paper_files/paper/2025/file/921ac785fa9edc73cacaf2664f43d234-Paper-Conference.pdf)
 
 <details><summary>BibTeX</summary>
 
@@ -596,9 +584,7 @@ Qiu, Lingteng and Zhu, Shenhao and Zuo, Qi and Gu, Xiaodong and Dong, Yuan and Z
 
 Inventory: [Generative-Prior-Guided Optimization](priorguided.md)
 
-[PDF](https://arxiv.org/pdf/2412.02684) — PDF response confirmed.
-
-[Code](https://github.com/aigc3d/AniGS) — accessible; provenance requires source review.
+[PDF](https://arxiv.org/pdf/2412.02684) · [Code](https://github.com/aigc3d/AniGS)
 
 <details><summary>BibTeX</summary>
 
@@ -622,9 +608,7 @@ Kirschstein, Tobias and Romero, Javier and Sevastopolsky, Artem and Niener, Matt
 
 Inventory: [Feed-Forward Generative Reconstruction](feedforward.md)
 
-[PDF](https://arxiv.org/pdf/2502.20220) — PDF response confirmed.
-
-[Project](https://tobias-kirschstein.github.io/avat3r/) — accessible; provenance requires source review.
+[PDF](https://arxiv.org/pdf/2502.20220) · [Project](https://tobias-kirschstein.github.io/avat3r/)
 
 <details><summary>BibTeX</summary>
 
@@ -648,7 +632,7 @@ Taubner, Felix and Zhang, Ruihang and Tuli, Mathieu and Lindell, David B.. **Pro
 
 Inventory: [Generative-Prior-Guided Optimization](priorguided.md)
 
-[PDF](https://arxiv.org/pdf/2412.12093) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2412.12093)
 
 <details><summary>BibTeX</summary>
 
@@ -672,7 +656,7 @@ Bian, Siyuan and Xu, Chenghao and Xiu, Yuliang and Grigorev, Artur and Liu, Zhen
 
 Inventory: [Template-Constrained Fitting](template.md)
 
-[PDF](https://arxiv.org/pdf/2412.17811) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2412.17811)
 
 <details><summary>BibTeX</summary>
 
@@ -694,9 +678,9 @@ Inventory: [Template-Constrained Fitting](template.md)
 
 Lin, Jing and Feng, Yao and Liu, Weiyang and Black, Michael J.. **Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)**, 2025.
 
-Context: cited in the survey; not listed in the seven imported method/dataset inventories.
+Related foundations and context for our survey.
 
-[PDF](https://arxiv.org/pdf/2405.04533) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2405.04533)
 
 <details><summary>BibTeX</summary>
 
@@ -720,7 +704,7 @@ Dutta, Arindam and Zheng, Meng and Gao, Zhongpai and Planche, Benjamin and Choud
 
 Inventory: [Generative-Prior-Guided Optimization](priorguided.md)
 
-[PDF](https://arxiv.org/pdf/2503.15671) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2503.15671)
 
 <details><summary>BibTeX</summary>
 
@@ -744,7 +728,7 @@ Luo, Xianrui and Peng, Juewen and Cai, Zhongang and Yang, Lei and Yang, Fan and 
 
 Inventory: [Generative-Prior-Guided Optimization](priorguided.md)
 
-[PDF](https://arxiv.org/pdf/2501.13335) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2501.13335)
 
 <details><summary>BibTeX</summary>
 
@@ -765,7 +749,7 @@ Lu, Junzhe and Lin, Jing and Dou, Hongkun and Zeng, Ailing and Deng, Yue and Liu
 
 Inventory: [Template-Constrained Fitting](template.md)
 
-[PDF](https://arxiv.org/pdf/2508.00599) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2508.00599)
 
 <details><summary>BibTeX</summary>
 
@@ -789,7 +773,7 @@ Huang, Yukun and Wang, Jianan and Zeng, Ailing and Zha, Zheng-Jun and Zhang, Lei
 
 Inventory: [Conditional Generation](condgen.md)
 
-[PDF](https://arxiv.org/pdf/2409.17145) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2409.17145)
 
 <details><summary>BibTeX</summary>
 
@@ -813,7 +797,7 @@ Tang, Jiapeng and Davoli, Davide and Kirschstein, Tobias and Schoneveld, Liam an
 
 Inventory: [Generative-Prior-Guided Optimization](priorguided.md)
 
-[PDF](https://arxiv.org/pdf/2412.10209) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2412.10209)
 
 <details><summary>BibTeX</summary>
 
@@ -837,7 +821,7 @@ Lu, Yixing and Dong, Junting and Kwon, Youngjoong and Zhao, Qin and Dai, Bo and 
 
 Inventory: [Generative-Prior-Guided Optimization](priorguided.md)
 
-[PDF](https://arxiv.org/pdf/2502.06957) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2502.06957)
 
 <details><summary>BibTeX</summary>
 
@@ -861,7 +845,7 @@ Tu, Hanzhang and Liao, Zhanfeng and Zhou, Boyao and Zheng, Shunyuan and Zhou, Xi
 
 Inventory: [Feature-Aligned Reconstruction](feature.md)
 
-Use the title/source link above for the paper; no confirmed direct PDF is supplied.
+
 
 <details><summary>BibTeX</summary>
 
@@ -885,7 +869,7 @@ Xue, Yuxuan and Xie, Xianghui and Marin, Riccardo and Pons-Moll, Gerard. **IEEE 
 
 Inventory: [Generative-Prior-Guided Optimization](priorguided.md)
 
-[PDF](https://arxiv.org/pdf/2412.06698) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2412.06698)
 
 <details><summary>BibTeX</summary>
 
@@ -909,7 +893,7 @@ Wang, Wentao and Ye, Hang and Hong, Fangzhou and Yang, Xue and Zhang, Jianfu and
 
 Inventory: [Generative-Prior-Guided Optimization](priorguided.md)
 
-[PDF](https://arxiv.org/pdf/2411.18624) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2411.18624)
 
 <details><summary>BibTeX</summary>
 
@@ -933,7 +917,7 @@ Saleem, Muhammad Usama and Pinyoanuntapong, Ekkasit and Wang, Pu and Xue, Hongfe
 
 Inventory: [Template-Constrained Fitting](template.md)
 
-Use the title/source link above for the paper; no confirmed direct PDF is supplied.
+
 
 <details><summary>BibTeX</summary>
 
@@ -958,7 +942,7 @@ Chen, Xiyi and Wang, Shaofei and Mihajlovic, Marko and Kang, Taewon and Prokudin
 
 Inventory: [Feed-Forward Generative Reconstruction](feedforward.md)
 
-[PDF](https://arxiv.org/pdf/2509.26621) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2509.26621)
 
 <details><summary>BibTeX</summary>
 
@@ -979,7 +963,7 @@ Tang, Yingzhi and Zhang, Qijian and Liu, Yebin and Hou, Junhui. **IEEE Transacti
 
 Inventory: [Feature-Aligned Reconstruction](feature.md)
 
-[PDF](https://arxiv.org/pdf/2311.02892) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2311.02892)
 
 <details><summary>BibTeX</summary>
 
@@ -1004,7 +988,7 @@ Hu, Shoukang and Narihira, Takuya and Fukuda, Kazumi and Sawata, Ryosuke and Shi
 
 Inventory: [Conditional Generation](condgen.md)
 
-[PDF](https://arxiv.org/pdf/2502.12080) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2502.12080)
 
 <details><summary>BibTeX</summary>
 
@@ -1025,7 +1009,7 @@ Yu, Zhiyuan and Li, Zhe and Bao, Hujun and Yang, Can and Zhou, Xiaowei. **ACM SI
 
 Inventory: [Feed-Forward Generative Reconstruction](feedforward.md)
 
-[PDF](https://arxiv.org/pdf/2506.03118) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2506.03118)
 
 <details><summary>BibTeX</summary>
 
@@ -1049,9 +1033,7 @@ Zhuang, Yiyu and Lv, Jiaxi and Wen, Hao and Shuai, Qing and Zeng, Ailing and Zhu
 
 Inventory: [Feed-Forward Generative Reconstruction](feedforward.md) · [Datasets and Capture Resources](datasets.md)
 
-[PDF](https://arxiv.org/pdf/2412.14963) — PDF response confirmed.
-
-[Code](https://github.com/yiyuzhuang/IDOL) — accessible; provenance requires source review.
+[PDF](https://arxiv.org/pdf/2412.14963) · [Code](https://github.com/yiyuzhuang/IDOL)
 
 <details><summary>BibTeX</summary>
 
@@ -1073,9 +1055,9 @@ Inventory: [Feed-Forward Generative Reconstruction](feedforward.md) · [Datasets
 
 Yang, Shuo and Gu, Xiaoling and Kuang, Zhenzhong and Qin, Feiwei and Wu, Zizhao. **The Visual Computer**, 2025.
 
-Context: cited in the survey; not listed in the seven imported method/dataset inventories.
+Related foundations and context for our survey.
 
-Use the title/source link above for the paper; no confirmed direct PDF is supplied.
+
 
 <details><summary>BibTeX</summary>
 
@@ -1102,9 +1084,7 @@ Earlier title / alias: PF-LHM: 3D Animatable Avatar Reconstruction from Pose-fre
 
 Inventory: [Feed-Forward Generative Reconstruction](feedforward.md)
 
-[PDF](https://arxiv.org/pdf/2506.13766) — PDF linked by primary source.
-
-[Project](https://lingtengqiu.github.io/LHM++/) — Author project linked by primary source.
+[PDF](https://arxiv.org/pdf/2506.13766) · [Project](https://lingtengqiu.github.io/LHM++/)
 
 <details><summary>BibTeX</summary>
 
@@ -1127,9 +1107,7 @@ Qiu, Lingteng and Gu, Xiaodong and Li, Peihao and Zuo, Qi and Shen, Weichao and 
 
 Inventory: [Feed-Forward Generative Reconstruction](feedforward.md)
 
-[PDF](https://openaccess.thecvf.com/content/ICCV2025/papers/Qiu_LHM_Large_Animatable_Human_Reconstruction_Model_for_Single_Image_to_ICCV_2025_paper.pdf) — PDF linked by primary source.
-
-[Code](https://github.com/aigc3d/LHM) — accessible; provenance requires source review.
+[PDF](https://openaccess.thecvf.com/content/ICCV2025/papers/Qiu_LHM_Large_Animatable_Human_Reconstruction_Model_for_Single_Image_to_ICCV_2025_paper.pdf) · [Code](https://github.com/aigc3d/LHM)
 
 <details><summary>BibTeX</summary>
 
@@ -1153,7 +1131,7 @@ He, Xu and Wu, Zhiyong and Li, Xiaoyu and Kang, Di and Zhang, Chaopeng and Ye, J
 
 Inventory: [Generative-Prior-Guided Optimization](priorguided.md)
 
-Use the title/source link above for the paper; no confirmed direct PDF is supplied.
+
 
 <details><summary>BibTeX</summary>
 
@@ -1178,7 +1156,7 @@ Dong, Zijian and Duan, Longteng and Song, Jie and Black, Michael J. and Geiger, 
 
 Inventory: [Generative-Prior-Guided Optimization](priorguided.md)
 
-[PDF](https://arxiv.org/pdf/2507.23597) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2507.23597)
 
 <details><summary>BibTeX</summary>
 
@@ -1200,9 +1178,9 @@ Inventory: [Generative-Prior-Guided Optimization](priorguided.md)
 
 Liu, Xinhang and Tai, Yu-Wing and Tang, Chi-Keung. **arXiv preprint arXiv:2503.08165**, 2025.
 
-Context: cited in the survey; not listed in the seven imported method/dataset inventories.
+Related foundations and context for our survey.
 
-[PDF](https://arxiv.org/pdf/2503.08165) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2503.08165)
 
 <details><summary>BibTeX</summary>
 
@@ -1223,7 +1201,7 @@ Taubner, Felix and Zhang, Ruihang and Tuli, Mathieu and Bahmani, Sherwin and Lin
 
 Inventory: [Generative-Prior-Guided Optimization](priorguided.md)
 
-[PDF](https://arxiv.org/pdf/2510.12785) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2510.12785)
 
 <details><summary>BibTeX</summary>
 
@@ -1247,7 +1225,7 @@ Ye, Jingrui and Zhang, Zhongkai and Liao, Qingmin. **Proceedings of the Internat
 
 Inventory: [Canonical-Space Temporal Aggregation](temporal.md)
 
-Use the title/source link above for the paper; no confirmed direct PDF is supplied.
+
 
 <details><summary>BibTeX</summary>
 
@@ -1271,7 +1249,7 @@ Zhang, Zetong and Kaufmann, Manuel and Xue, Lixin and Song, Jie and Oswald, Mart
 
 Inventory: [Template-Constrained Fitting](template.md)
 
-Use the title/source link above for the paper; no confirmed direct PDF is supplied.
+
 
 <details><summary>BibTeX</summary>
 
@@ -1293,9 +1271,9 @@ Use the title/source link above for the paper; no confirmed direct PDF is suppli
 
 Yalandur Muralidhar, Pradyumna and Xue, Yuxuan and Xie, Xianghui and Kostyrko, Margaret and Pons-Moll, Gerard. **ACM SIGGRAPH Asia Conference Papers**, 2025.
 
-Context: cited in the survey; not listed in the seven imported method/dataset inventories.
+Related foundations and context for our survey.
 
-[PDF](https://arxiv.org/pdf/2510.11649) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2510.11649)
 
 <details><summary>BibTeX</summary>
 
@@ -1319,9 +1297,7 @@ Kant, Yash and Weber, Ethan and Kim, Jin Kyu and Khirodkar, Rawal and Zhaoen, Su
 
 Inventory: [Generative-Prior-Guided Optimization](priorguided.md)
 
-[PDF](https://arxiv.org/pdf/2502.07785) — PDF response confirmed.
-
-[Code](https://github.com/facebookresearch/pippo) — accessible; provenance requires source review.
+[PDF](https://arxiv.org/pdf/2502.07785) · [Code](https://github.com/facebookresearch/pippo)
 
 <details><summary>BibTeX</summary>
 
@@ -1345,7 +1321,7 @@ Yang, Wendi and Jiang, Zi-Hang and Zhao, Shang and Zhou, S. Kevin. **Proceedings
 
 Inventory: [Template-Constrained Fitting](template.md)
 
-[PDF](https://arxiv.org/pdf/2403.12473) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2403.12473)
 
 <details><summary>BibTeX</summary>
 
@@ -1369,9 +1345,7 @@ Wang, Yufu and Sun, Yu and Patel, Priyanka and Daniilidis, Kostas and Black, Mic
 
 Inventory: [Template-Constrained Fitting](template.md)
 
-[PDF](https://arxiv.org/pdf/2504.06397) — PDF response confirmed.
-
-[Code](https://github.com/yufu-wang/PromptHMR) — accessible; provenance requires source review.
+[PDF](https://arxiv.org/pdf/2504.06397) · [Code](https://github.com/yufu-wang/PromptHMR)
 
 <details><summary>BibTeX</summary>
 
@@ -1395,7 +1369,7 @@ Li, Peng and Zheng, Wangguandong and Liu, Yuan and Yu, Tao and Li, Yangguang and
 
 Inventory: [Generative-Prior-Guided Optimization](priorguided.md)
 
-[PDF](https://arxiv.org/pdf/2409.10141) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2409.10141)
 
 <details><summary>BibTeX</summary>
 
@@ -1419,7 +1393,7 @@ M\"uller, Lea and Choi, Hongsuk and Zhang, Anthony and Yi, Brent and Malik, Jite
 
 Inventory: [Template-Constrained Fitting](template.md)
 
-[PDF](https://arxiv.org/pdf/2412.17806) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2412.17806)
 
 <details><summary>BibTeX</summary>
 
@@ -1443,7 +1417,7 @@ Xiang, Tiange and Sun, Adam and Delp, Scott and Kozuka, Kazuki and Fei-Fei, Li a
 
 Inventory: [Canonical-Space Temporal Aggregation](temporal.md)
 
-[PDF](https://arxiv.org/pdf/2401.00431) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2401.00431)
 
 <details><summary>BibTeX</summary>
 
@@ -1467,7 +1441,7 @@ Xiao, Junjin and Zhang, Qing and Nie, Yonewei and Zhu, Lei and Zheng, Wei-Shi. *
 
 Inventory: [Feature-Aligned Reconstruction](feature.md)
 
-Use the title/source link above for the paper; no confirmed direct PDF is supplied.
+
 
 <details><summary>BibTeX</summary>
 
@@ -1491,9 +1465,7 @@ Yang, Yuhang and Liu, Fengqi and Lu, Yixing and Zhao, Qin and Wu, Pingyu and Zha
 
 Inventory: [Feed-Forward Generative Reconstruction](feedforward.md)
 
-[PDF](https://arxiv.org/pdf/2504.06982) — PDF response confirmed.
-
-[Project](https://yyvhang.github.io/SIGMAN_3D/) — accessible; provenance requires source review.
+[PDF](https://arxiv.org/pdf/2504.06982) · [Project](https://yyvhang.github.io/SIGMAN_3D/)
 
 <details><summary>BibTeX</summary>
 
@@ -1517,7 +1489,7 @@ Wu, Yufan and Chen, Xuanhong and Li, Wen and Jia, Shunran and Wei, Hualiang and 
 
 Inventory: [Generative-Prior-Guided Optimization](priorguided.md)
 
-Use the title/source link above for the paper; no confirmed direct PDF is supplied.
+
 
 <details><summary>BibTeX</summary>
 
@@ -1541,7 +1513,7 @@ Jiang, Guangan and Zhang, Tianzi and Li, Dong and Zhao, Zhenjun and Li, Haoang a
 
 Inventory: [Canonical-Space Temporal Aggregation](temporal.md)
 
-Use the title/source link above for the paper; no confirmed direct PDF is supplied.
+
 
 <details><summary>BibTeX</summary>
 
@@ -1565,7 +1537,7 @@ Jiang, Zekai and Duan, Tong and Zhang, Dongyu. **IEEE International Conference o
 
 Inventory: [Canonical-Space Temporal Aggregation](temporal.md)
 
-Use the title/source link above for the paper; no confirmed direct PDF is supplied.
+
 
 <details><summary>BibTeX</summary>
 
@@ -1589,7 +1561,7 @@ Zhu, Yan and Qian, Yu and Dai, Renlong and Wang, Linbo and Liu, Zhengyi and Fang
 
 Inventory: [Template-Constrained Fitting](template.md)
 
-Use the title/source link above for the paper; no confirmed direct PDF is supplied.
+
 
 <details><summary>BibTeX</summary>
 
@@ -1613,7 +1585,7 @@ Wehrbein, Tom and Rudolph, Marco and Rosenhahn, Bodo and Wandt, Bastian. **Proce
 
 Inventory: [Template-Constrained Fitting](template.md)
 
-[PDF](https://arxiv.org/pdf/2411.16289) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2411.16289)
 
 <details><summary>BibTeX</summary>
 
@@ -1637,7 +1609,7 @@ Guo, Chen and Li, Junxuan and Kant, Yash and Sheikh, Yaser and Saito, Shunsuke a
 
 Inventory: [Canonical-Space Temporal Aggregation](temporal.md)
 
-[PDF](https://arxiv.org/pdf/2503.01610) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2503.01610)
 
 <details><summary>BibTeX</summary>
 
@@ -1661,9 +1633,7 @@ Huang, Zihao and Hu, Shoukang and Wang, Guangcong and Liu, Tianqi and Zang, Yuha
 
 Inventory: [Datasets and Capture Resources](datasets.md)
 
-[PDF](https://arxiv.org/pdf/2407.02165) — PDF response confirmed.
-
-[Project](https://wildavatar.github.io/) — accessible; provenance requires source review.
+[PDF](https://arxiv.org/pdf/2407.02165) · [Project](https://wildavatar.github.io/)
 
 <details><summary>BibTeX</summary>
 
@@ -1690,7 +1660,7 @@ Shao, Ruizhi and Pang, Youxin and Zheng, Zerong and Sun, Jingxiang and Liu, Yebi
 
 Inventory: [Generative-Prior-Guided Optimization](priorguided.md)
 
-[PDF](https://arxiv.org/pdf/2405.17405) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2405.17405)
 
 <details><summary>BibTeX</summary>
 
@@ -1715,7 +1685,7 @@ Qian, Zhiyin and Wang, Shaofei and Mihajlovic, Marko and Geiger, Andreas and Tan
 
 Inventory: [Canonical-Space Temporal Aggregation](temporal.md)
 
-[PDF](https://arxiv.org/pdf/2312.09228) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2312.09228)
 
 <details><summary>BibTeX</summary>
 
@@ -1739,7 +1709,7 @@ Wang, Wenbo and Ho, Hsuan-I and Guo, Chen and Rong, Boxiang and Grigorev, Artur 
 
 Inventory: [Datasets and Capture Resources](datasets.md)
 
-[PDF](https://arxiv.org/pdf/2404.18630) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2404.18630)
 
 <details><summary>BibTeX</summary>
 
@@ -1761,9 +1731,9 @@ Inventory: [Datasets and Capture Resources](datasets.md)
 
 Wang, Ruihe and Cao, Yukang and Han, Kai and Wong, Kwan-Yee K.. **arXiv preprint arXiv:2406.04253**, 2024.
 
-Context: cited in the survey; not listed in the seven imported method/dataset inventories.
+Related foundations and context for our survey.
 
-[PDF](https://arxiv.org/pdf/2406.04253) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2406.04253)
 
 <details><summary>BibTeX</summary>
 
@@ -1782,9 +1752,9 @@ Context: cited in the survey; not listed in the seven imported method/dataset in
 
 Xia, Weihao and Xue, Jing-Hao. **ACM Computing Surveys**, 2024.
 
-Context: cited in the survey; not listed in the seven imported method/dataset inventories.
+Related foundations and context for our survey.
 
-Use the title/source link above for the paper; no confirmed direct PDF is supplied.
+
 
 <details><summary>BibTeX</summary>
 
@@ -1809,7 +1779,7 @@ Pesavento, Marco and Xu, Yuanlu and Sarafianos, Nikolaos and Maier, Robert and W
 
 Inventory: [Template-Constrained Fitting](template.md) · [Feature-Aligned Reconstruction](feature.md)
 
-[PDF](https://openaccess.thecvf.com/content/CVPR2024/papers/Pesavento_ANIM_Accurate_Neural_Implicit_Model_for_Human_Reconstruction_from_a_CVPR_2024_paper.pdf) — PDF linked by primary source.
+[PDF](https://openaccess.thecvf.com/content/CVPR2024/papers/Pesavento_ANIM_Accurate_Neural_Implicit_Model_for_Human_Reconstruction_from_a_CVPR_2024_paper.pdf)
 
 <details><summary>BibTeX</summary>
 
@@ -1834,7 +1804,7 @@ Hu, Li. **Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern 
 
 Inventory: [Conditional Generation](condgen.md)
 
-[PDF](https://arxiv.org/pdf/2311.17117) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2311.17117)
 
 <details><summary>BibTeX</summary>
 
@@ -1856,9 +1826,9 @@ Inventory: [Conditional Generation](condgen.md)
 
 Zhao, Lingzhe and Wang, Peng and Liu, Peidong. **European Conference on Computer Vision (ECCV)**, 2024.
 
-Context: cited in the survey; not listed in the seven imported method/dataset inventories.
+Related foundations and context for our survey.
 
-[PDF](https://arxiv.org/pdf/2403.11831) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2403.11831)
 
 <details><summary>BibTeX</summary>
 
@@ -1882,7 +1852,7 @@ Zhu, Shenhao and Chen, Junming Leo and Dai, Zuozhuo and Dong, Zilong and Xu, Yin
 
 Inventory: [Conditional Generation](condgen.md)
 
-[PDF](https://arxiv.org/pdf/2403.14781) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2403.14781)
 
 <details><summary>BibTeX</summary>
 
@@ -1906,9 +1876,7 @@ Feng, Yao and Lin, Jing and Dwivedi, Sai Kumar and Sun, Yu and Patel, Priyanka a
 
 Inventory: [Template-Constrained Fitting](template.md)
 
-[PDF](https://arxiv.org/pdf/2311.18836) — PDF response confirmed.
-
-[Code](https://github.com/yfeng95/PoseGPT) — accessible; provenance requires source review.
+[PDF](https://arxiv.org/pdf/2311.18836) · [Code](https://github.com/yfeng95/PoseGPT)
 
 <details><summary>BibTeX</summary>
 
@@ -1930,9 +1898,9 @@ Inventory: [Template-Constrained Fitting](template.md)
 
 Lee, Byeonghyeon and Lee, Howoong and Sun, Xiangyu and Ali, Usman and Park, Eunbyung. **European Conference on Computer Vision (ECCV)**, 2024.
 
-Context: cited in the survey; not listed in the seven imported method/dataset inventories.
+Related foundations and context for our survey.
 
-[PDF](https://arxiv.org/pdf/2401.00834) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2401.00834)
 
 <details><summary>BibTeX</summary>
 
@@ -1954,9 +1922,9 @@ Context: cited in the survey; not listed in the seven imported method/dataset in
 
 Lin, Xinqi and He, Jingwen and Chen, Ziyan and Lyu, Zhaoyang and Dai, Bo and Yu, Fanghua and Qiao, Yu and Ouyang, Wanli and Dong, Chao. **European Conference on Computer Vision (ECCV)**, 2024.
 
-Context: cited in the survey; not listed in the seven imported method/dataset inventories.
+Related foundations and context for our survey.
 
-Use the title/source link above for the paper; no confirmed direct PDF is supplied.
+
 
 <details><summary>BibTeX</summary>
 
@@ -1978,9 +1946,9 @@ Use the title/source link above for the paper; no confirmed direct PDF is suppli
 
 Wang, Zhen and Li, Dongyuan and Wu, Yaozu and He, Tianyu and Bian, Jiang and Jiang, Renhe. **arXiv preprint arXiv:2410.04738**, 2024.
 
-Context: cited in the survey; not listed in the seven imported method/dataset inventories.
+Related foundations and context for our survey.
 
-[PDF](https://arxiv.org/pdf/2410.04738) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2410.04738)
 
 <details><summary>BibTeX</summary>
 
@@ -2001,7 +1969,7 @@ Cao, Yukang and Cao, Yan-Pei and Han, Kai and Shan, Ying and Wong, Kwan-Yee K.. 
 
 Inventory: [Conditional Generation](condgen.md)
 
-[PDF](https://arxiv.org/pdf/2304.00916) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2304.00916)
 
 <details><summary>BibTeX</summary>
 
@@ -2023,9 +1991,9 @@ Inventory: [Conditional Generation](condgen.md)
 
 Wang, Haoran and Mendiratta, Mohit and Theobalt, Christian and Kortylewski, Adam. **arXiv preprint arXiv:2406.07163**, 2024.
 
-Context: cited in the survey; not listed in the seven imported method/dataset inventories.
+Related foundations and context for our survey.
 
-[PDF](https://arxiv.org/pdf/2406.07163) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2406.07163)
 
 <details><summary>BibTeX</summary>
 
@@ -2046,7 +2014,7 @@ Lei, Jiahui and Wang, Yufu and Pavlakos, Georgios and Liu, Lingjie and Daniilidi
 
 Inventory: [Canonical-Space Temporal Aggregation](temporal.md)
 
-[PDF](https://arxiv.org/pdf/2311.16099) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2311.16099)
 
 <details><summary>BibTeX</summary>
 
@@ -2070,7 +2038,7 @@ Hu, Shoukang and Hu, Tao and Liu, Ziwei. **Proceedings of the IEEE/CVF Conferenc
 
 Inventory: [Canonical-Space Temporal Aggregation](temporal.md)
 
-[PDF](https://arxiv.org/pdf/2312.02973) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2312.02973)
 
 <details><summary>BibTeX</summary>
 
@@ -2094,7 +2062,7 @@ Hu, Liangxiao and Zhang, Hongwen and Zhang, Yuxiang and Zhou, Boyao and Liu, Bon
 
 Inventory: [Canonical-Space Temporal Aggregation](temporal.md)
 
-[PDF](https://arxiv.org/pdf/2312.02134) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2312.02134)
 
 <details><summary>BibTeX</summary>
 
@@ -2118,7 +2086,7 @@ Kwon, Youngjoong and Fang, Baole and Lu, Yixing and Dong, Haoye and Zhang, Cheng
 
 Inventory: [Feature-Aligned Reconstruction](feature.md)
 
-[PDF](https://arxiv.org/pdf/2407.12777) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2407.12777)
 
 <details><summary>BibTeX</summary>
 
@@ -2142,7 +2110,7 @@ Zheng, Shunyuan and Zhou, Boyao and Shao, Ruizhi and Liu, Boning and Zhang, Shen
 
 Inventory: [Feature-Aligned Reconstruction](feature.md)
 
-[PDF](https://arxiv.org/pdf/2312.02155) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2312.02155)
 
 <details><summary>BibTeX</summary>
 
@@ -2164,9 +2132,9 @@ Inventory: [Feature-Aligned Reconstruction](feature.md)
 
 Lee, Inhee and Kim, Byungjun and Joo, Hanbyul. **Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)**, 2024.
 
-Context: cited in the survey; not listed in the seven imported method/dataset inventories.
+Related foundations and context for our survey.
 
-[PDF](https://arxiv.org/pdf/2404.14410) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2404.14410)
 
 <details><summary>BibTeX</summary>
 
@@ -2190,9 +2158,7 @@ Khirodkar, Rawal and Song, Jyun-Ting and Cao, Jinkun and Luo, Zhengyi and Kitani
 
 Inventory: [Datasets and Capture Resources](datasets.md)
 
-[PDF](https://arxiv.org/pdf/2410.20294) — PDF response confirmed.
-
-[Project](https://jyuntins.github.io/harmony4d/) — accessible; provenance requires source review.
+[PDF](https://arxiv.org/pdf/2410.20294) · [Project](https://jyuntins.github.io/harmony4d/)
 
 <details><summary>BibTeX</summary>
 
@@ -2214,9 +2180,9 @@ Inventory: [Datasets and Capture Resources](datasets.md)
 
 Yang, Xihe and Chen, Xingyu and Gao, Daiheng and Wang, Shaohui and Han, Xiaoguang and Wang, Baoyuan. **Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)**, 2024.
 
-Context: cited in the survey; not listed in the seven imported method/dataset inventories.
+Related foundations and context for our survey.
 
-[PDF](https://arxiv.org/pdf/2311.15672) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2311.15672)
 
 <details><summary>BibTeX</summary>
 
@@ -2240,7 +2206,7 @@ Liu, Hongyu and Wang, Xuan and Wan, Ziyu and Shen, Yujun and Song, Yibing and Li
 
 Inventory: [Conditional Generation](condgen.md)
 
-[PDF](https://arxiv.org/pdf/2312.07539) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2312.07539)
 
 <details><summary>BibTeX</summary>
 
@@ -2264,7 +2230,7 @@ Zhou, Zhenglin and Ma, Fan and Fan, Hehe and Yang, Zongxin and Yang, Yi. **Europ
 
 Inventory: [Conditional Generation](condgen.md)
 
-[PDF](https://arxiv.org/pdf/2402.06149) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2402.06149)
 
 <details><summary>BibTeX</summary>
 
@@ -2288,7 +2254,7 @@ Sanvito, Alessandro and Ramazzina, Andrea and Walz, Stefanie and Bijelic, Mario 
 
 Inventory: [Canonical-Space Temporal Aggregation](temporal.md)
 
-[PDF](https://arxiv.org/pdf/2405.19712) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2405.19712)
 
 <details><summary>BibTeX</summary>
 
@@ -2312,7 +2278,7 @@ Xue, Lixin and Guo, Chen and Zheng, Chengwei and Wang, Fangjinghua and Jiang, Ti
 
 Inventory: [Template-Constrained Fitting](template.md)
 
-Use the title/source link above for the paper; no confirmed direct PDF is supplied.
+
 
 <details><summary>BibTeX</summary>
 
@@ -2336,7 +2302,7 @@ Xue, Yuxuan and Xie, Xianghui and Marin, Riccardo and Pons-Moll, Gerard. **Advan
 
 Inventory: [Generative-Prior-Guided Optimization](priorguided.md) · [Feed-Forward Generative Reconstruction](feedforward.md)
 
-[PDF](https://arxiv.org/pdf/2406.08475) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2406.08475)
 
 <details><summary>BibTeX</summary>
 
@@ -2358,11 +2324,9 @@ Inventory: [Generative-Prior-Guided Optimization](priorguided.md) · [Feed-Forwa
 
 Tang, Shixiang and Wang, Yizhou and Chen, Lu and Wang, Yuan and Peng, Sida and Xu, Dan and Ouyang, Wanli. **Proceedings of the International Joint Conference on Artificial Intelligence (IJCAI)**, 2024.
 
-Context: cited in the survey; not listed in the seven imported method/dataset inventories.
+Related foundations and context for our survey.
 
-Use the title/source link above for the paper; no confirmed direct PDF is supplied.
-
-[Code](https://github.com/HumanCentricModels/Awesome-Human-Centric-Foundation-Models) — accessible; provenance requires source review.
+[Code](https://github.com/HumanCentricModels/Awesome-Human-Centric-Foundation-Models)
 
 <details><summary>BibTeX</summary>
 
@@ -2386,7 +2350,7 @@ Huang, Xin and Shao, Ruizhi and Zhang, Qi and Zhang, Hongwen and Feng, Ying and 
 
 Inventory: [Conditional Generation](condgen.md)
 
-[PDF](https://arxiv.org/pdf/2310.01406) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2310.01406)
 
 <details><summary>BibTeX</summary>
 
@@ -2410,7 +2374,7 @@ Pan, Panwang and Su, Zhuo and Lin, Chenguo and Fan, Zhen and Zhang, Yongjie and 
 
 Inventory: [Feed-Forward Generative Reconstruction](feedforward.md)
 
-[PDF](https://arxiv.org/pdf/2406.12459) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2406.12459)
 
 <details><summary>BibTeX</summary>
 
@@ -2434,7 +2398,7 @@ Liu, Zhiheng and Ouyang, Hao and Wang, Qiuyu and Cheng, Ka Leong and Xiao, Jie a
 
 Inventory: [Generative-Prior-Guided Optimization](priorguided.md)
 
-[PDF](https://arxiv.org/pdf/2404.11613) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2404.11613)
 
 <details><summary>BibTeX</summary>
 
@@ -2455,7 +2419,7 @@ Kolotouros, Nikos and Alldieck, Thiemo and Corona, Enric and Bazavan, Eduard Gab
 
 Inventory: [Conditional Generation](condgen.md)
 
-[PDF](https://arxiv.org/pdf/2406.07516) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2406.07516)
 
 <details><summary>BibTeX</summary>
 
@@ -2477,9 +2441,9 @@ Inventory: [Conditional Generation](condgen.md)
 
 Wang, Yuxin and Wu, Qianyi and Zhang, Guofeng and Xu, Dan. **European Conference on Computer Vision (ECCV)**, 2024.
 
-Context: cited in the survey; not listed in the seven imported method/dataset inventories.
+Related foundations and context for our survey.
 
-[PDF](https://arxiv.org/pdf/2404.13679) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2404.13679)
 
 <details><summary>BibTeX</summary>
 
@@ -2501,9 +2465,9 @@ Context: cited in the survey; not listed in the seven imported method/dataset in
 
 Hong, Yicong and Zhang, Kai and Gu, Jiuxiang and Bi, Sai and Zhou, Yang and Liu, Difan and Liu, Feng and Sunkavalli, Kalyan and Bui, Trung and Tan, Hao. **International Conference on Learning Representations (ICLR)**, 2024.
 
-Context: cited in the survey; not listed in the seven imported method/dataset inventories.
+Related foundations and context for our survey.
 
-[PDF](https://proceedings.iclr.cc/paper_files/paper/2024/file/dcad3425f5c8c36b5b3885c091bf1257-Paper-Conference.pdf) — PDF linked by primary source.
+[PDF](https://proceedings.iclr.cc/paper_files/paper/2024/file/dcad3425f5c8c36b5b3885c091bf1257-Paper-Conference.pdf)
 
 <details><summary>BibTeX</summary>
 
@@ -2524,9 +2488,9 @@ Context: cited in the survey; not listed in the seven imported method/dataset in
 
 Liang, Yixun and Yang, Xin and Lin, Jiantao and Li, Haodong and Xu, Xiaogang and Chen, Yingcong. **Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)**, 2024.
 
-Context: cited in the survey; not listed in the seven imported method/dataset inventories.
+Related foundations and context for our survey.
 
-[PDF](https://arxiv.org/pdf/2311.11284) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2311.11284)
 
 <details><summary>BibTeX</summary>
 
@@ -2550,7 +2514,7 @@ Chen, Xiyi and Mihajlovic, Marko and Wang, Shaofei and Prokudin, Sergey and Tang
 
 Inventory: [Generative-Prior-Guided Optimization](priorguided.md)
 
-[PDF](https://arxiv.org/pdf/2401.04728) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2401.04728)
 
 <details><summary>BibTeX</summary>
 
@@ -2576,9 +2540,7 @@ Earlier title / alias: Bundle Adjusted Gaussian Avatars Deblurring (BAGA).
 
 Inventory: [Generative-Prior-Guided Optimization](priorguided.md)
 
-[PDF](https://arxiv.org/pdf/2411.16758) — PDF linked by primary source.
-
-[Code](https://github.com/MyNiuuu/MAD-Avatar) — Official implementation identified through author/paper source.
+[PDF](https://arxiv.org/pdf/2411.16758) · [Code](https://github.com/MyNiuuu/MAD-Avatar)
 
 <details><summary>BibTeX</summary>
 
@@ -2601,7 +2563,7 @@ Kim, Donghwan and Kim, Tae-Kyun. **Advances in Neural Information Processing Sys
 
 Inventory: [Feed-Forward Generative Reconstruction](feedforward.md)
 
-[PDF](https://arxiv.org/pdf/2409.18364) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2409.18364)
 
 <details><summary>BibTeX</summary>
 
@@ -2623,9 +2585,9 @@ Inventory: [Feed-Forward Generative Reconstruction](feedforward.md)
 
 Shi, Yichun and Wang, Peng and Ye, Jianglong and Mai, Long and Li, Kejie and Yang, Xiao. **International Conference on Learning Representations (ICLR)**, 2024.
 
-Context: cited in the survey; not listed in the seven imported method/dataset inventories.
+Related foundations and context for our survey.
 
-[PDF](https://proceedings.iclr.cc/paper_files/paper/2024/file/adbe936993aa7cf41e45054d8b72f183-Paper-Conference.pdf) — PDF linked by primary source.
+[PDF](https://proceedings.iclr.cc/paper_files/paper/2024/file/adbe936993aa7cf41e45054d8b72f183-Paper-Conference.pdf)
 
 <details><summary>BibTeX</summary>
 
@@ -2648,7 +2610,7 @@ Xiong, Zhangyang and Li, Chenghong and Liu, Kenkun and Liao, Hongjie and Hu, Jia
 
 Inventory: [Datasets and Capture Resources](datasets.md)
 
-[PDF](https://arxiv.org/pdf/2312.02963) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2312.02963)
 
 <details><summary>BibTeX</summary>
 
@@ -2672,7 +2634,7 @@ Weber, Ethan and Holynski, Aleksander and Jampani, Varun and Saxena, Saurabh and
 
 Inventory: [Generative-Prior-Guided Optimization](priorguided.md)
 
-[PDF](https://arxiv.org/pdf/2312.04560) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2312.04560)
 
 <details><summary>BibTeX</summary>
 
@@ -2696,7 +2658,7 @@ Sun, Adam and Xiang, Tiange and Delp, Scott and Fei-Fei, Li and Adeli, Ehsan. **
 
 Inventory: [Generative-Prior-Guided Optimization](priorguided.md)
 
-Use the title/source link above for the paper; no confirmed direct PDF is supplied.
+
 
 <details><summary>BibTeX</summary>
 
@@ -2718,9 +2680,9 @@ Use the title/source link above for the paper; no confirmed direct PDF is suppli
 
 Ozguroglu, Ege and Liu, Ruoshi and Sur\'s, D\'dac and Chen, Dian and Dave, Achal and Tokmakov, Pavel and Vondrick, Carl. **Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)**, 2024.
 
-Context: cited in the survey; not listed in the seven imported method/dataset inventories.
+Related foundations and context for our survey.
 
-[PDF](https://arxiv.org/pdf/2401.14398) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2401.14398)
 
 <details><summary>BibTeX</summary>
 
@@ -2744,7 +2706,7 @@ Deng, Yu and Wang, Duomin and Ren, Xiaohang and Chen, Xingyu and Wang, Baoyuan. 
 
 Inventory: [Feed-Forward Generative Reconstruction](feedforward.md)
 
-[PDF](https://arxiv.org/pdf/2311.18729) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2311.18729)
 
 <details><summary>BibTeX</summary>
 
@@ -2768,7 +2730,7 @@ Xiu, Yuliang and Ye, Yufei and Liu, Zhen and Tzionas, Dimitris and Black, Michae
 
 Inventory: [Generative-Prior-Guided Optimization](priorguided.md) · [Datasets and Capture Resources](datasets.md)
 
-[PDF](https://arxiv.org/pdf/2405.14869) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2405.14869)
 
 <details><summary>BibTeX</summary>
 
@@ -2793,9 +2755,7 @@ Pavlakos, Georgios and Shan, Dandan and Radosavovic, Ilija and Kanazawa, Angjoo 
 
 Inventory: [Template-Constrained Fitting](template.md)
 
-[PDF](https://arxiv.org/pdf/2312.05251) — PDF response confirmed.
-
-[Code](https://github.com/geopavlakos/hamer) — accessible; provenance requires source review.
+[PDF](https://arxiv.org/pdf/2312.05251) · [Code](https://github.com/geopavlakos/hamer)
 
 <details><summary>BibTeX</summary>
 
@@ -2817,9 +2777,9 @@ Inventory: [Template-Constrained Fitting](template.md)
 
 Chen, Haoyu and Li, Wenbo and Gu, Jinjin and Ren, Jingjing and Chen, Sixiang and Ye, Tian and Pei, Renjing and Zhou, Kaiwen and Song, Fenglong and Zhu, Lei. **Advances in Neural Information Processing Systems (NeurIPS)**, 2024.
 
-Context: cited in the survey; not listed in the seven imported method/dataset inventories.
+Related foundations and context for our survey.
 
-[PDF](https://arxiv.org/pdf/2407.18035) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2407.18035)
 
 <details><summary>BibTeX</summary>
 
@@ -2843,7 +2803,7 @@ Stathopoulos, Anastasis and Han, Ligong and Metaxas, Dimitris. **Proceedings of 
 
 Inventory: [Template-Constrained Fitting](template.md)
 
-[PDF](https://arxiv.org/pdf/2403.09623) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2403.09623)
 
 <details><summary>BibTeX</summary>
 
@@ -2867,7 +2827,7 @@ Zhang, Zechuan and Yang, Zongxin and Yang, Yi. **Proceedings of the IEEE/CVF Con
 
 Inventory: [Feature-Aligned Reconstruction](feature.md)
 
-[PDF](https://arxiv.org/pdf/2312.06704) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2312.06704)
 
 <details><summary>BibTeX</summary>
 
@@ -2891,7 +2851,7 @@ I Ho, Hsuan- and Song, Jie and Hilliges, Otmar. **Proceedings of the IEEE/CVF Co
 
 Inventory: [Generative-Prior-Guided Optimization](priorguided.md)
 
-[PDF](https://arxiv.org/pdf/2311.15855) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2311.15855)
 
 <details><summary>BibTeX</summary>
 
@@ -2915,9 +2875,7 @@ Pan, Zhuoyang and Kanazawa, Angjoo and Gao, Hang. **arXiv preprint arXiv:2410.23
 
 Inventory: [Generative-Prior-Guided Optimization](priorguided.md)
 
-[PDF](https://arxiv.org/pdf/2410.23800) — PDF response confirmed.
-
-[Code](https://github.com/hangg7/soar) — accessible; provenance requires source review.
+[PDF](https://arxiv.org/pdf/2410.23800) · [Code](https://github.com/hangg7/soar)
 
 <details><summary>BibTeX</summary>
 
@@ -2938,7 +2896,7 @@ Hu, Tao and Hong, Fangzhou and Liu, Ziwei. **European Conference on Computer Vis
 
 Inventory: [Conditional Generation](condgen.md)
 
-[PDF](https://arxiv.org/pdf/2404.01241) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2404.01241)
 
 <details><summary>BibTeX</summary>
 
@@ -2960,11 +2918,9 @@ Inventory: [Conditional Generation](condgen.md)
 
 Liu, Yuan and Lin, Cheng and Zeng, Zijiao and Long, Xiaoxiao and Liu, Lingjie and Komura, Taku and Wang, Wenping. **International Conference on Learning Representations (ICLR)**, 2024.
 
-Context: cited in the survey; not listed in the seven imported method/dataset inventories.
+Related foundations and context for our survey.
 
-Use the title/source link above for the paper; no confirmed direct PDF is supplied.
-
-[Code](https://github.com/liuyuan-pal/SyncDreamer) — Official implementation identified through author/paper source.
+[Code](https://github.com/liuyuan-pal/SyncDreamer)
 
 <details><summary>BibTeX</summary>
 
@@ -2987,7 +2943,7 @@ Liao, Tingting and Yi, Hongwei and Xiu, Yuliang and Tang, Jiaxiang and Huang, Ya
 
 Inventory: [Conditional Generation](condgen.md)
 
-[PDF](https://arxiv.org/pdf/2308.10899) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2308.10899)
 
 <details><summary>BibTeX</summary>
 
@@ -3011,9 +2967,7 @@ Huang, Yangyi and Yi, Hongwei and Xiu, Yuliang and Liao, Tingting and Tang, Jiax
 
 Inventory: [Generative-Prior-Guided Optimization](priorguided.md)
 
-[PDF](https://arxiv.org/pdf/2308.08545) — PDF response confirmed.
-
-[Code](https://github.com/huangyangyi/TeCH) — accessible; provenance requires source review.
+[PDF](https://arxiv.org/pdf/2308.08545) · [Code](https://github.com/huangyangyi/TeCH)
 
 <details><summary>BibTeX</summary>
 
@@ -3037,7 +2991,7 @@ Weng, Zhenzhen and Liu, Jingyuan and Tan, Hao and Xu, Zhan and Zhou, Yang and Ye
 
 Inventory: [Feed-Forward Generative Reconstruction](feedforward.md)
 
-[PDF](https://arxiv.org/pdf/2401.12175) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2401.12175)
 
 <details><summary>BibTeX</summary>
 
@@ -3058,7 +3012,7 @@ Liu, Yufei and Zhu, Junwei and Tang, Junshu and Zhang, Shijie and Zhang, Jiangni
 
 Inventory: [Generative-Prior-Guided Optimization](priorguided.md)
 
-[PDF](https://arxiv.org/pdf/2403.12906) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2403.12906)
 
 <details><summary>BibTeX</summary>
 
@@ -3082,7 +3036,7 @@ Wang, Yufu and Wang, Ziyun and Liu, Lingjie and Daniilidis, Kostas. **European C
 
 Inventory: [Template-Constrained Fitting](template.md)
 
-[PDF](https://arxiv.org/pdf/2403.17346) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2403.17346)
 
 <details><summary>BibTeX</summary>
 
@@ -3106,7 +3060,7 @@ Shin, Soyong and Kim, Juyong and Halilaj, Eni and Black, Michael J.. **Proceedin
 
 Inventory: [Template-Constrained Fitting](template.md)
 
-[PDF](https://arxiv.org/pdf/2312.07531) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2312.07531)
 
 <details><summary>BibTeX</summary>
 
@@ -3128,9 +3082,9 @@ Inventory: [Template-Constrained Fitting](template.md)
 
 Long, Xiaoxiao and Guo, Yuan-Chen and Lin, Cheng and Liu, Yuan and Dou, Zhiyang and Liu, Lingjie and Ma, Yuexin and Zhang, Song-Hai and Habermann, Marc and Theobalt, Christian and Wang, Wenping. **Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)**, 2024.
 
-Context: cited in the survey; not listed in the seven imported method/dataset inventories.
+Related foundations and context for our survey.
 
-[PDF](https://arxiv.org/pdf/2310.15008) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2310.15008)
 
 <details><summary>BibTeX</summary>
 
@@ -3155,9 +3109,9 @@ Context: cited in the survey; not listed in the seven imported method/dataset in
 
 Kerbl, Bernhard and Kopanas, Georgios and Leimkuehler, Thomas and Drettakis, George. **ACM Transactions on Graphics**, 2023.
 
-Context: cited in the survey; not listed in the seven imported method/dataset inventories.
+Related foundations and context for our survey.
 
-[PDF](https://arxiv.org/pdf/2308.04079) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2308.04079)
 
 <details><summary>BibTeX</summary>
 
@@ -3182,7 +3136,7 @@ Jiang, Ruixiang and Wang, Can and Zhang, Jingbo and Chai, Menglei and He, Mingmi
 
 Inventory: [Conditional Generation](condgen.md)
 
-[PDF](https://arxiv.org/pdf/2303.17606) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2303.17606)
 
 <details><summary>BibTeX</summary>
 
@@ -3206,7 +3160,7 @@ Zhang, Jianfeng and Jiang, Zihang and Yang, Dingdong and Xu, Hongyi and Shi, Yic
 
 Inventory: [Conditional Generation](condgen.md)
 
-Use the title/source link above for the paper; no confirmed direct PDF is supplied.
+
 
 <details><summary>BibTeX</summary>
 
@@ -3229,9 +3183,9 @@ Use the title/source link above for the paper; no confirmed direct PDF is suppli
 
 Wang, Peng and Zhao, Lingzhe and Ma, Ruijie and Liu, Peidong. **Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)**, 2023.
 
-Context: cited in the survey; not listed in the seven imported method/dataset inventories.
+Related foundations and context for our survey.
 
-[PDF](https://arxiv.org/pdf/2211.12853) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2211.12853)
 
 <details><summary>BibTeX</summary>
 
@@ -3255,9 +3209,7 @@ Black, Michael J. and Patel, Priyanka and Tesch, Joachim and Yang, Jinlong. **Pr
 
 Inventory: [Datasets and Capture Resources](datasets.md)
 
-[PDF](https://arxiv.org/pdf/2306.16940) — PDF response confirmed.
-
-[Project](https://bedlam.is.tue.mpg.de/) — accessible; provenance requires source review.
+[PDF](https://arxiv.org/pdf/2306.16940) · [Project](https://bedlam.is.tue.mpg.de/)
 
 <details><summary>BibTeX</summary>
 
@@ -3281,7 +3233,7 @@ Yang, Xueting and Luo, Yihao and Xiu, Yuliang and Wang, Wei and Xu, Hao and Fan,
 
 Inventory: [Feature-Aligned Reconstruction](feature.md)
 
-[PDF](https://arxiv.org/pdf/2308.08857) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2308.08857)
 
 <details><summary>BibTeX</summary>
 
@@ -3305,7 +3257,7 @@ Ye, Vickie and Pavlakos, Georgios and Malik, Jitendra and Kanazawa, Angjoo. **Pr
 
 Inventory: [Template-Constrained Fitting](template.md)
 
-[PDF](https://arxiv.org/pdf/2302.12827) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2302.12827)
 
 <details><summary>BibTeX</summary>
 
@@ -3329,7 +3281,7 @@ Su, Zhaoqi and Yu, Tao and Wang, Yangang and Liu, Yebin. **IEEE Transactions on 
 
 Inventory: [Datasets and Capture Resources](datasets.md)
 
-[PDF](https://arxiv.org/pdf/2011.14619) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2011.14619)
 
 <details><summary>BibTeX</summary>
 
@@ -3352,9 +3304,9 @@ Inventory: [Datasets and Capture Resources](datasets.md)
 
 Hyungjin Chung and Jeongsol Kim and Michael Thompson McCann and Marc Louis Klasky and Jong Chul Ye. **International Conference on Learning Representations (ICLR)**, 2023.
 
-Context: cited in the survey; not listed in the seven imported method/dataset inventories.
+Related foundations and context for our survey.
 
-[PDF](https://arxiv.org/pdf/2209.14687) — PDF linked by primary source.
+[PDF](https://arxiv.org/pdf/2209.14687)
 
 <details><summary>BibTeX</summary>
 
@@ -3376,7 +3328,7 @@ Song, Dae-Young and Lee, HeeKyung and Seo, Jeongil and Cho, Donghyeon. **Proceed
 
 Inventory: [Feature-Aligned Reconstruction](feature.md)
 
-Use the title/source link above for the paper; no confirmed direct PDF is supplied.
+
 
 <details><summary>BibTeX</summary>
 
@@ -3400,9 +3352,7 @@ Cheng, Wei and Chen, Ruixiang and Fan, Siming and Yin, Wanqi and Chen, Keyu and 
 
 Inventory: [Datasets and Capture Resources](datasets.md)
 
-[PDF](https://arxiv.org/pdf/2307.10173) — PDF response confirmed.
-
-[Project](https://dna-rendering.github.io/) — accessible; provenance requires source review.
+[PDF](https://arxiv.org/pdf/2307.10173) · [Project](https://dna-rendering.github.io/)
 
 <details><summary>BibTeX</summary>
 
@@ -3424,9 +3374,9 @@ Inventory: [Datasets and Capture Resources](datasets.md)
 
 Lee, Dogyoon and Lee, Minhyeok and Shin, Chajin and Lee, Sangyoun. **Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)**, 2023.
 
-Context: cited in the survey; not listed in the seven imported method/dataset inventories.
+Related foundations and context for our survey.
 
-[PDF](https://arxiv.org/pdf/2211.12046) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2211.12046)
 
 <details><summary>BibTeX</summary>
 
@@ -3448,9 +3398,9 @@ Context: cited in the survey; not listed in the seven imported method/dataset in
 
 Ben Poole and Ajay Jain and Jonathan T. Barron and Ben Mildenhall. **International Conference on Learning Representations (ICLR)**, 2023.
 
-Context: cited in the survey; not listed in the seven imported method/dataset inventories.
+Related foundations and context for our survey.
 
-[PDF](https://arxiv.org/pdf/2209.14988) — PDF linked by primary source.
+[PDF](https://arxiv.org/pdf/2209.14988)
 
 <details><summary>BibTeX</summary>
 
@@ -3472,7 +3422,7 @@ Kolotouros, Nikos and Alldieck, Thiemo and Zanfir, Andrei and Bazavan, Eduard an
 
 Inventory: [Conditional Generation](condgen.md)
 
-[PDF](https://arxiv.org/pdf/2306.09329) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2306.09329)
 
 <details><summary>BibTeX</summary>
 
@@ -3496,9 +3446,7 @@ Huang, Yukun and Wang, Jianan and Zeng, Ailing and CAO, He and Qi, Xianbiao and 
 
 Inventory: [Conditional Generation](condgen.md)
 
-[PDF](https://arxiv.org/pdf/2305.12529) — PDF response confirmed.
-
-[Code](https://github.com/IDEA-Research/DreamWaltz) — accessible; provenance requires source review.
+[PDF](https://arxiv.org/pdf/2305.12529) · [Code](https://github.com/IDEA-Research/DreamWaltz)
 
 <details><summary>BibTeX</summary>
 
@@ -3522,9 +3470,7 @@ Xiu, Yuliang and Yang, Jinlong and Cao, Xu and Tzionas, Dimitrios and Black, Mic
 
 Inventory: [Feature-Aligned Reconstruction](feature.md) · [Generative-Prior-Guided Optimization](priorguided.md)
 
-[PDF](https://arxiv.org/pdf/2212.07422) — PDF response confirmed.
-
-[Code](https://github.com/YuliangXiu/ECON) — accessible; provenance requires source review.
+[PDF](https://arxiv.org/pdf/2212.07422) · [Code](https://github.com/YuliangXiu/ECON)
 
 <details><summary>BibTeX</summary>
 
@@ -3548,7 +3494,7 @@ Kaufmann, Manuel and Song, Jie and Guo, Chen and Shen, Kaiyue and Jiang, Tianjia
 
 Inventory: [Datasets and Capture Resources](datasets.md)
 
-[PDF](https://arxiv.org/pdf/2308.16894) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2308.16894)
 
 <details><summary>BibTeX</summary>
 
@@ -3572,9 +3518,7 @@ Fangzhou Hong and Zhaoxi Chen and Yushi LAN and Liang Pan and Ziwei Liu. **Inter
 
 Inventory: [Conditional Generation](condgen.md)
 
-Use the title/source link above for the paper; no confirmed direct PDF is supplied.
-
-[Code](https://github.com/hongfz16/EVA3D) — Official implementation identified through author/paper source.
+[Code](https://github.com/hongfz16/EVA3D)
 
 <details><summary>BibTeX</summary>
 
@@ -3594,9 +3538,9 @@ Use the title/source link above for the paper; no confirmed direct PDF is suppli
 
 Li, Chenghao and Zhang, Chaoning and Cho, Joseph and Waghwase, Atish and Lee, Lik-Hang and Rameau, Francois and Yang, Yang and Bae, Sung-Ho and Hong, Choong Seon. **arXiv preprint arXiv:2305.06131**, 2023.
 
-Context: cited in the survey; not listed in the seven imported method/dataset inventories.
+Related foundations and context for our survey.
 
-[PDF](https://arxiv.org/pdf/2305.06131) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2305.06131)
 
 <details><summary>BibTeX</summary>
 
@@ -3617,7 +3561,7 @@ Zhang, Zechuan and Sun, Li and Yang, Zongxin and Chen, Ling and Yang, Yi. **Adva
 
 Inventory: [Feature-Aligned Reconstruction](feature.md)
 
-[PDF](https://arxiv.org/pdf/2309.13524) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2309.13524)
 
 <details><summary>BibTeX</summary>
 
@@ -3641,7 +3585,7 @@ Han, Xiao and Cao, Yukang and Han, Kai and Zhu, Xiatian and Deng, Jiankang and S
 
 Inventory: [Conditional Generation](condgen.md)
 
-[PDF](https://arxiv.org/pdf/2306.03038) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2306.03038)
 
 <details><summary>BibTeX</summary>
 
@@ -3665,11 +3609,7 @@ Yin, Yifei and Guo, Chen and Kaufmann, Manuel and Zarate, Juan Jose and Song, Ji
 
 Inventory: [Datasets and Capture Resources](datasets.md)
 
-[PDF](https://arxiv.org/pdf/2303.15380) — PDF response confirmed.
-
-[Project](https://yifeiyin04.github.io/Hi4D/) — accessible; provenance requires source review.
-
-[Code](https://github.com/yifeiyin04/Hi4D) — accessible; provenance requires source review.
+[PDF](https://arxiv.org/pdf/2303.15380) · [Project](https://yifeiyin04.github.io/Hi4D/) · [Code](https://github.com/yifeiyin04/Hi4D)
 
 <details><summary>BibTeX</summary>
 
@@ -3693,7 +3633,7 @@ Han, Sang-Hun and Park, Min-Gyu and Yoon, Ju Hong and Kang, Ju-Mi and Park, Youn
 
 Inventory: [Feature-Aligned Reconstruction](feature.md) · [Datasets and Capture Resources](datasets.md)
 
-[PDF](https://arxiv.org/pdf/2303.15108) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2303.15108)
 
 <details><summary>BibTeX</summary>
 
@@ -3717,9 +3657,7 @@ Işık, Mustafa and Rünz, Martin and Georgopoulos, Markos and Khakhulin, Taras 
 
 Inventory: [Datasets and Capture Resources](datasets.md)
 
-[PDF](https://arxiv.org/pdf/2305.06356) — PDF response confirmed.
-
-[Project](https://actors-hq.com/) — accessible; provenance requires source review.
+[PDF](https://arxiv.org/pdf/2305.06356) · [Project](https://actors-hq.com/)
 
 <details><summary>BibTeX</summary>
 
@@ -3744,7 +3682,7 @@ Goel, Shubham and Pavlakos, Georgios and Rajasegaran, Jathushan and Kanazawa, An
 
 Inventory: [Template-Constrained Fitting](template.md)
 
-[PDF](https://arxiv.org/pdf/2305.20091) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2305.20091)
 
 <details><summary>BibTeX</summary>
 
@@ -3766,9 +3704,9 @@ Inventory: [Template-Constrained Fitting](template.md)
 
 Zielonka, Wojciech and Bolkart, Timo and Thies, Justus. **Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)**, 2023.
 
-Context: cited in the survey; not listed in the seven imported method/dataset inventories.
+Related foundations and context for our survey.
 
-[PDF](https://arxiv.org/pdf/2211.12499) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2211.12499)
 
 <details><summary>BibTeX</summary>
 
@@ -3792,7 +3730,7 @@ Jiang, Tianjian and Chen, Xu and Song, Jie and Hilliges, Otmar. **Proceedings of
 
 Inventory: [Canonical-Space Temporal Aggregation](temporal.md)
 
-[PDF](https://arxiv.org/pdf/2212.10550) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2212.10550)
 
 <details><summary>BibTeX</summary>
 
@@ -3816,7 +3754,7 @@ Ho, Hsuan-I and Xue, Lixin and Song, Jie and Hilliges, Otmar. **Proceedings of t
 
 Inventory: [Datasets and Capture Resources](datasets.md)
 
-[PDF](https://arxiv.org/pdf/2305.00121) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2305.00121)
 
 <details><summary>BibTeX</summary>
 
@@ -3838,9 +3776,9 @@ Inventory: [Datasets and Capture Resources](datasets.md)
 
 Yu, Zhengming and Cheng, Wei and Liu, Xian and Wu, Wayne and Lin, Kwan-Yee. **Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)**, 2023.
 
-Context: cited in the survey; not listed in the seven imported method/dataset inventories.
+Related foundations and context for our survey.
 
-[PDF](https://arxiv.org/pdf/2304.02001) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2304.02001)
 
 <details><summary>BibTeX</summary>
 
@@ -3864,7 +3802,7 @@ Wang, Yingli and Zhang, Liping and Li, Weijun and Dong, Xiaoli and Li, Li and Qi
 
 Inventory: [Template-Constrained Fitting](template.md)
 
-Use the title/source link above for the paper; no confirmed direct PDF is supplied.
+
 
 <details><summary>BibTeX</summary>
 
@@ -3886,9 +3824,9 @@ Use the title/source link above for the paper; no confirmed direct PDF is suppli
 
 Zheng, Yufeng and Yifan, Wang and Wetzstein, Gordon and Black, Michael J. and Hilliges, Otmar. **Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)**, 2023.
 
-Context: cited in the survey; not listed in the seven imported method/dataset inventories.
+Related foundations and context for our survey.
 
-[PDF](https://arxiv.org/pdf/2212.08377) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2212.08377)
 
 <details><summary>BibTeX</summary>
 
@@ -3912,7 +3850,7 @@ Chen, Zhaoxi and Hong, Fangzhou and Mei, Haiyi and Wang, Guangcong and Yang, Lei
 
 Inventory: [Conditional Generation](condgen.md)
 
-[PDF](https://arxiv.org/pdf/2312.04559) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2312.04559)
 
 <details><summary>BibTeX</summary>
 
@@ -3934,9 +3872,9 @@ Inventory: [Conditional Generation](condgen.md)
 
 Wang, Zhengyi and Lu, Cheng and Wang, Yikai and Bao, Fan and LI, Chongxuan and Su, Hang and Zhu, Jun. **Advances in Neural Information Processing Systems (NeurIPS)**, 2023.
 
-Context: cited in the survey; not listed in the seven imported method/dataset inventories.
+Related foundations and context for our survey.
 
-[PDF](https://arxiv.org/pdf/2305.16213) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2305.16213)
 
 <details><summary>BibTeX</summary>
 
@@ -3960,7 +3898,7 @@ Dang, Bowen and Zhao, Xi and Zhang, Bowen and Wang, He. **Computer Graphics Foru
 
 Inventory: [Template-Constrained Fitting](template.md)
 
-[PDF](https://arxiv.org/pdf/2310.01228) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2310.01228)
 
 <details><summary>BibTeX</summary>
 
@@ -3982,11 +3920,9 @@ Inventory: [Template-Constrained Fitting](template.md)
 
 Tian, Yating and Zhang, Hongwen and Liu, Yebin and Wang, Limin. **IEEE Transactions on Pattern Analysis and Machine Intelligence**, 2023.
 
-Context: cited in the survey; not listed in the seven imported method/dataset inventories.
+Related foundations and context for our survey.
 
-[PDF](https://arxiv.org/pdf/2203.01923) — PDF response confirmed.
-
-[Code](https://github.com/tinatiansjz/hmr-survey) — accessible; provenance requires source review.
+[PDF](https://arxiv.org/pdf/2203.01923) · [Code](https://github.com/tinatiansjz/hmr-survey)
 
 <details><summary>BibTeX</summary>
 
@@ -4011,7 +3947,7 @@ Xiang, Tiange and Sun, Adam and Wu, Jiajun and Adeli, Ehsan and Fei-Fei, Li. **P
 
 Inventory: [Canonical-Space Temporal Aggregation](temporal.md)
 
-[PDF](https://arxiv.org/pdf/2308.04622) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2308.04622)
 
 <details><summary>BibTeX</summary>
 
@@ -4033,9 +3969,9 @@ Inventory: [Canonical-Space Temporal Aggregation](temporal.md)
 
 Wang, Haochen and Du, Xiaodan and Li, Jiahao and Yeh, Raymond A. and Shakhnarovich, Greg. **Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)**, 2023.
 
-Context: cited in the survey; not listed in the seven imported method/dataset inventories.
+Related foundations and context for our survey.
 
-[PDF](https://arxiv.org/pdf/2212.00774) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2212.00774)
 
 <details><summary>BibTeX</summary>
 
@@ -4059,7 +3995,7 @@ Hu, Shoukang and Hong, Fangzhou and Pan, Liang and Mei, Haiyi and Yang, Lei and 
 
 Inventory: [Feature-Aligned Reconstruction](feature.md) · [Feed-Forward Generative Reconstruction](feedforward.md)
 
-[PDF](https://arxiv.org/pdf/2303.12791) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2303.12791)
 
 <details><summary>BibTeX</summary>
 
@@ -4081,11 +4017,9 @@ Inventory: [Feature-Aligned Reconstruction](feature.md) · [Feed-Forward Generat
 
 Cai, Zhongang and Yin, Wanqi and Zeng, Ailing and WEI, CHEN and SUN, Qingping and Yanjun, Wang and Pang, Hui En and Mei, Haiyi and Zhang, Mingyuan and Zhang, Lei and Loy, Chen Change and Yang, Lei and Liu, Ziwei. **Advances in Neural Information Processing Systems (NeurIPS)**, 2023.
 
-Context: cited in the survey; not listed in the seven imported method/dataset inventories.
+Related foundations and context for our survey.
 
-[PDF](https://arxiv.org/pdf/2309.17448) — PDF response confirmed.
-
-[Code](https://github.com/caizhongang/SMPLer-X) — accessible; provenance requires source review.
+[PDF](https://arxiv.org/pdf/2309.17448) · [Code](https://github.com/caizhongang/SMPLer-X)
 
 <details><summary>BibTeX</summary>
 
@@ -4109,9 +4043,7 @@ Yang, Zhitao and Cai, Zhongang and Mei, Haiyi and Liu, Shuai and Chen, Zhaoxi an
 
 Inventory: [Datasets and Capture Resources](datasets.md)
 
-[PDF](https://arxiv.org/pdf/2303.17368) — PDF response confirmed.
-
-[Project](https://huggingface.co/datasets/caizhongang/SynBody) — accessible; provenance requires source review.
+[PDF](https://arxiv.org/pdf/2303.17368) · [Project](https://huggingface.co/datasets/caizhongang/SynBody)
 
 <details><summary>BibTeX</summary>
 
@@ -4135,7 +4067,7 @@ Pan, Xiao and Yang, Zongxin and Ma, Jianxin and Zhou, Chang and Yang, Yi. **Proc
 
 Inventory: [Feature-Aligned Reconstruction](feature.md)
 
-[PDF](https://arxiv.org/pdf/2307.12291) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2307.12291)
 
 <details><summary>BibTeX</summary>
 
@@ -4159,7 +4091,7 @@ Guo, Chen and Jiang, Tianjian and Chen, Xu and Song, Jie and Hilliges, Otmar. **
 
 Inventory: [Canonical-Space Temporal Aggregation](temporal.md)
 
-[PDF](https://arxiv.org/pdf/2302.11566) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2302.11566)
 
 <details><summary>BibTeX</summary>
 
@@ -4181,9 +4113,9 @@ Inventory: [Canonical-Space Temporal Aggregation](temporal.md)
 
 Liu, Ruoshi and Wu, Rundi and Van Hoorick, Basile and Tokmakov, Pavel and Zakharov, Sergey and Vondrick, Carl. **Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)**, 2023.
 
-Context: cited in the survey; not listed in the seven imported method/dataset inventories.
+Related foundations and context for our survey.
 
-[PDF](https://arxiv.org/pdf/2303.11328) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2303.11328)
 
 <details><summary>BibTeX</summary>
 
@@ -4205,9 +4137,9 @@ Context: cited in the survey; not listed in the seven imported method/dataset in
 
 Shi, Ruoxi and Chen, Hansheng and Zhang, Zhuoyang and Liu, Minghua and Xu, Chao and Wei, Xinyue and Chen, Linghao and Zeng, Chong and Su, Hao. **arXiv preprint arXiv:2310.15110**, 2023.
 
-Context: cited in the survey; not listed in the seven imported method/dataset inventories.
+Related foundations and context for our survey.
 
-[PDF](https://arxiv.org/pdf/2310.15110) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2310.15110)
 
 <details><summary>BibTeX</summary>
 
@@ -4231,7 +4163,7 @@ Wang, Shaofei and Schwarz, Katja and Geiger, Andreas and Tang, Siyu. **European 
 
 Inventory: [Canonical-Space Temporal Aggregation](temporal.md)
 
-[PDF](https://arxiv.org/pdf/2210.10036) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2210.10036)
 
 <details><summary>BibTeX</summary>
 
@@ -4255,7 +4187,7 @@ Hong, Fangzhou and Zhang, Mingyuan and Pan, Liang and Cai, Zhongang and Yang, Le
 
 Inventory: [Conditional Generation](condgen.md)
 
-[PDF](https://arxiv.org/pdf/2205.08535) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2205.08535)
 
 <details><summary>BibTeX</summary>
 
@@ -4280,9 +4212,7 @@ Bhatnagar, Bharat Lal and Xie, Xianghui and Petrov, Ilya A. and Sminchisescu, Cr
 
 Inventory: [Datasets and Capture Resources](datasets.md)
 
-[PDF](https://arxiv.org/pdf/2204.06950) — PDF response confirmed.
-
-[Project](https://virtualhumans.mpi-inf.mpg.de/behave/) — accessible; provenance requires source review.
+[PDF](https://arxiv.org/pdf/2204.06950) · [Project](https://virtualhumans.mpi-inf.mpg.de/behave/)
 
 <details><summary>BibTeX</summary>
 
@@ -4306,11 +4236,7 @@ Huang, Chun-Hao P. and Yi, Hongwei and H\"oschle, Markus and Safroshkin, Matvey 
 
 Inventory: [Datasets and Capture Resources](datasets.md)
 
-[PDF](https://arxiv.org/pdf/2206.09553) — PDF response confirmed.
-
-[Project](https://rich.is.tue.mpg.de/) — accessible; provenance requires source review.
-
-[Code](https://github.com/paulchhuang/rich_toolkit) — accessible; provenance requires source review.
+[PDF](https://arxiv.org/pdf/2206.09553) · [Project](https://rich.is.tue.mpg.de/) · [Code](https://github.com/paulchhuang/rich_toolkit)
 
 <details><summary>BibTeX</summary>
 
@@ -4332,9 +4258,9 @@ Inventory: [Datasets and Capture Resources](datasets.md)
 
 Xie, Xianghui and Bhatnagar, Bharat Lal and Pons-Moll, Gerard. **European Conference on Computer Vision (ECCV)**, 2022.
 
-Context: cited in the survey; not listed in the seven imported method/dataset inventories.
+Related foundations and context for our survey.
 
-[PDF](https://arxiv.org/pdf/2204.02445) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2204.02445)
 
 <details><summary>BibTeX</summary>
 
@@ -4358,7 +4284,7 @@ Li, Zhihao and Liu, Jianzhuang and Zhang, Zhensong and Xu, Songcen and Yan, Youl
 
 Inventory: [Template-Constrained Fitting](template.md)
 
-[PDF](https://arxiv.org/pdf/2208.00571) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2208.00571)
 
 <details><summary>BibTeX</summary>
 
@@ -4380,9 +4306,9 @@ Inventory: [Template-Constrained Fitting](template.md)
 
 Ma, Li and Li, Xiaoyu and Liao, Jing and Zhang, Qi and Wang, Xuan and Wang, Jue and Sander, Pedro V.. **Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)**, 2022.
 
-Context: cited in the survey; not listed in the seven imported method/dataset inventories.
+Related foundations and context for our survey.
 
-[PDF](https://arxiv.org/pdf/2111.14292) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2111.14292)
 
 <details><summary>BibTeX</summary>
 
@@ -4406,7 +4332,7 @@ Shao, Ruizhi and Zhang, Hongwen and Zhang, He and Chen, Mingjia and Cao, Yan-Pei
 
 Inventory: [Feature-Aligned Reconstruction](feature.md)
 
-[PDF](https://arxiv.org/pdf/2106.03798) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2106.03798)
 
 <details><summary>BibTeX</summary>
 
@@ -4430,7 +4356,7 @@ Feng, Qiao and Liu, Yebin and Lai, Yu-Kun and Yang, Jingyu and Li, Kun. **Advanc
 
 Inventory: [Feature-Aligned Reconstruction](feature.md)
 
-[PDF](https://arxiv.org/pdf/2206.02194) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2206.02194)
 
 <details><summary>BibTeX</summary>
 
@@ -4454,7 +4380,7 @@ Chen, Xu and Jiang, Tianjian and Song, Jie and Yang, Jinlong and Black, Michael 
 
 Inventory: [Conditional Generation](condgen.md)
 
-[PDF](https://arxiv.org/pdf/2201.04123) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2201.04123)
 
 <details><summary>BibTeX</summary>
 
@@ -4476,9 +4402,9 @@ Inventory: [Conditional Generation](condgen.md)
 
 Rombach, Robin and Blattmann, Andreas and Lorenz, Dominik and Esser, Patrick and Ommer, Bj\"orn. **Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)**, 2022.
 
-Context: cited in the survey; not listed in the seven imported method/dataset inventories.
+Related foundations and context for our survey.
 
-[PDF](https://arxiv.org/pdf/2112.10752) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2112.10752)
 
 <details><summary>BibTeX</summary>
 
@@ -4502,9 +4428,7 @@ Weng, Chung-Yi and Curless, Brian and Srinivasan, Pratul P. and Barron, Jonathan
 
 Inventory: [Canonical-Space Temporal Aggregation](temporal.md)
 
-[PDF](https://arxiv.org/pdf/2201.04127) — PDF response confirmed.
-
-[Code](https://github.com/chungyiweng/humannerf) — accessible; provenance requires source review.
+[PDF](https://arxiv.org/pdf/2201.04127) · [Code](https://github.com/chungyiweng/humannerf)
 
 <details><summary>BibTeX</summary>
 
@@ -4528,11 +4452,7 @@ Cai, Zhongang and Ren, Daxuan and Zeng, Ailing and Lin, Zhengyu and Yu, Tao and 
 
 Inventory: [Datasets and Capture Resources](datasets.md)
 
-[PDF](https://arxiv.org/pdf/2204.13686) — PDF response confirmed.
-
-[Project](https://caizhongang.com/projects/HuMMan/) — accessible; provenance requires source review.
-
-[Code](https://github.com/MotrixLab/humman_toolbox) — accessible; provenance requires source review.
+[PDF](https://arxiv.org/pdf/2204.13686) · [Project](https://caizhongang.com/projects/HuMMan/) · [Code](https://github.com/MotrixLab/humman_toolbox)
 
 <details><summary>BibTeX</summary>
 
@@ -4556,9 +4476,7 @@ Xiu, Yuliang and Yang, Jinlong and Tzionas, Dimitrios and Black, Michael J.. **P
 
 Inventory: [Feature-Aligned Reconstruction](feature.md)
 
-[PDF](https://arxiv.org/pdf/2112.09127) — PDF response confirmed.
-
-[Code](https://github.com/YuliangXiu/ICON) — accessible; provenance requires source review.
+[PDF](https://arxiv.org/pdf/2112.09127) · [Code](https://github.com/YuliangXiu/ICON)
 
 <details><summary>BibTeX</summary>
 
@@ -4582,7 +4500,7 @@ Mihajlovic, Marko and Bansal, Aayush and Zollhöfer, Michael and Tang, Siyu and 
 
 Inventory: [Feature-Aligned Reconstruction](feature.md)
 
-[PDF](https://arxiv.org/pdf/2205.04992) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2205.04992)
 
 <details><summary>BibTeX</summary>
 
@@ -4606,7 +4524,7 @@ Yao, Chun-Han and Yang, Jimei and Ceylan, Duygu and Zhou, Yi and Zhou, Yang and 
 
 Inventory: [Template-Constrained Fitting](template.md)
 
-[PDF](https://arxiv.org/pdf/2208.10652) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2208.10652)
 
 <details><summary>BibTeX</summary>
 
@@ -4630,7 +4548,7 @@ Choi, Hongsuk and Moon, Gyeongsik and Armando, Matthieu and Leroy, Vincent and L
 
 Inventory: [Canonical-Space Temporal Aggregation](temporal.md)
 
-[PDF](https://arxiv.org/pdf/2210.00627) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2210.00627)
 
 <details><summary>BibTeX</summary>
 
@@ -4654,7 +4572,7 @@ Huang, Buzhen and Shu, Yuan and Ju, Jingyi and Wang, Yangang. **arXiv preprint a
 
 Inventory: [Datasets and Capture Resources](datasets.md)
 
-[PDF](https://arxiv.org/pdf/2207.05375) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2207.05375)
 
 <details><summary>BibTeX</summary>
 
@@ -4675,7 +4593,7 @@ Zheng, Zerong and Yu, Tao and Liu, Yebin and Dai, Qionghai. **IEEE Transactions 
 
 Inventory: [Feature-Aligned Reconstruction](feature.md)
 
-[PDF](https://arxiv.org/pdf/2007.03858) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2007.03858)
 
 <details><summary>BibTeX</summary>
 
@@ -4700,7 +4618,7 @@ Tiwari, Garvita and Antić, Dimitrije and Lenssen, Jan Eric and Sarafianos, Niko
 
 Inventory: [Template-Constrained Fitting](template.md)
 
-[PDF](https://arxiv.org/pdf/2207.13807) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2207.13807)
 
 <details><summary>BibTeX</summary>
 
@@ -4724,7 +4642,7 @@ Jiang, Boyi and Hong, Yang and Bao, Hujun and Zhang, Juyong. **Proceedings of th
 
 Inventory: [Canonical-Space Temporal Aggregation](temporal.md)
 
-[PDF](https://arxiv.org/pdf/2201.12792) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2201.12792)
 
 <details><summary>BibTeX</summary>
 
@@ -4746,9 +4664,9 @@ Inventory: [Canonical-Space Temporal Aggregation](temporal.md)
 
 Zhou, Shangchen and Chan, Kelvin and Li, Chongyi and Loy, Chen Change. **Advances in Neural Information Processing Systems (NeurIPS)**, 2022.
 
-Context: cited in the survey; not listed in the seven imported method/dataset inventories.
+Related foundations and context for our survey.
 
-[PDF](https://arxiv.org/pdf/2206.11253) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2206.11253)
 
 <details><summary>BibTeX</summary>
 
@@ -4773,9 +4691,9 @@ Context: cited in the survey; not listed in the seven imported method/dataset in
 
 Su, Shih-Yang and Yu, Frank and Zollhoefer, Michael and Rhodin, Helge. **Advances in Neural Information Processing Systems (NeurIPS)**, 2021.
 
-Context: cited in the survey; not listed in the seven imported method/dataset inventories.
+Related foundations and context for our survey.
 
-[PDF](https://arxiv.org/pdf/2102.06199) — PDF linked by primary source.
+[PDF](https://arxiv.org/pdf/2102.06199)
 
 <details><summary>BibTeX</summary>
 
@@ -4799,9 +4717,7 @@ Li, Ruilong and Yang, Shan and Ross, David A. and Kanazawa, Angjoo. **Proceeding
 
 Inventory: [Datasets and Capture Resources](datasets.md)
 
-[PDF](https://arxiv.org/pdf/2101.08779) — PDF response confirmed.
-
-[Project](https://google.github.io/aichoreographer/) — accessible; provenance requires source review.
+[PDF](https://arxiv.org/pdf/2101.08779) · [Project](https://google.github.io/aichoreographer/)
 
 <details><summary>BibTeX</summary>
 
@@ -4823,9 +4739,9 @@ Inventory: [Datasets and Capture Resources](datasets.md)
 
 Peng, Sida and Dong, Junting and Wang, Qianqian and Zhang, Shangzhan and Shuai, Qing and Zhou, Xiaowei and Bao, Hujun. **Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)**, 2021.
 
-Context: cited in the survey; not listed in the seven imported method/dataset inventories.
+Related foundations and context for our survey.
 
-[PDF](https://arxiv.org/pdf/2105.02872) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2105.02872)
 
 <details><summary>BibTeX</summary>
 
@@ -4849,7 +4765,7 @@ Yu, Tao and Zheng, Zerong and Guo, Kaiwen and Liu, Pengpeng and Dai, Qionghai an
 
 Inventory: [Datasets and Capture Resources](datasets.md)
 
-[PDF](https://arxiv.org/pdf/2105.01859) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2105.01859)
 
 <details><summary>BibTeX</summary>
 
@@ -4873,7 +4789,7 @@ Liu, Leyuan and Sun, Jianchi and Gao, Yunqi and Chen, Jingying. **Pattern Recogn
 
 Inventory: [Feature-Aligned Reconstruction](feature.md)
 
-Use the title/source link above for the paper; no confirmed direct PDF is supplied.
+
 
 <details><summary>BibTeX</summary>
 
@@ -4897,7 +4813,7 @@ Rempe, Davis and Birdal, Tolga and Hertzmann, Aaron and Yang, Jimei and Sridhar,
 
 Inventory: [Template-Constrained Fitting](template.md)
 
-[PDF](https://arxiv.org/pdf/2105.04668) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2105.04668)
 
 <details><summary>BibTeX</summary>
 
@@ -4919,9 +4835,9 @@ Inventory: [Template-Constrained Fitting](template.md)
 
 Alldieck, Thiemo and Xu, Hongyi and Sminchisescu, Cristian. **Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)**, 2021.
 
-Context: cited in the survey; not listed in the seven imported method/dataset inventories.
+Related foundations and context for our survey.
 
-[PDF](https://arxiv.org/pdf/2108.10842) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2108.10842)
 
 <details><summary>BibTeX</summary>
 
@@ -4943,9 +4859,9 @@ Context: cited in the survey; not listed in the seven imported method/dataset in
 
 Feng, Yao and Feng, Haiwen and Black, Michael J. and Bolkart, Timo. **ACM Transactions on Graphics**, 2021.
 
-Context: cited in the survey; not listed in the seven imported method/dataset inventories.
+Related foundations and context for our survey.
 
-Use the title/source link above for the paper; no confirmed direct PDF is supplied.
+
 
 <details><summary>BibTeX</summary>
 
@@ -4968,9 +4884,9 @@ Use the title/source link above for the paper; no confirmed direct PDF is suppli
 
 Sun, Yu and Bao, Qian and Liu, Wu and Fu, Yili and Black, Michael J. and Mei, Tao. **Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)**, 2021.
 
-Context: cited in the survey; not listed in the seven imported method/dataset inventories.
+Related foundations and context for our survey.
 
-[PDF](https://arxiv.org/pdf/2008.12272) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2008.12272)
 
 <details><summary>BibTeX</summary>
 
@@ -4992,9 +4908,9 @@ Context: cited in the survey; not listed in the seven imported method/dataset in
 
 Liu, Lingjie and Habermann, Marc and Rudnev, Viktor and Sarkar, Kripasindhu and Gu, Jiatao and Theobalt, Christian. **ACM Transactions on Graphics**, 2021.
 
-Context: cited in the survey; not listed in the seven imported method/dataset inventories.
+Related foundations and context for our survey.
 
-Use the title/source link above for the paper; no confirmed direct PDF is supplied.
+
 
 <details><summary>BibTeX</summary>
 
@@ -5019,9 +4935,7 @@ Peng, Sida and Zhang, Yuanqing and Xu, Yinghao and Wang, Qianqian and Shuai, Qin
 
 Inventory: [Canonical-Space Temporal Aggregation](temporal.md) · [Datasets and Capture Resources](datasets.md)
 
-[PDF](https://arxiv.org/pdf/2012.15838) — PDF response confirmed.
-
-[Code](https://github.com/zju3dv/neuralbody) — accessible; provenance requires source review.
+[PDF](https://arxiv.org/pdf/2012.15838) · [Code](https://github.com/zju3dv/neuralbody)
 
 <details><summary>BibTeX</summary>
 
@@ -5045,7 +4959,7 @@ Kwon, Youngjoong and Kim, Dahun and Ceylan, Duygu and Fuchs, Henry. **Advances i
 
 Inventory: [Feature-Aligned Reconstruction](feature.md)
 
-[PDF](https://proceedings.neurips.cc/paper_files/paper/2021/file/cf866614b6b18cda13fe699a3a65661b-Paper.pdf) — PDF linked by primary source.
+[PDF](https://proceedings.neurips.cc/paper_files/paper/2021/file/cf866614b6b18cda13fe699a3a65661b-Paper.pdf)
 
 <details><summary>BibTeX</summary>
 
@@ -5069,7 +4983,7 @@ Kocabas, Muhammed and Huang, Chun-Hao P. and Hilliges, Otmar and Black, Michael 
 
 Inventory: [Template-Constrained Fitting](template.md)
 
-[PDF](https://arxiv.org/pdf/2104.08527) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2104.08527)
 
 <details><summary>BibTeX</summary>
 
@@ -5093,7 +5007,7 @@ Kolotouros, Nikos and Pavlakos, Georgios and Jayaraman, Dinesh and Daniilidis, K
 
 Inventory: [Template-Constrained Fitting](template.md)
 
-[PDF](https://arxiv.org/pdf/2108.11944) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2108.11944)
 
 <details><summary>BibTeX</summary>
 
@@ -5115,9 +5029,9 @@ Inventory: [Template-Constrained Fitting](template.md)
 
 Wang, Xintao and Xie, Liangbin and Dong, Chao and Shan, Ying. **Proceedings of the IEEE/CVF International Conference on Computer Vision Workshops (ICCVW)**, 2021.
 
-Context: cited in the survey; not listed in the seven imported method/dataset inventories.
+Related foundations and context for our survey.
 
-[PDF](https://arxiv.org/pdf/2107.10833) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2107.10833)
 
 <details><summary>BibTeX</summary>
 
@@ -5139,9 +5053,9 @@ Context: cited in the survey; not listed in the seven imported method/dataset in
 
 Yuan, Ye and Wei, Shih-En and Simon, Tomas and Kitani, Kris and Saragih, Jason. **Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)**, 2021.
 
-Context: cited in the survey; not listed in the seven imported method/dataset inventories.
+Related foundations and context for our survey.
 
-[PDF](https://arxiv.org/pdf/2104.00683) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2104.00683)
 
 <details><summary>BibTeX</summary>
 
@@ -5165,7 +5079,7 @@ Hong, Yang and Zhang, Juyong and Jiang, Boyi and Guo, Yudong and Liu, Ligang and
 
 Inventory: [Feature-Aligned Reconstruction](feature.md)
 
-[PDF](https://arxiv.org/pdf/2104.05289) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2104.05289)
 
 <details><summary>BibTeX</summary>
 
@@ -5187,9 +5101,9 @@ Inventory: [Feature-Aligned Reconstruction](feature.md)
 
 Wang, Xintao and Li, Yu and Zhang, Honglun and Shan, Ying. **Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)**, 2021.
 
-Context: cited in the survey; not listed in the seven imported method/dataset inventories.
+Related foundations and context for our survey.
 
-[PDF](https://arxiv.org/pdf/2101.04061) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2101.04061)
 
 <details><summary>BibTeX</summary>
 
@@ -5216,7 +5130,7 @@ Huang, Zeng and Xu, Yuanlu and Lassner, Christoph and Li, Hao and Tung, Tony. **
 
 Inventory: [Feature-Aligned Reconstruction](feature.md)
 
-[PDF](https://arxiv.org/pdf/2004.04572) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2004.04572)
 
 <details><summary>BibTeX</summary>
 
@@ -5238,9 +5152,9 @@ Inventory: [Feature-Aligned Reconstruction](feature.md)
 
 Ho, Jonathan and Jain, Ajay and Abbeel, Pieter. **Advances in Neural Information Processing Systems (NeurIPS)**, 2020.
 
-Context: cited in the survey; not listed in the seven imported method/dataset inventories.
+Related foundations and context for our survey.
 
-[PDF](https://proceedings.neurips.cc/paper_files/paper/2020/file/4c5bcfec8584af0d967f1ab10179ca4b-Paper.pdf) — PDF linked by primary source.
+[PDF](https://proceedings.neurips.cc/paper_files/paper/2020/file/4c5bcfec8584af0d967f1ab10179ca4b-Paper.pdf)
 
 <details><summary>BibTeX</summary>
 
@@ -5264,7 +5178,7 @@ He, Tong and Collomosse, John and Jin, Hailin and Soatto, Stefano. **Advances in
 
 Inventory: [Feature-Aligned Reconstruction](feature.md)
 
-Use the title/source link above for the paper; no confirmed direct PDF is supplied.
+
 
 <details><summary>BibTeX</summary>
 
@@ -5286,9 +5200,9 @@ Use the title/source link above for the paper; no confirmed direct PDF is suppli
 
 Xu, Hongyi and Bazavan, Eduard Gabriel and Zanfir, Andrei and Freeman, William T. and Sukthankar, Rahul and Sminchisescu, Cristian. **Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)**, 2020.
 
-Context: cited in the survey; not listed in the seven imported method/dataset inventories.
+Related foundations and context for our survey.
 
-Use the title/source link above for the paper; no confirmed direct PDF is supplied.
+
 
 <details><summary>BibTeX</summary>
 
@@ -5310,9 +5224,9 @@ Use the title/source link above for the paper; no confirmed direct PDF is suppli
 
 Chibane, Julian and Alldieck, Thiemo and Pons-Moll, Gerard. **Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)**, 2020.
 
-Context: cited in the survey; not listed in the seven imported method/dataset inventories.
+Related foundations and context for our survey.
 
-[PDF](https://arxiv.org/pdf/2003.01456) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2003.01456)
 
 <details><summary>BibTeX</summary>
 
@@ -5336,11 +5250,7 @@ Qianli Ma and Jinlong Yang and Anurag Ranjan and Sergi Pujades and Gerard Pons-M
 
 Inventory: [Datasets and Capture Resources](datasets.md)
 
-[PDF](http://openaccess.thecvf.com/content_CVPR_2020/papers/Ma_Learning_to_Dress_3D_People_in_Generative_Clothing_CVPR_2020_paper.pdf) — PDF linked by primary source.
-
-[Project](https://cape.is.tue.mpg.de/) — Author project linked by primary source.
-
-[Code](https://github.com/qianlim/CAPE) — Official implementation identified through author/paper source.
+[PDF](http://openaccess.thecvf.com/content_CVPR_2020/papers/Ma_Learning_to_Dress_3D_People_in_Generative_Clothing_CVPR_2020_paper.pdf) · [Project](https://cape.is.tue.mpg.de/) · [Code](https://github.com/qianlim/CAPE)
 
 <details><summary>BibTeX</summary>
 
@@ -5362,9 +5272,9 @@ Inventory: [Datasets and Capture Resources](datasets.md)
 
 Mildenhall, Ben and Srinivasan, Pratul P. and Tancik, Matthew and Barron, Jonathan T. and Ramamoorthi, Ravi and Ng, Ren. **European Conference on Computer Vision (ECCV)**, 2020.
 
-Context: cited in the survey; not listed in the seven imported method/dataset inventories.
+Related foundations and context for our survey.
 
-Use the title/source link above for the paper; no confirmed direct PDF is supplied.
+
 
 <details><summary>BibTeX</summary>
 
@@ -5386,9 +5296,9 @@ Use the title/source link above for the paper; no confirmed direct PDF is suppli
 
 Zhang, Jason Y. and Pepose, Sam and Joo, Hanbyul and Ramanan, Deva and Malik, Jitendra and Kanazawa, Angjoo. **European Conference on Computer Vision (ECCV)**, 2020.
 
-Context: cited in the survey; not listed in the seven imported method/dataset inventories.
+Related foundations and context for our survey.
 
-[PDF](https://arxiv.org/pdf/2007.15649) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/2007.15649)
 
 <details><summary>BibTeX</summary>
 
@@ -5410,9 +5320,9 @@ Context: cited in the survey; not listed in the seven imported method/dataset in
 
 Shimada, Soshi and Golyanik, Vladislav and Xu, Weipeng and Theobalt, Christian. **ACM Transactions on Graphics**, 2020.
 
-Context: cited in the survey; not listed in the seven imported method/dataset inventories.
+Related foundations and context for our survey.
 
-[PDF](https://arxiv.org/pdf/2008.08880) — PDF linked by primary source.
+[PDF](https://arxiv.org/pdf/2008.08880)
 
 <details><summary>BibTeX</summary>
 
@@ -5438,9 +5348,7 @@ Saito, Shunsuke and Simon, Tomas and Saragih, Jason and Joo, Hanbyul. **Proceedi
 
 Inventory: [Feature-Aligned Reconstruction](feature.md)
 
-[PDF](https://arxiv.org/pdf/2004.00452) — PDF response confirmed.
-
-[Code](https://github.com/facebookresearch/pifuhd) — accessible; provenance requires source review.
+[PDF](https://arxiv.org/pdf/2004.00452) · [Code](https://github.com/facebookresearch/pifuhd)
 
 <details><summary>BibTeX</summary>
 
@@ -5467,7 +5375,7 @@ Zheng, Zerong and Yu, Tao and Wei, Yixuan and Dai, Qionghai and Liu, Yebin. **Pr
 
 Inventory: [Feature-Aligned Reconstruction](feature.md)
 
-[PDF](https://arxiv.org/pdf/1903.06473) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/1903.06473)
 
 <details><summary>BibTeX</summary>
 
@@ -5489,9 +5397,9 @@ Inventory: [Feature-Aligned Reconstruction](feature.md)
 
 Park, Jeong Joon and Florence, Peter and Straub, Julian and Newcombe, Richard and Lovegrove, Steven. **Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)**, 2019.
 
-Context: cited in the survey; not listed in the seven imported method/dataset inventories.
+Related foundations and context for our survey.
 
-[PDF](https://arxiv.org/pdf/1901.05103) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/1901.05103)
 
 <details><summary>BibTeX</summary>
 
@@ -5515,9 +5423,7 @@ Pavlakos, Georgios and Choutas, Vasileios and Ghorbani, Nima and Bolkart, Timo a
 
 Inventory: [Template-Constrained Fitting](template.md)
 
-[PDF](https://arxiv.org/pdf/1904.05866) — PDF response confirmed.
-
-[Code](https://github.com/vchoutas/smplx) — accessible; provenance requires source review.
+[PDF](https://arxiv.org/pdf/1904.05866) · [Code](https://github.com/vchoutas/smplx)
 
 <details><summary>BibTeX</summary>
 
@@ -5541,7 +5447,7 @@ Kolotouros, Nikos and Pavlakos, Georgios and Black, Michael and Daniilidis, Kost
 
 Inventory: [Template-Constrained Fitting](template.md)
 
-[PDF](https://arxiv.org/pdf/1909.12828) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/1909.12828)
 
 <details><summary>BibTeX</summary>
 
@@ -5565,9 +5471,7 @@ Saito, Shunsuke and Huang, Zeng and Natsume, Ryota and Morishima, Shigeo and Li,
 
 Inventory: [Feature-Aligned Reconstruction](feature.md)
 
-[PDF](https://arxiv.org/pdf/1905.05172) — PDF response confirmed.
-
-[Code](https://github.com/shunsukesaito/PIFu) — accessible; provenance requires source review.
+[PDF](https://arxiv.org/pdf/1905.05172) · [Code](https://github.com/shunsukesaito/PIFu)
 
 <details><summary>BibTeX</summary>
 
@@ -5591,7 +5495,7 @@ Riccardo Marin and Simone Melzi and Niloy J. Mitra and Umberto Castellani. **Eur
 
 Inventory: [Template-Constrained Fitting](template.md)
 
-[PDF](https://diglib.eg.org/bitstreams/b227c692-a1de-48c0-a629-6c2b5bb712c4/download) — PDF linked by primary source.
+[PDF](https://diglib.eg.org/bitstreams/b227c692-a1de-48c0-a629-6c2b5bb712c4/download)
 
 <details><summary>BibTeX</summary>
 
@@ -5613,9 +5517,9 @@ Inventory: [Template-Constrained Fitting](template.md)
 
 Hassan, Mohamed and Choutas, Vasileios and Tzionas, Dimitrios and Black, Michael. **Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)**, 2019.
 
-Context: cited in the survey; not listed in the seven imported method/dataset inventories.
+Related foundations and context for our survey.
 
-[PDF](https://arxiv.org/pdf/1908.06963) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/1908.06963)
 
 <details><summary>BibTeX</summary>
 
@@ -5640,9 +5544,9 @@ Context: cited in the survey; not listed in the seven imported method/dataset in
 
 Guler, Riza Alp and Neverova, Natalia and Kokkinos, Iasonas. **Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)**, 2018.
 
-Context: cited in the survey; not listed in the seven imported method/dataset inventories.
+Related foundations and context for our survey.
 
-[PDF](http://openaccess.thecvf.com/content_cvpr_2018/papers/Guler_DensePose_Dense_Human_CVPR_2018_paper.pdf) — PDF linked by primary source.
+[PDF](http://openaccess.thecvf.com/content_cvpr_2018/papers/Guler_DensePose_Dense_Human_CVPR_2018_paper.pdf)
 
 <details><summary>BibTeX</summary>
 
@@ -5667,7 +5571,7 @@ Yu, Tao and Zheng, Zerong and Guo, Kaiwen and Zhao, Jianhui and Dai, Qionghai an
 
 Inventory: [Template-Constrained Fitting](template.md)
 
-Use the title/source link above for the paper; no confirmed direct PDF is supplied.
+
 
 <details><summary>BibTeX</summary>
 
@@ -5691,7 +5595,7 @@ Kanazawa, Angjoo and Black, Michael J. and Jacobs, David W. and Malik, Jitendra.
 
 Inventory: [Template-Constrained Fitting](template.md)
 
-[PDF](https://arxiv.org/pdf/1712.06584) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/1712.06584)
 
 <details><summary>BibTeX</summary>
 
@@ -5715,7 +5619,7 @@ von Marcard, Timo and Henschel, Roberto and Black, Michael J. and Rosenhahn, Bod
 
 Inventory: [Datasets and Capture Resources](datasets.md)
 
-Use the title/source link above for the paper; no confirmed direct PDF is supplied.
+
 
 <details><summary>BibTeX</summary>
 
@@ -5737,9 +5641,9 @@ Use the title/source link above for the paper; no confirmed direct PDF is suppli
 
 Zhang, Richard and Isola, Phillip and Efros, Alexei A. and Shechtman, Eli and Wang, Oliver. **Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)**, 2018.
 
-Context: cited in the survey; not listed in the seven imported method/dataset inventories.
+Related foundations and context for our survey.
 
-[PDF](https://arxiv.org/pdf/1801.03924) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/1801.03924)
 
 <details><summary>BibTeX</summary>
 
@@ -5763,7 +5667,7 @@ Alldieck, Thiemo and Magnor, Marcus and Xu, Weipeng and Theobalt, Christian and 
 
 Inventory: [Datasets and Capture Resources](datasets.md)
 
-Use the title/source link above for the paper; no confirmed direct PDF is supplied.
+
 
 <details><summary>BibTeX</summary>
 
@@ -5788,9 +5692,9 @@ Use the title/source link above for the paper; no confirmed direct PDF is suppli
 
 Heusel, Martin and Ramsauer, Hubert and Unterthiner, Thomas and Nessler, Bernhard and Hochreiter, Sepp. **Advances in Neural Information Processing Systems (NeurIPS)**, 2017.
 
-Context: cited in the survey; not listed in the seven imported method/dataset inventories.
+Related foundations and context for our survey.
 
-[PDF](https://proceedings.neurips.cc/paper_files/paper/2017/file/8a1d694707eb0fefe65871369074926d-Paper.pdf) — PDF linked by primary source.
+[PDF](https://proceedings.neurips.cc/paper_files/paper/2017/file/8a1d694707eb0fefe65871369074926d-Paper.pdf)
 
 <details><summary>BibTeX</summary>
 
@@ -5817,7 +5721,7 @@ Bogo, Federica and Kanazawa, Angjoo and Lassner, Christoph and Gehler, Peter and
 
 Inventory: [Template-Constrained Fitting](template.md)
 
-[PDF](https://arxiv.org/pdf/1607.08128) — PDF response confirmed.
+[PDF](https://arxiv.org/pdf/1607.08128)
 
 <details><summary>BibTeX</summary>
 
@@ -5844,7 +5748,7 @@ Bogo, Federica and Black, Michael J. and Loper, Matthew and Romero, Javier. **Pr
 
 Inventory: [Template-Constrained Fitting](template.md)
 
-Use the title/source link above for the paper; no confirmed direct PDF is supplied.
+
 
 <details><summary>BibTeX</summary>
 
@@ -5866,9 +5770,9 @@ Use the title/source link above for the paper; no confirmed direct PDF is suppli
 
 Loper, Matthew and Mahmood, Naureen and Romero, Javier and Pons-Moll, Gerard and Black, Michael J.. **ACM Transactions on Graphics**, 2015.
 
-Context: cited in the survey; not listed in the seven imported method/dataset inventories.
+Related foundations and context for our survey.
 
-Use the title/source link above for the paper; no confirmed direct PDF is supplied.
+
 
 <details><summary>BibTeX</summary>
 
@@ -5894,9 +5798,9 @@ Use the title/source link above for the paper; no confirmed direct PDF is suppli
 
 Anguelov, Dragomir and Srinivasan, Praveen and Koller, Daphne and Thrun, Sebastian and Rodgers, Jim and Davis, James. **ACM Transactions on Graphics**, 2005.
 
-Context: cited in the survey; not listed in the seven imported method/dataset inventories.
+Related foundations and context for our survey.
 
-Use the title/source link above for the paper; no confirmed direct PDF is supplied.
+
 
 <details><summary>BibTeX</summary>
 
@@ -5922,9 +5826,9 @@ Use the title/source link above for the paper; no confirmed direct PDF is suppli
 
 Blanz, Volker and Vetter, Thomas. **ACM SIGGRAPH Conference Papers**, 1999.
 
-Context: cited in the survey; not listed in the seven imported method/dataset inventories.
+Related foundations and context for our survey.
 
-Use the title/source link above for the paper; no confirmed direct PDF is supplied.
+
 
 <details><summary>BibTeX</summary>
 

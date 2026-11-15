@@ -5,7 +5,7 @@ Register observations to a pose-neutral domain and accumulate reliable evidence 
 
 > Transient occlusion can be resolved by other frames; permanently unseen content needs additional assumptions. MonoNHR is a single-image structural counterpart, not temporal aggregation.
 
-These rows reproduce the manuscript inventory. Years and technical labels are imported; see the [provenance policy](../data/README.md). PA = pixel alignment; VA = voxel alignment; SDS = score distillation. A dash means unreported or not specified by the source table.
+We summarize representative work reviewed in our survey below. PA = pixel alignment; VA = voxel alignment; SDS = score distillation. A dash indicates information not reported in the cited source.
 
 | Method | Year | Input | Representation | Completion / occlusion mechanism | Source |
 | --- | --- | --- | --- | --- | --- |

@@ -5,7 +5,7 @@ Restrict the human state to a statistical body-model manifold. Optimization, reg
 
 > Complete articulation does not imply complete clothed geometry. This inventory also includes neighboring scene, garment, and RGB-D estimation systems.
 
-These rows reproduce the manuscript inventory. Years and technical labels are imported; see the [provenance policy](../data/README.md). PA = pixel alignment; VA = voxel alignment; SDS = score distillation. A dash means unreported or not specified by the source table.
+We summarize representative work reviewed in our survey below. PA = pixel alignment; VA = voxel alignment; SDS = score distillation. A dash indicates information not reported in the cited source.
 
 ## Body recovery from RGB
 

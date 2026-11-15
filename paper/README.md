@@ -4,8 +4,8 @@
 
 Jinlong Fan, Jing Zhang, Mingming Gong, Yuxiang Yang, and Dacheng Tao.
 
-[Local manuscript snapshot](survey-draft.pdf) · [Draft citation](citation.bib)
+[Read our survey](survey-draft.pdf) · [BibTeX](citation.bib)
 
-This PDF follows the author's finalized v2 manuscript, synchronized on 2026-11-14. This is not a claim of arXiv publication or journal acceptance. The source template's arXiv identifier belongs to another paper and must not be used for this survey.
+We review how human reconstruction methods combine incomplete observations with structural, learned, and generative priors. Our taxonomy connects six method families and their combinations, followed by datasets, evaluation challenges, and future research directions. The accompanying [resource collection](../README.md) provides literature and implementation entry points for further exploration.
 
 Corresponding author: Yuxiang Yang, yyx@hdu.edu.cn.

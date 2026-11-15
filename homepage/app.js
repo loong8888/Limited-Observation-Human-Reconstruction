@@ -22,7 +22,7 @@ function render(){
   const filtered=data.papers.filter(p=>(!$('family').value||p.inventory_groups.includes($('family').value))&&(!$('year').value||p.year===$('year').value)&&matches([p.title,p.authors,p.venue,p.id,context.get(p.id)||''].join(' ')));
   filtered.sort((a,b)=>$('sort').value==='title'?a.title.localeCompare(b.title):($('sort').value==='oldest'?a.year.localeCompare(b.year):b.year.localeCompare(a.year))||a.title.localeCompare(b.title));
   $('count').textContent=filtered.length+' paper'+(filtered.length===1?'':'s');
-  $('scope').textContent='Imported bibliography; inventory placement includes boundary cases and is not exclusive classification.';
+  $('scope').textContent='Explore our method families and related foundations; hybrid systems may span several families.';
   $('results').innerHTML=filtered.map(p=>'<article class="entry"><div class="year">'+escapeHTML(p.year)+'</div><div><h2>'+(p.url?external(p.url,p.title):escapeHTML(p.title))+'</h2><p class="meta">'+escapeHTML(p.authors)+'</p><p class="venue">'+escapeHTML(p.venue||'Venue not specified')+'</p><div class="badges">'+(p.inventory_groups.length?p.inventory_groups.map(g=>'<span class="badge '+g+'">'+escapeHTML(shortNames[g])+'</span>').join(''):'<span class="badge">Foundations / context</span>')+'</div></div><div class="links">'+(p.url?external(p.url,'Paper ↗'):'<span>No direct link</span>')+'<button type="button" data-copy="'+escapeHTML(p.id)+'">Copy BibTeX</button><a href="../resources/papers.md#'+encodeURIComponent(p.id)+'">Record</a></div></article>').join('');
  } else if(tab==='datasets'){
   const g=data.inventories.find(g=>g.id==='datasets');const rows=g.rows.filter(r=>matches(r.cells.join(' ')));
@@ -30,14 +30,14 @@ function render(){
   $('results').innerHTML=rows.map(r=>'<article class="dataset"><h2>'+escapeHTML(r.name)+'</h2><dl class="facts">'+r.cells.slice(1).map((c,i)=>'<div><dt>'+escapeHTML(g.headers[i+1])+'</dt><dd>'+escapeHTML(c)+'</dd></div>').join('')+'</dl><p class="meta">'+r.citations.map(id=>paperMap[id].url?external(paperMap[id].url,'Source paper'):'<a href="../resources/papers.md#'+id+'">Reference</a>').join(' · ')+'</p></article>').join('');
  } else {
   const rows=data.tools.filter(t=>matches([t.name,t.category,t.purpose,t.caveat].join(' ')));
-  $('count').textContent=rows.length+' resources';$('scope').textContent='Official repository pages checked 13 November 2026; software and licenses need project-specific review.';
+  $('count').textContent=rows.length+' resources';$('scope').textContent='Reusable tools and complementary collections; follow each project for setup, data access, and licensing.';
   $('results').innerHTML=rows.map(t=>'<article class="tool"><small>'+escapeHTML(t.category)+'</small><h2>'+external(t.url,t.name)+'</h2><p>'+escapeHTML(t.purpose)+'</p><p class="meta">'+escapeHTML(t.caveat)+'</p></article>').join('');
  }
  if(tab==='papers') for(const button of document.querySelectorAll('[data-copy]')){
   const record=data.paper_links[button.dataset.copy];
   if(record) for(const [field,label] of [['pdf_url','PDF'],['project_url','Project'],['code_url','Code']]){
    if(!record[field])continue;
-   const a=document.createElement('a');a.href=record[field];a.textContent=label+' ↗';a.title=record.checks[field];a.target='_blank';a.rel='noopener noreferrer';button.parentElement.appendChild(a);
+   const a=document.createElement('a');a.href=record[field];a.textContent=label+' ↗';a.title=label;a.target='_blank';a.rel='noopener noreferrer';button.parentElement.appendChild(a);
   }
  }
  if(!$('results').children.length) $('results').innerHTML='<p class="empty">No matching entries.</p>';
