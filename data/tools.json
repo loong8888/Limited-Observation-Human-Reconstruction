@@ -1,0 +1,92 @@
+[
+  {
+    "name": "SMPL-X",
+    "category": "Body models",
+    "url": "https://github.com/vchoutas/smplx",
+    "purpose": "Parametric body, face, and hand modeling for structural scaffolds.",
+    "caveat": "Code access and model-data access have separate terms; fitting a template does not recover clothing.",
+    "link_checked": "2026-11-13",
+    "check_scope": "Official repository page accessed; software not installed or benchmarked"
+  },
+  {
+    "name": "PyTorch3D",
+    "category": "Rendering and geometry",
+    "url": "https://github.com/facebookresearch/pytorch3d",
+    "purpose": "Differentiable 3D components for geometry and rendering pipelines.",
+    "caveat": "Provides components, not a complete occluded-human reconstruction system.",
+    "link_checked": "2026-11-13",
+    "check_scope": "Official repository page accessed; software not installed or benchmarked"
+  },
+  {
+    "name": "nvdiffrast",
+    "category": "Rendering and geometry",
+    "url": "https://github.com/NVlabs/nvdiffrast",
+    "purpose": "Differentiable rasterization primitives for mesh-based pipelines.",
+    "caveat": "Rasterization cannot infer unseen geometry by itself.",
+    "link_checked": "2026-11-13",
+    "check_scope": "Official repository page accessed; software not installed or benchmarked"
+  },
+  {
+    "name": "gsplat",
+    "category": "Gaussian rendering",
+    "url": "https://github.com/nerfstudio-project/gsplat",
+    "purpose": "CUDA-accelerated Gaussian-splatting rasterization.",
+    "caveat": "Human articulation, deformation, and completion require additional modeling.",
+    "link_checked": "2026-11-13",
+    "check_scope": "Official repository page accessed; software not installed or benchmarked"
+  },
+  {
+    "name": "COLMAP",
+    "category": "Camera estimation",
+    "url": "https://github.com/colmap/colmap",
+    "purpose": "Structure-from-motion and multi-view stereo for suitable static evidence.",
+    "caveat": "A moving articulated person violates a static-scene assumption; do not apply blindly.",
+    "link_checked": "2026-11-13",
+    "check_scope": "Official repository page accessed; software not installed or benchmarked"
+  },
+  {
+    "name": "Open3D",
+    "category": "Geometry processing",
+    "url": "https://github.com/isl-org/Open3D",
+    "purpose": "Point-cloud and mesh processing, registration, and inspection.",
+    "caveat": "Check alignment and visibility before using geometric comparisons.",
+    "link_checked": "2026-11-13",
+    "check_scope": "Official repository page accessed; software not installed or benchmarked"
+  },
+  {
+    "name": "LPIPS",
+    "category": "Evaluation",
+    "url": "https://github.com/richzhang/PerceptualSimilarity",
+    "purpose": "Learned perceptual image-distance implementation.",
+    "caveat": "Specify version, backbone, image scaling, crop, and whether LPIPS is multiplied by 1000.",
+    "link_checked": "2026-11-13",
+    "check_scope": "Official repository page accessed; software not installed or benchmarked"
+  },
+  {
+    "name": "Diffusers",
+    "category": "Generative priors",
+    "url": "https://github.com/huggingface/diffusers",
+    "purpose": "Reusable diffusion-model components for image and video priors.",
+    "caveat": "Models have separate licenses and may hallucinate identity-inconsistent detail.",
+    "link_checked": "2026-11-13",
+    "check_scope": "Official repository page accessed; software not installed or benchmarked"
+  },
+  {
+    "name": "Awesome Digital Human",
+    "category": "Related collections",
+    "url": "https://github.com/weihaox/awesome-digital-human",
+    "purpose": "Broader digital-human modeling, generation, animation, and digitization resources.",
+    "caveat": "Discovery collection; verify each entry against its original source.",
+    "link_checked": "2026-11-13",
+    "check_scope": "Official repository page accessed; software not installed or benchmarked"
+  },
+  {
+    "name": "Awesome 3D Human Reconstruction",
+    "category": "Related collections",
+    "url": "https://github.com/rlczddl/awesome-3d-human-reconstruction",
+    "purpose": "Complementary human reconstruction literature collection.",
+    "caveat": "A complementary index, not an independently controlled comparison.",
+    "link_checked": "2026-11-13",
+    "check_scope": "Official repository page accessed; software not installed or benchmarked"
+  }
+]

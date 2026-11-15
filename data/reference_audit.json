@@ -1,0 +1,4440 @@
+[
+  {
+    "id": "abe2026gush3r",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "https://arxiv.org/pdf/2607.05243",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://arxiv.org/abs/2607.05243",
+        "title": "GUSH3R: Everyone Everywhere All at Once as Gaussians"
+      }
+    ],
+    "issues": [],
+    "arxiv_title": "GUSH3R: Everyone Everywhere All at Once as Gaussians"
+  },
+  {
+    "id": "alldieck2018peoplesnapshot",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/cvpr.2018.00875",
+        "title": [
+          "Video Based Reconstruction of 3D People Models"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "alldieck2021imghum",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/iccv48922.2021.00541",
+        "title": [
+          "imGHUM: Implicit Generative Models of 3D Human Shape and Articulated Pose"
+        ]
+      }
+    ],
+    "issues": [],
+    "resolutions": [
+      "Removed optional pages because source pagination differs."
+    ]
+  },
+  {
+    "id": "anguelov2005scape",
+    "checked": "2026-11-14",
+    "metadata_status": "primary_full_title_crosschecked",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1145/1073204.1073207",
+        "title": [
+          "SCAPE"
+        ]
+      },
+      {
+        "url": "https://ai.stanford.edu/~koller/Papers/Anguelov%2Bal%3ASIGGRAPH05.pdf",
+        "note": "Full paper title confirmed through author paper/project; Crossref short title is not a mismatch."
+      }
+    ],
+    "issues": [],
+    "resolutions": [
+      "Crossref supplies a short title; full subtitle not independently checked"
+    ]
+  },
+  {
+    "id": "anim2024",
+    "checked": "2026-11-14",
+    "metadata_status": "primary_source_crosschecked",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/v1/works/10.1109%2Fcvpr52733.2024.00521/transform",
+        "title": ""
+      },
+      {
+        "url": "https://openaccess.thecvf.com/content/CVPR2024/html/Pesavento_ANIM_Accurate_Neural_Implicit_Model_for_Human_Reconstruction_from_a_CVPR_2024_paper.html",
+        "resolved": "https://openaccess.thecvf.com/content/CVPR2024/html/Pesavento_ANIM_Accurate_Neural_Implicit_Model_for_Human_Reconstruction_from_a_CVPR_2024_paper.html",
+        "http_access": true,
+        "title": "ANIM: Accurate Neural Implicit Model for Human Reconstruction from a single RGB-D Image"
+      }
+    ],
+    "issues": [],
+    "historical_issues": [
+      "HTTPError: HTTP Error 429: Too Many Requests"
+    ]
+  },
+  {
+    "id": "arindam2025chrome",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/iccv51701.2025.00853",
+        "title": [
+          "CHROME: Clothed Human Reconstruction with Occlusion-Resilience and Multiview-Consistency from a Single Image"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "bhatnagar2022behave",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "https://virtualhumans.mpi-inf.mpg.de/behave/",
+    "code_url": "",
+    "evidence": [
+      {
+        "source": "reference repository; exact normalized title match",
+        "record_title": "BEHAVE: Dataset and Method for Tracking Human Object Interactions"
+      },
+      {
+        "url": "https://api.crossref.org/works/10.1109/cvpr52688.2022.01547",
+        "title": [
+          "BEHAVE: Dataset and Method for Tracking Human Object Interactions"
+        ]
+      }
+    ],
+    "issues": [],
+    "resolutions": [
+      "Removed optional pages because source pagination differs."
+    ]
+  },
+  {
+    "id": "black2023bedlam",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "https://bedlam.is.tue.mpg.de/",
+    "code_url": "",
+    "evidence": [
+      {
+        "source": "reference repository; exact normalized title match",
+        "record_title": "BEDLAM: A Synthetic Dataset of Bodies Exhibiting Detailed Lifelike Animated Motion"
+      },
+      {
+        "url": "https://api.crossref.org/works/10.1109/cvpr52729.2023.00843",
+        "title": [
+          "BEDLAM: A Synthetic Dataset of Bodies Exhibiting Detailed Lifelike Animated Motion"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "blanz1999morphable",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1145/311535.311556",
+        "title": [
+          "A morphable model for the synthesis of 3D faces"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "bogo2015detailed",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/iccv.2015.265",
+        "title": [
+          "Detailed Full-Body Reconstructions of Moving People from Monocular RGB-D Sequences"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "bogo2016smplify",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1007/978-3-319-46454-1_34",
+        "title": [
+          "Keep It SMPL: Automatic Estimation of 3D Human Pose and Shape from a Single Image"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "cai2022humman",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "https://caizhongang.com/projects/HuMMan/",
+    "code_url": "https://github.com/MotrixLab/humman_toolbox",
+    "evidence": [
+      {
+        "source": "reference repository; exact normalized title match",
+        "record_title": "HuMMan: Multi-Modal 4D Human Dataset for Versatile Sensing and Modeling"
+      },
+      {
+        "url": "https://api.crossref.org/works/10.1007/978-3-031-20071-7_33",
+        "title": [
+          "HuMMan: Multi-modal 4D Human Dataset for Versatile Sensing and Modeling"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "cai2023smplerx",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "https://github.com/caizhongang/SMPLer-X",
+    "evidence": [
+      {
+        "source": "reference repository; exact normalized title match",
+        "record_title": "SMPLer-X: Scaling Up Expressive Human Pose and Shape Estimation"
+      },
+      {
+        "url": "https://api.crossref.org/works/10.52202/075280-0506",
+        "title": [
+          "SMPLer-X: Scaling Up Expressive Human Pose and Shape Estimation"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "cai2025up2you",
+    "checked": "2026-11-14",
+    "metadata_status": "primary_source_crosschecked",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/63fa7efdd3bcf944a4bd6e0ff6a50041-Abstract-Conference.html",
+        "resolved": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/63fa7efdd3bcf944a4bd6e0ff6a50041-Abstract-Conference.html",
+        "http_access": true,
+        "title": "UP2You: Fast Reconstruction of Yourself from Unconstrained Photo Collections"
+      }
+    ],
+    "issues": [],
+    "historical_issues": []
+  },
+  {
+    "id": "cao2024dreamavatar",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/cvpr52733.2024.00097",
+        "title": [
+          "DreamAvatar: Text-and-Shape Guided 3D Human Avatar Generation via Diffusion Models"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "chatgarment2025",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/cvpr52734.2025.00278",
+        "title": [
+          "ChatGarment: Garment Estimation, Generation and Editing via Large Language Models"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "chen2022gdna",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/cvpr52688.2022.01978",
+        "title": [
+          "gDNA: Towards Generative Detailed Neural Avatars"
+        ]
+      }
+    ],
+    "issues": [],
+    "resolutions": [
+      "Removed optional pages because source pagination differs."
+    ]
+  },
+  {
+    "id": "chen2023gta",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.52202/075280-0343",
+        "title": [
+          "Global-correlated 3D-decoupling Transformer for Clothed Avatar Reconstruction"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "chen2023primdiffusion",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.52202/075280-0602",
+        "title": [
+          "PrimDiffusion: Volumetric Primitives Diffusion for 3D Human Generation"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "chen2024morphable",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/cvpr52733.2024.00986",
+        "title": [
+          "Morphable Diffusion: 3D-Consistent Diffusion for Single-image Avatar Creation"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "chen2024restoreagent",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.52202/079017-3512",
+        "title": [
+          "RestoreAgent: Autonomous Image Restoration Agent via Multimodal Large Language Models"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "chen2025hart",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "https://arxiv.org/pdf/2509.26621",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://arxiv.org/abs/2509.26621",
+        "title": "HART: Human Aligned Reconstruction Transformer"
+      }
+    ],
+    "issues": [],
+    "arxiv_title": "HART: Human Aligned Reconstruction Transformer"
+  },
+  {
+    "id": "chen2026clothedsurvey",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s44443-025-00460-1.pdf",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1007/s44443-025-00460-1",
+        "title": [
+          "Clothed human reconstruction from RGB data: A survey of traditional and diffusion-based methods"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "cheng2023dnarendering",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "https://dna-rendering.github.io/",
+    "code_url": "",
+    "evidence": [
+      {
+        "source": "reference repository; exact normalized title match",
+        "record_title": "DNA-Rendering: A Diverse Neural Actor Repository for High-Fidelity Human-centric Rendering"
+      },
+      {
+        "url": "https://api.crossref.org/works/10.1109/iccv51070.2023.01829",
+        "title": [
+          "DNA-Rendering: A Diverse Neural Actor Repository for High-Fidelity Human-centric Rendering"
+        ]
+      }
+    ],
+    "issues": [],
+    "resolutions": [
+      "Removed optional pages because source pagination differs."
+    ]
+  },
+  {
+    "id": "chibane2020ifnet",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/cvpr42600.2020.00700",
+        "title": [
+          "Implicit Functions in Feature Space for 3D Shape Reconstruction and Completion"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "chung2023dps",
+    "checked": "2026-11-14",
+    "metadata_status": "primary_source_crosschecked",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://arxiv.org/abs/2209.14687",
+        "resolved": "https://arxiv.org/abs/2209.14687",
+        "http_access": true,
+        "title": "Diffusion Posterior Sampling for General Noisy Inverse Problems"
+      }
+    ],
+    "issues": [],
+    "historical_issues": []
+  },
+  {
+    "id": "dang2023reconstructing",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1111/cgf.14982",
+        "title": [
+          "Reconstructing 3D Human Pose from RGB‐D Data with Occlusions"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "deblur4dgs2026",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/38047/42009",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1609/aaai.v40i13.38047",
+        "title": [
+          "Deblur4DGS: 4D Gaussian Splatting from Blurry Monocular Video"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "deephuman2019",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/iccv.2019.00783",
+        "title": [
+          "DeepHuman: 3D Human Reconstruction From a Single Image"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "deng2024portrait4d",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/cvpr52733.2024.00680",
+        "title": [
+          "Portrait4D: Learning One-Shot 4D Head Avatar Synthesis using Synthetic Data"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "diffusion3dsurvey",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "https://arxiv.org/pdf/2410.04738",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://arxiv.org/abs/2410.04738",
+        "title": "Diffusion Models in 3D Vision: A Survey"
+      }
+    ],
+    "issues": [],
+    "arxiv_title": "Diffusion Models in 3D Vision: A Survey"
+  },
+  {
+    "id": "difu2023",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/cvpr52729.2023.00844",
+        "title": [
+          "DIFu: Depth-Guided Implicit Function for Clothed Human Reconstruction"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "digsavatar2026",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1007/978-3-032-37467-7_30",
+        "title": [
+          "DiGS-Avatar: Single-Image Animatable 3D Human Reconstruction via UV-Space Diffusion"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "dong2025moga",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/iccv51701.2025.01236",
+        "title": [
+          "MoGA: 3D Generative Avatar Prior for Monocular Gaussian Avatar Reconstruction"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "doublefusion2018",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/cvpr.2018.00761",
+        "title": [
+          "DoubleFusion: Real-Time Capture of Human Performances with Inner Body Shapes from a Single Depth Sensor"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "facegpt2025",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "https://arxiv.org/pdf/2406.07163",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://arxiv.org/abs/2406.07163",
+        "title": "FaceGPT: Self-supervised Learning to Chat about 3D Human Faces"
+      }
+    ],
+    "issues": [],
+    "arxiv_title": "FaceGPT: Self-supervised Learning to Chat about 3D Human Faces"
+  },
+  {
+    "id": "feng2021deca",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1145/3450626.3459936",
+        "title": [
+          "Learning an animatable detailed 3D face model from in-the-wild images"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "feng2022fof",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.52202/068431-0537",
+        "title": [
+          "FOF: Learning Fourier Occupancy Field for Monocular Real-Time Human Reconstruction"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "feng2024chatpose",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "https://github.com/yfeng95/PoseGPT",
+    "evidence": [
+      {
+        "source": "reference repository; exact normalized title match",
+        "record_title": "Chatpose: Chatting about 3d Human Pose"
+      },
+      {
+        "url": "https://api.crossref.org/works/10.1109/cvpr52733.2024.00204",
+        "title": [
+          "ChatPose: Chatting about 3D Human Pose"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "feng2025chathuman",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/cvpr52734.2025.00763",
+        "title": [
+          "ChatHuman: Chatting about 3D Humans with Tools"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "finer2025rgbd",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1007/978-3-031-82021-2_9",
+        "title": [
+          "Towards Finer Human Reconstruction for Single RGB-D Images"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "flexavatar2026",
+    "checked": "2026-11-14",
+    "metadata_status": "primary_source_crosschecked",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://arxiv.org/abs/2512.17717",
+        "resolved": "https://arxiv.org/abs/2512.17717",
+        "http_access": true,
+        "title": "FlexAvatar: Flexible Large Reconstruction Model for Animatable Gaussian Head Avatars with Detailed Deformation"
+      }
+    ],
+    "issues": [],
+    "historical_issues": []
+  },
+  {
+    "id": "gas2025",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/iccv51701.2025.01197",
+        "title": [
+          "GAS: Generative Avatar Synthesis from a Single Image"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "gbcsplat2025",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/cvpr52734.2025.02456",
+        "title": [
+          "GBC-Splat: Generalizable Gaussian-Based Clothed Human Digitalization under Sparse RGB Cameras"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "gene2025man",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.52202/085713-2759",
+        "title": [
+          "GeneMAN: Generalizable Single-Image 3D Human Reconstruction from Multi-Source Human Data"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "genlca2026",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "https://onethousandwu.com/GenLCA-Page/",
+    "code_url": "",
+    "evidence": [
+      {
+        "source": "reference repository; exact normalized title match",
+        "record_title": "GenLCA: 3D Diffusion for Full-Body Avatars from In-the-Wild Videos"
+      },
+      {
+        "url": "https://api.crossref.org/works/10.1007/978-3-032-37335-9_10",
+        "title": [
+          "GenLCA: 3D Diffusion for Full-Body Avatars from In-the-Wild Videos"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "geopifu2020",
+    "checked": "2026-11-14",
+    "metadata_status": "primary_source_crosschecked",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://proceedings.neurips.cc/paper_files/paper/2020/file/690f44c8c2b7ded579d01abe8fdb6110-Paper.pdf",
+        "resolved": "https://proceedings.neurips.cc/paper_files/paper/2020/file/690f44c8c2b7ded579d01abe8fdb6110-Paper.pdf",
+        "http_access": true,
+        "title": ""
+      }
+    ],
+    "issues": [],
+    "historical_issues": []
+  },
+  {
+    "id": "goel2023hmr2",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/iccv51070.2023.01358",
+        "title": [
+          "Humans in 4D: Reconstructing and Tracking Humans with Transformers"
+        ]
+      }
+    ],
+    "issues": [],
+    "resolutions": [
+      "Removed optional pages because source pagination differs."
+    ]
+  },
+  {
+    "id": "gshumansurvey",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1145/3807511",
+        "title": [
+          "A Survey on 3D Gaussian Splatting"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "guler2018densepose",
+    "checked": "2026-11-14",
+    "metadata_status": "primary_source_crosschecked",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/v1/works/10.1109%2Fcvpr.2018.00762/transform",
+        "title": ""
+      },
+      {
+        "url": "https://openaccess.thecvf.com/content_cvpr_2018/html/Guler_DensePose_Dense_Human_CVPR_2018_paper.html",
+        "resolved": "https://openaccess.thecvf.com/content_cvpr_2018/html/Guler_DensePose_Dense_Human_CVPR_2018_paper.html",
+        "http_access": true,
+        "title": "DensePose: Dense Human Pose Estimation in the Wild"
+      }
+    ],
+    "issues": [],
+    "historical_issues": [
+      "HTTPError: HTTP Error 429: Too Many Requests"
+    ]
+  },
+  {
+    "id": "guo2023vid2avatar",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/cvpr52729.2023.01236",
+        "title": [
+          "Vid2Avatar: 3D Avatar Reconstruction from Videos in the Wild via Self-supervised Scene Decomposition"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "guo2025vid2avatarpro",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/cvpr52734.2025.00522",
+        "title": [
+          "Vid2Avatar-Pro: Authentic Avatar from Videos in the Wild via Universal Prior"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "han20232k2k",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/cvpr52729.2023.01237",
+        "title": [
+          "High-fidelity 3D Human Digitization from Single 2K Resolution Images"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "han2023headsculpt",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.52202/075280-0218",
+        "title": [
+          "HeadSculpt: Crafting 3D Head Avatars with Text"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "harmony4d2024",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "https://jyuntins.github.io/harmony4d/",
+    "code_url": "",
+    "evidence": [
+      {
+        "source": "reference repository; exact normalized title match",
+        "record_title": "Harmony4D: A Video Dataset for In-The-Wild Close Human Interactions"
+      },
+      {
+        "url": "https://api.crossref.org/works/10.52202/079017-3407",
+        "title": [
+          "Harmony4D: A Video Dataset for In-The-Wild Close Human Interactions"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "hassan2019prox",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/iccv.2019.00237",
+        "title": [
+          "Resolving 3D Human Pose Ambiguities With 3D Scene Constraints"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "havefun2024",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/cvpr52733.2024.00077",
+        "title": [
+          "HAVE-FUN: Human Avatar Reconstruction from Few-Shot Unconstrained Images"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "he2024magicman",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/32356/34511",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1609/aaai.v39i3.32356",
+        "title": [
+          "MagicMan: Generative Novel View Synthesis of Humans with 3D-Aware Diffusion and Iterative Refinement"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "heihuman2024",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1007/978-3-030-88007-1_21",
+        "title": [
+          "HEI-Human: A Hybrid Explicit and Implicit Method for Single-View 3D Clothed Human Reconstruction"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "heusel2017fid",
+    "checked": "2026-11-14",
+    "metadata_status": "primary_source_crosschecked",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://proceedings.neurips.cc/paper/2017/hash/8a1d694707eb0fefe65871369074926d-Abstract.html",
+        "resolved": "https://proceedings.neurips.cc/paper/2017/hash/8a1d694707eb0fefe65871369074926d-Abstract.html",
+        "http_access": true,
+        "title": "GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium"
+      }
+    ],
+    "issues": [],
+    "historical_issues": []
+  },
+  {
+    "id": "hint2024",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/iv55156.2024.10588836",
+        "title": [
+          "HINT: Learning Complete Human Neural Representations from Limited Viewpoints"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "ho2020ddpm",
+    "checked": "2026-11-14",
+    "metadata_status": "primary_source_crosschecked",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://proceedings.neurips.cc/paper/2020/hash/4c5bcfec8584af0d967f1ab10179ca4b-Abstract.html",
+        "resolved": "https://proceedings.neurips.cc/paper/2020/hash/4c5bcfec8584af0d967f1ab10179ca4b-Abstract.html",
+        "http_access": true,
+        "title": "Denoising Diffusion Probabilistic Models"
+      }
+    ],
+    "issues": [],
+    "historical_issues": []
+  },
+  {
+    "id": "ho2023customhumans",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/cvpr52729.2023.02014",
+        "title": [
+          "Learning Locally Editable Virtual Humans"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "ho2024sith",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/cvpr52733.2024.00058",
+        "title": [
+          "SiTH: Single-view Textured Human Reconstruction with Image-Conditioned Diffusion"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "hong2021stereopifu",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/cvpr46437.2021.00060",
+        "title": [
+          "StereoPIFu: Depth Aware Clothed Human Digitization via Stereo Vision"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "hong2022avatarclip",
+    "checked": "2026-11-14",
+    "metadata_status": "primary_full_title_crosschecked",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1145/3528223.3530094",
+        "title": [
+          "AvatarCLIP"
+        ]
+      },
+      {
+        "url": "https://github.com/hongfz16/AvatarCLIP",
+        "note": "Full paper title confirmed through author paper/project; Crossref short title is not a mismatch."
+      }
+    ],
+    "issues": [],
+    "resolutions": [
+      "Crossref supplies a short title; full subtitle not independently checked"
+    ]
+  },
+  {
+    "id": "hong2022eva3d",
+    "checked": "2026-11-14",
+    "metadata_status": "primary_source_crosschecked",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://openreview.net/forum?id=g7U9jD_2CUr",
+        "resolved": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dg7U9jD_2CUr",
+        "http_access": true,
+        "title": ""
+      }
+    ],
+    "issues": [],
+    "historical_issues": []
+  },
+  {
+    "id": "hong2024lrm",
+    "checked": "2026-11-14",
+    "metadata_status": "primary_source_crosschecked",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://proceedings.iclr.cc/paper_files/paper/2024/hash/dcad3425f5c8c36b5b3885c091bf1257-Abstract-Conference.html",
+        "resolved": "https://proceedings.iclr.cc/paper_files/paper/2024/hash/dcad3425f5c8c36b5b3885c091bf1257-Abstract-Conference.html",
+        "http_access": true,
+        "title": "LRM: Large Reconstruction Model for Single Image to 3D"
+      }
+    ],
+    "issues": [],
+    "historical_issues": []
+  },
+  {
+    "id": "hu2023sherf",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/iccv51070.2023.00858",
+        "title": [
+          "SHERF: Generalizable Human NeRF from a Single Image"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "hu2024animateanyone",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/cvpr52733.2024.00779",
+        "title": [
+          "Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "hu2024gauhuman",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/cvpr52733.2024.01930",
+        "title": [
+          "GauHuman: Articulated Gaussian Splatting from Monocular Human Videos"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "hu2024gaussianavatar",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/cvpr52733.2024.00067",
+        "title": [
+          "GaussianAvatar: Towards Realistic Human Avatar Modeling from a Single Video via Animatable 3D Gaussians"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "hu2024structldm",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1007/978-3-031-72983-6_21",
+        "title": [
+          "StructLDM: Structured Latent Diffusion for 3D Human Generation"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "hu2025humangif",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "https://arxiv.org/pdf/2502.12080",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://arxiv.org/abs/2502.12080",
+        "title": "HumanGif: Single-View Human Diffusion with Generative Prior"
+      }
+    ],
+    "issues": [],
+    "arxiv_title": "HumanGif: Single-View Human Diffusion with Generative Prior"
+  },
+  {
+    "id": "huang2020arch",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/cvpr42600.2020.00316",
+        "title": [
+          "ARCH: Animatable Reconstruction of Clothed Humans"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "huang2022ocmotion",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "https://arxiv.org/pdf/2207.05375",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://arxiv.org/abs/2207.05375",
+        "title": "Occluded Human Body Capture with Self-Supervised Spatial-Temporal Motion Prior"
+      }
+    ],
+    "issues": [],
+    "arxiv_title": "Occluded Human Body Capture with Self-Supervised Spatial-Temporal Motion Prior",
+    "discovered_code_candidates": [
+      "https://github.com/boycehbz/CHOMP",
+      "https://github.com/boycehbz/CHOMP",
+      "https://github.com/boycehbz/CHOMP"
+    ]
+  },
+  {
+    "id": "huang2022rich",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "https://rich.is.tue.mpg.de/",
+    "code_url": "https://github.com/paulchhuang/rich_toolkit",
+    "evidence": [
+      {
+        "source": "reference repository; exact normalized title match",
+        "record_title": "Capturing and Inferring Dense Full-Body Human-Scene Contact"
+      },
+      {
+        "url": "https://api.crossref.org/works/10.1109/cvpr52688.2022.01292",
+        "title": [
+          "Capturing and Inferring Dense Full-Body Human-Scene Contact"
+        ]
+      }
+    ],
+    "issues": [],
+    "resolutions": [
+      "Removed optional pages because source pagination differs."
+    ]
+  },
+  {
+    "id": "huang2023dreamwaltz",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.52202/075280-0202",
+        "title": [
+          "DreamWaltz: Make a Scene with Complex 3D Animatable Avatars"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "huang2024dreamwaltzg",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/tpami.2025.3586284",
+        "title": [
+          "DreamWaltz-G: Expressive 3D Gaussian Avatars from Skeleton-Guided 2D Diffusion"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "huang2024humannorm",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/cvpr52733.2024.00437",
+        "title": [
+          "HumanNorm: Learning Normal Diffusion Model for High-quality and Realistic 3D Human Generation"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "huang2024tech",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/3dv62453.2024.00152",
+        "title": [
+          "TeCH: Text-Guided Reconstruction of Lifelike Clothed Humans"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "huang2025adahuman",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/iccv51701.2025.01257",
+        "title": [
+          "AdaHuman: Animatable Detailed 3D Human Generation with Compositional Multiview Diffusion"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "huang2025wildavatar",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "https://wildavatar.github.io/",
+    "code_url": "",
+    "evidence": [
+      {
+        "source": "reference repository; exact normalized title match",
+        "record_title": "WildAvatar: Learning In-the-wild 3D Avatars from the Web"
+      },
+      {
+        "url": "https://api.crossref.org/works/10.1109/cvpr52734.2025.01488",
+        "title": [
+          "WildAvatar: Learning In-the-wild 3D Avatars from the Web"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "human3r2025",
+    "checked": "2026-11-14",
+    "metadata_status": "primary_source_crosschecked",
+    "pdf_url": "",
+    "project_url": "https://fanegg.github.io/Human3R/",
+    "code_url": "",
+    "evidence": [
+      {
+        "source": "reference repository; exact normalized title match",
+        "record_title": "Human3r: Everyone everywhere all at once"
+      },
+      {
+        "url": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/467c017e2639255e9c5d91a2e582f95a-Abstract-Conference.html",
+        "resolved": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/467c017e2639255e9c5d91a2e582f95a-Abstract-Conference.html",
+        "http_access": true,
+        "title": "Human3R: Everyone Everywhere All at Once"
+      }
+    ],
+    "issues": [],
+    "historical_issues": []
+  },
+  {
+    "id": "inpainthuman2026",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "https://arxiv.org/pdf/2601.02098",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://arxiv.org/abs/2601.02098",
+        "title": "InpaintHuman: Reconstructing Occluded Humans with Multi-Scale UV Mapping and Identity-Preserving Diffusion Inpainting"
+      }
+    ],
+    "issues": [],
+    "arxiv_title": "InpaintHuman: Reconstructing Occluded Humans with Multi-Scale UV Mapping and Identity-Preserving Diffusion Inpainting"
+  },
+  {
+    "id": "isik2023humanrf",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "https://actors-hq.com/",
+    "code_url": "",
+    "evidence": [
+      {
+        "source": "reference repository; exact normalized title match",
+        "record_title": "HumanRF: High-Fidelity Neural Radiance Fields for Humans in Motion"
+      },
+      {
+        "url": "https://api.crossref.org/works/10.1145/3592415",
+        "title": [
+          "HumanRF: High-Fidelity Neural Radiance Fields for Humans in Motion"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "jiang2022selfrecon",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/cvpr52688.2022.00552",
+        "title": [
+          "SelfRecon: Self Reconstruction Your Digital Avatar from Monocular Video"
+        ]
+      }
+    ],
+    "issues": [],
+    "resolutions": [
+      "Removed optional pages because source pagination differs."
+    ]
+  },
+  {
+    "id": "jiang2023avatarcraft",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/iccv51070.2023.01322",
+        "title": [
+          "AvatarCraft: Transforming Text into Neural Human Avatars with Parameterized Shape and Pose Control"
+        ]
+      }
+    ],
+    "issues": [],
+    "resolutions": [
+      "Removed optional pages because source pagination differs."
+    ]
+  },
+  {
+    "id": "jiang2023instantavatar",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/cvpr52729.2023.01623",
+        "title": [
+          "InstantAvatar: Learning Avatars from Monocular Video in 60 Seconds"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "jiang2025stgavatar",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/iros60139.2025.11245654",
+        "title": [
+          "STG-Avatar: Animatable Human Avatars via Spacetime Gaussian"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "jiang2025symgaussian",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/icassp49660.2025.10887816",
+        "title": [
+          "SymGaussian: Occluded Human Rendering with Multi-scale Symmetry Feature from Monocular Video"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "kanazawa2018hmr",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/cvpr.2018.00744",
+        "title": [
+          "End-to-End Recovery of Human Shape and Pose"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "kant2025pippo",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "https://github.com/facebookresearch/pippo",
+    "evidence": [
+      {
+        "source": "reference repository; exact normalized title match",
+        "record_title": "Pippo: High-Resolution Multi-View Humans from a Single Image"
+      },
+      {
+        "url": "https://api.crossref.org/works/10.1109/cvpr52734.2025.01531",
+        "title": [
+          "Pippo: High-Resolution Multi-View Humans from a Single Image"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "kaufmann2023emdb",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/iccv51070.2023.01345",
+        "title": [
+          "EMDB: The Electromagnetic Database of Global 3D Human Pose and Shape in the Wild"
+        ]
+      }
+    ],
+    "issues": [],
+    "resolutions": [
+      "Removed optional pages because source pagination differs."
+    ]
+  },
+  {
+    "id": "kerbl2023gaussian",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1145/3592433",
+        "title": [
+          "3D Gaussian Splatting for Real-Time Radiance Field Rendering"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "kim2024mhcdiff",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.52202/079017-2570",
+        "title": [
+          "Multi-hypotheses Conditioned Point Cloud Diffusion for 3D Human Reconstruction from Occluded Images"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "kirschstein2025avat3r",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "https://tobias-kirschstein.github.io/avat3r/",
+    "code_url": "",
+    "evidence": [
+      {
+        "source": "reference repository; exact normalized title match",
+        "record_title": "Avat3r: Large Animatable Gaussian Reconstruction Model for High-fidelity 3D Head Avatars"
+      },
+      {
+        "url": "https://api.crossref.org/works/10.1109/iccv51701.2025.01124",
+        "title": [
+          "Avat3r: Large Animatable Gaussian Reconstruction Model for High-Fidelity 3D Head Avatars"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "kocabas2021pare",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/iccv48922.2021.01094",
+        "title": [
+          "PARE: Part Attention Regressor for 3D Human Body Estimation"
+        ]
+      }
+    ],
+    "issues": [],
+    "resolutions": [
+      "Removed optional pages because source pagination differs."
+    ]
+  },
+  {
+    "id": "kolotouros2019spin",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/iccv.2019.00234",
+        "title": [
+          "Learning to Reconstruct 3D Human Pose and Shape via Model-Fitting in the Loop"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "kolotouros2021prohmr",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/iccv48922.2021.01140",
+        "title": [
+          "Probabilistic Modeling for Human Mesh Recovery"
+        ]
+      }
+    ],
+    "issues": [],
+    "resolutions": [
+      "Removed optional pages because source pagination differs."
+    ]
+  },
+  {
+    "id": "kolotouros2023dreamhuman",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.52202/075280-0462",
+        "title": [
+          "DreamHuman: Animatable 3D Avatars from Text"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "kolotouros2024avatarpopup",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1007/978-3-031-73021-4_11",
+        "title": [
+          "Instant 3D Human Avatar Generation Using Image Diffusion Models"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "kwon2021nhp",
+    "checked": "2026-11-14",
+    "metadata_status": "primary_source_crosschecked",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://papers.neurips.cc/paper_files/paper/2021/hash/cf866614b6b18cda13fe699a3a65661b-Abstract.html",
+        "resolved": "https://papers.neurips.cc/paper_files/paper/2021/hash/cf866614b6b18cda13fe699a3a65661b-Abstract.html",
+        "http_access": true,
+        "title": "Neural Human Performer: Learning Generalizable Radiance Fields for Human Performance Rendering"
+      }
+    ],
+    "issues": [],
+    "historical_issues": []
+  },
+  {
+    "id": "kwon2024ghg",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1007/978-3-031-73229-4_26",
+        "title": [
+          "Generalizable Human Gaussians for Sparse View Synthesis"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "lee2023dpnerf",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/cvpr52729.2023.01192",
+        "title": [
+          "DP-NeRF: Deblurred Neural Radiance Field with Physical Scene Priors"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "lee2024deblurgs",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1007/978-3-031-73636-0_8",
+        "title": [
+          "Deblurring 3D Gaussian Splatting"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "lee2024guesstheunseen",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/cvpr52733.2024.00107",
+        "title": [
+          "Guess The Unseen: Dynamic 3D Scene Reconstruction from Partial 2D Glimpses"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "lei2024gart",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/cvpr52733.2024.01879",
+        "title": [
+          "GART: Gaussian Articulated Template Models"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "li2021aist",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "https://google.github.io/aichoreographer/",
+    "code_url": "",
+    "evidence": [
+      {
+        "source": "reference repository; exact normalized title match",
+        "record_title": "AI Choreographer: Music Conditioned 3D Dance Generation with AIST++"
+      },
+      {
+        "url": "https://api.crossref.org/works/10.1109/iccv48922.2021.01315",
+        "title": [
+          "AI Choreographer: Music Conditioned 3D Dance Generation with AIST++"
+        ]
+      }
+    ],
+    "issues": [],
+    "resolutions": [
+      "Removed optional pages because source pagination differs."
+    ]
+  },
+  {
+    "id": "li2022cliff",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1007/978-3-031-20065-6_34",
+        "title": [
+          "CLIFF: Carrying Location Information in Full Frames into Human Pose and Shape Estimation"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "li2023text23dsurvey",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "https://arxiv.org/pdf/2305.06131",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://arxiv.org/abs/2305.06131",
+        "title": "Generative AI meets 3D: A Survey on Text-to-3D in AIGC Era"
+      }
+    ],
+    "issues": [],
+    "arxiv_title": "Generative AI meets 3D: A Survey on Text-to-3D in AIGC Era"
+  },
+  {
+    "id": "li2024pshuman",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/cvpr52734.2025.01492",
+        "title": [
+          "PSHuman: Photorealistic Single-image 3D Human Reconstruction using Cross-Scale Multiview Diffusion and Explicit Remeshing"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "liang2024luciddreamer",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/cvpr52733.2024.00623",
+        "title": [
+          "LucidDreamer: Towards High-Fidelity Text-to-3D Generation via Interval Score Matching"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "liao2024tada",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/3dv62453.2024.00150",
+        "title": [
+          "TADA! Text to Animatable Digital Avatars"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "lin2024diffbir",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1007/978-3-031-73202-7_25",
+        "title": [
+          "DiffBIR: Toward Blind Image Restoration with Generative Diffusion Prior"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "liu2021neuralactor",
+    "checked": "2026-11-14",
+    "metadata_status": "primary_full_title_crosschecked",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1145/3478513.3480528",
+        "title": [
+          "Neural actor"
+        ]
+      },
+      {
+        "url": "https://vcai.mpi-inf.mpg.de/projects/NeuralActor/",
+        "note": "Full paper title confirmed through author paper/project; Crossref short title is not a mismatch."
+      }
+    ],
+    "issues": [],
+    "resolutions": [
+      "Crossref supplies a short title; full subtitle not independently checked"
+    ]
+  },
+  {
+    "id": "liu2023zero123",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/iccv51070.2023.00853",
+        "title": [
+          "Zero-1-to-3: Zero-shot One Image to 3D Object"
+        ]
+      }
+    ],
+    "issues": [],
+    "resolutions": [
+      "Removed optional pages because source pagination differs."
+    ]
+  },
+  {
+    "id": "liu2024headartist",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1145/3641519.3657512",
+        "title": [
+          "HeadArtist: Text-conditioned 3D Head Generation with Self Score Distillation"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "liu2024infusion",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "https://arxiv.org/pdf/2404.11613",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://arxiv.org/abs/2404.11613",
+        "title": "InFusion: Inpainting 3D Gaussians via Learning Depth Completion from Diffusion Prior"
+      }
+    ],
+    "issues": [],
+    "arxiv_title": "InFusion: Inpainting 3D Gaussians via Learning Depth Completion from Diffusion Prior"
+  },
+  {
+    "id": "liu2024syncdreamer",
+    "checked": "2026-11-14",
+    "metadata_status": "primary_source_crosschecked",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://proceedings.iclr.cc/paper_files/paper/2024/file/753d9584b57ba01a10482f1ea7734a89-Paper-Conference.pdf",
+        "resolved": "https://proceedings.iclr.cc/paper_files/paper/2024/file/753d9584b57ba01a10482f1ea7734a89-Paper-Conference.pdf",
+        "http_access": true,
+        "title": ""
+      }
+    ],
+    "issues": [],
+    "historical_issues": []
+  },
+  {
+    "id": "liu2024texdreamer",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1007/978-3-031-72970-6_11",
+        "title": [
+          "TexDreamer: Towards Zero-Shot High-Fidelity 3D Human Texture Generation"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "liu2025avatarforge",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "https://arxiv.org/pdf/2503.08165",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://arxiv.org/abs/2503.08165",
+        "title": "Multimodal Generation of Animatable 3D Human Models with AvatarForge"
+      }
+    ],
+    "issues": [],
+    "arxiv_title": "Multimodal Generation of Animatable 3D Human Models with AvatarForge"
+  },
+  {
+    "id": "liu2026josh",
+    "checked": "2026-11-14",
+    "metadata_status": "primary_source_crosschecked",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://openreview.net/forum?id=7eLE4mfEpz",
+        "resolved": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3D7eLE4mfEpz",
+        "http_access": true,
+        "title": ""
+      }
+    ],
+    "issues": [],
+    "historical_issues": []
+  },
+  {
+    "id": "long2024wonder3d",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/cvpr52733.2024.00951",
+        "title": [
+          "Wonder3D: Single Image to 3D Using Cross-Domain Diffusion"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "loper2015smpl",
+    "checked": "2026-11-14",
+    "metadata_status": "primary_full_title_crosschecked",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1145/2816795.2818013",
+        "title": [
+          "SMPL"
+        ]
+      },
+      {
+        "url": "https://files.is.tue.mpg.de/black/papers/SMPL2015.pdf",
+        "note": "Full paper title confirmed through author paper/project; Crossref short title is not a mismatch."
+      }
+    ],
+    "issues": [],
+    "resolutions": [
+      "Crossref supplies a short title; full subtitle not independently checked"
+    ]
+  },
+  {
+    "id": "lu2025dposerx",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/iccv51701.2025.00931",
+        "title": [
+          "DPoser-X: Diffusion Model as Robust 3D Whole-Body Human Pose Prior"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "luo2025debluravatar",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "https://arxiv.org/pdf/2501.13335",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://arxiv.org/abs/2501.13335",
+        "title": "Deblur-Avatar: Animatable Avatars from Motion-Blurred Monocular Videos"
+      }
+    ],
+    "issues": [],
+    "arxiv_title": "Deblur-Avatar: Animatable Avatars from Motion-Blurred Monocular Videos",
+    "discovered_code_candidates": [
+      "https://github.com/xianrui-luo/deblur_avatar",
+      "https://github.com/xianrui-luo/deblur_avatar",
+      "https://github.com/xianrui-luo/deblur_avatar"
+    ]
+  },
+  {
+    "id": "ma2020cape",
+    "checked": "2026-11-14",
+    "metadata_status": "primary_source_crosschecked",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://openaccess.thecvf.com/content_CVPR_2020/html/Ma_Learning_to_Dress_3D_People_in_Generative_Clothing_CVPR_2020_paper.html",
+        "resolved": "https://openaccess.thecvf.com/content_CVPR_2020/html/Ma_Learning_to_Dress_3D_People_in_Generative_Clothing_CVPR_2020_paper.html",
+        "http_access": true,
+        "title": "Learning to Dress 3D People in Generative Clothing"
+      }
+    ],
+    "issues": [],
+    "historical_issues": []
+  },
+  {
+    "id": "ma2022deblurnerf",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/cvpr52688.2022.01252",
+        "title": [
+          "Deblur-NeRF: Neural Radiance Fields from Blurry Images"
+        ]
+      }
+    ],
+    "issues": [],
+    "resolutions": [
+      "Removed optional pages because source pagination differs."
+    ]
+  },
+  {
+    "id": "marin2019pop",
+    "checked": "2026-11-14",
+    "metadata_status": "primary_source_crosschecked",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://diglib.eg.org/items/27b69313-455f-4d29-a6f2-5cfdad9bd0f4",
+        "title": "POP: Full Parametric model Estimation for Occluded People"
+      },
+      {
+        "url": "https://diglib.eg.org/items/27b69313-455f-4d29-a6f2-5cfdad9bd0f4",
+        "resolved": "https://diglib.eg.org/items/27b69313-455f-4d29-a6f2-5cfdad9bd0f4",
+        "http_access": true,
+        "title": "POP: Full Parametric model Estimation for Occluded People"
+      }
+    ],
+    "issues": [],
+    "discovered_pdf_url": "https://diglib.eg.org/bitstreams/b227c692-a1de-48c0-a629-6c2b5bb712c4/download",
+    "historical_issues": [
+      "HTTPError: HTTP Error 404: Not Found"
+    ]
+  },
+  {
+    "id": "mazur2026agentstar",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "https://arxiv.org/pdf/2609.24487",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://arxiv.org/abs/2609.24487",
+        "title": "AgentSTAR: Agentic Shape Tracking and Reconstruction from Monocular Videos"
+      }
+    ],
+    "issues": [],
+    "arxiv_title": "AgentSTAR: Agentic Shape Tracking and Reconstruction from Monocular Videos"
+  },
+  {
+    "id": "mihajlovic2022keypointnerf",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1007/978-3-031-19784-0_11",
+        "title": [
+          "KeypointNeRF: Generalizing Image-Based Volumetric Avatars Using Relative Spatial Encoding of Keypoints"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "mildenhall2020nerf",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1007/978-3-030-58452-8_24",
+        "title": [
+          "NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "mir2026ahoy",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1007/978-3-032-37095-2_25",
+        "title": [
+          "AHOY! Animatable Humans under Occlusion from YouTube Videos with Gaussian Splatting and Video Diffusion Priors"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "mononhr2023",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/3dv57658.2022.00036",
+        "title": [
+          "MonoNHR: Monocular Neural Human Renderer"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "muller2025hsfm",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/cvpr52734.2025.02044",
+        "title": [
+          "Reconstructing People, Places, and Cameras"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "muralidhar2025physic",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1145/3757377.3763862",
+        "title": [
+          "PhySIC: Physically Plausible 3D Human-Scene Interaction and Contact from a Single Image"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "nerfhumansurvey",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1016/j.imavis.2024.105341",
+        "title": [
+          "3D human avatar reconstruction with neural fields: A recent survey"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "niu2024baga",
+    "checked": "2026-11-14",
+    "metadata_status": "primary_source_crosschecked",
+    "pdf_url": "https://arxiv.org/pdf/2411.16758",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://arxiv.org/abs/2411.16758",
+        "title": "Motion-Aware Animatable Gaussian Avatars Deblurring"
+      },
+      {
+        "url": "https://arxiv.org/abs/2411.16758",
+        "title": "Motion-Aware Animatable Gaussian Avatars Deblurring"
+      },
+      {
+        "url": "https://arxiv.org/abs/2411.16758",
+        "resolved": "https://arxiv.org/abs/2411.16758",
+        "http_access": true,
+        "title": "Motion-Aware Animatable Gaussian Avatars Deblurring"
+      }
+    ],
+    "issues": [],
+    "arxiv_title": "Motion-Aware Animatable Gaussian Avatars Deblurring",
+    "discovered_code_candidates": [
+      "https://github.com/MyNiuuu/MAD-Avatar",
+      "https://github.com/MyNiuuu/MAD-Avatar",
+      "https://github.com/MyNiuuu/MAD-Avatar",
+      "https://github.com/MyNiuuu/MAD-Avatar"
+    ],
+    "discovered_pdf_url": "https://arxiv.org/pdf/2411.16758",
+    "historical_issues": [
+      "arXiv title differs; inspect version and title change"
+    ]
+  },
+  {
+    "id": "odhsr2025",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/cvpr52734.2025.02033",
+        "title": [
+          "ODHSR: Online Dense 3D Reconstruction of Humans and Scenes from Monocular Videos"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "ozguroglu2024pix2gestalt",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/cvpr52733.2024.00377",
+        "title": [
+          "pix2gestalt: Amodal Segmentation by Synthesizing Wholes"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "pan2023transhuman",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/iccv51070.2023.00328",
+        "title": [
+          "TransHuman: A Transformer-based Human Representation for Generalizable Neural Human Rendering"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "pan2024humansplat",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.52202/079017-2367",
+        "title": [
+          "HumanSplat: Generalizable Single-Image Human Gaussian Splatting with Structure Priors"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "pan2024soar",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "https://arxiv.org/pdf/2410.23800",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://arxiv.org/abs/2410.23800",
+        "title": "SOAR: Self-Occluded Avatar Recovery from a Single Video In the Wild"
+      }
+    ],
+    "issues": [],
+    "arxiv_title": "SOAR: Self-Occluded Avatar Recovery from a Single Video In the Wild"
+  },
+  {
+    "id": "park2019deepsdf",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/cvpr.2019.00025",
+        "title": [
+          "DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "pavlakos2019smplx",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/cvpr.2019.01123",
+        "title": [
+          "Expressive Body Capture: 3D Hands, Face, and Body From a Single Image"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "pavlakos2024hamer",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "https://github.com/geopavlakos/hamer",
+    "evidence": [
+      {
+        "source": "reference repository; exact normalized title match",
+        "record_title": "Reconstructing Hands in 3D with Transformers"
+      },
+      {
+        "url": "https://api.crossref.org/works/10.1109/cvpr52733.2024.00938",
+        "title": [
+          "Reconstructing Hands in 3D with Transformers"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "peng2021animatable",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/iccv48922.2021.01405",
+        "title": [
+          "Animatable Neural Radiance Fields for Modeling Dynamic Human Bodies"
+        ]
+      }
+    ],
+    "issues": [],
+    "resolutions": [
+      "Removed optional pages because source pagination differs."
+    ]
+  },
+  {
+    "id": "peng2021neuralbody",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/cvpr46437.2021.00894",
+        "title": [
+          "Neural Body: Implicit Neural Representations with Structured Latent Codes for Novel View Synthesis of Dynamic Humans"
+        ]
+      }
+    ],
+    "issues": [],
+    "resolutions": [
+      "Removed optional pages because source pagination differs."
+    ]
+  },
+  {
+    "id": "pfavatar2026",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/38069/42031",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1609/aaai.v40i13.38069",
+        "title": [
+          "PFAvatar: Pose-Fusion 3D Personalized Avatar Reconstruction from Real-World Outfit-of-the-Day Photos"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "pifu-rgbd2023",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/hdis60872.2023.10499470",
+        "title": [
+          "PIFU-RGBD: Single-View RGB-D Pixel-Aligned Implicit Function for 3D Human Reconstruction"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "poole2023dreamfusion",
+    "checked": "2026-11-14",
+    "metadata_status": "primary_source_crosschecked",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://arxiv.org/abs/2209.14988",
+        "resolved": "https://arxiv.org/abs/2209.14988",
+        "http_access": true,
+        "title": "DreamFusion: Text-to-3D using 2D Diffusion"
+      }
+    ],
+    "issues": [],
+    "historical_issues": []
+  },
+  {
+    "id": "prism2026",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1016/j.patcog.2026.115107",
+        "title": [
+          "PRISM: Distilling multi-source priors for single-image avatar reconstruction"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "promptHMR2025",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "https://github.com/yufu-wang/PromptHMR",
+    "evidence": [
+      {
+        "source": "reference repository; exact normalized title match",
+        "record_title": "PromptHMR: Promptable Human Mesh Recovery"
+      },
+      {
+        "url": "https://api.crossref.org/works/10.1109/cvpr52734.2025.00115",
+        "title": [
+          "PromptHMR: Promptable Human Mesh Recovery"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "qian2024gsavatar",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/cvpr52733.2024.00480",
+        "title": [
+          "3DGS-Avatar: Animatable Avatars via Deformable 3D Gaussian Splatting"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "qiu2025anigs",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "https://github.com/aigc3d/AniGS",
+    "evidence": [
+      {
+        "source": "reference repository; exact normalized title match",
+        "record_title": "AniGS: Animatable Gaussian Avatar from a Single Image with Inconsistent Gaussian Reconstruction"
+      },
+      {
+        "url": "https://api.crossref.org/works/10.1109/cvpr52734.2025.01970",
+        "title": [
+          "AniGS: Animatable Gaussian Avatar from a Single Image with Inconsistent Gaussian Reconstruction"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "qiu2025lhm",
+    "checked": "2026-11-14",
+    "metadata_status": "primary_source_crosschecked",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "https://github.com/aigc3d/LHM",
+    "evidence": [
+      {
+        "source": "reference repository; exact normalized title match",
+        "record_title": "LHM: Large Animatable Human Reconstruction Model for Single Image to 3D in Seconds"
+      },
+      {
+        "url": "https://openaccess.thecvf.com/content/ICCV2025/html/Qiu_LHM_Large_Animatable_Human_Reconstruction_Model_for_Single_Image_to_ICCV_2025_paper.html",
+        "resolved": "https://openaccess.thecvf.com/content/ICCV2025/html/Qiu_LHM_Large_Animatable_Human_Reconstruction_Model_for_Single_Image_to_ICCV_2025_paper.html",
+        "http_access": true,
+        "title": "LHM: Large Animatable Human Reconstruction Model for Single Image to 3D in Seconds"
+      }
+    ],
+    "issues": [],
+    "historical_issues": []
+  },
+  {
+    "id": "qiu2025pflhm",
+    "checked": "2026-11-14",
+    "metadata_status": "primary_source_crosschecked",
+    "pdf_url": "https://arxiv.org/pdf/2506.13766",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://arxiv.org/abs/2506.13766",
+        "title": "LHM++: An Efficient Large Human Reconstruction Model for Pose-free Images to 3D"
+      },
+      {
+        "url": "https://arxiv.org/abs/2506.13766",
+        "title": "LHM++: An Efficient Large Human Reconstruction Model for Pose-free Images to 3D"
+      },
+      {
+        "url": "https://arxiv.org/abs/2506.13766",
+        "resolved": "https://arxiv.org/abs/2506.13766",
+        "http_access": true,
+        "title": "LHM++: An Efficient Large Human Reconstruction Model for Pose-free Images to 3D"
+      }
+    ],
+    "issues": [],
+    "arxiv_title": "LHM++: An Efficient Large Human Reconstruction Model for Pose-free Images to 3D",
+    "discovered_pdf_url": "https://arxiv.org/pdf/2506.13766",
+    "historical_issues": [
+      "arXiv title differs; inspect version and title change"
+    ]
+  },
+  {
+    "id": "qu2026deocc",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/37820/41782",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1609/aaai.v40i11.37820",
+        "title": [
+          "DeOcc-1-to-3: 3D De-Occlusion from a Single Image via Self-Supervised Multi-View Diffusion"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "rempe2021humor",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/iccv48922.2021.01129",
+        "title": [
+          "HuMoR: 3D Human Motion Model for Robust Pose Estimation"
+        ]
+      }
+    ],
+    "issues": [],
+    "resolutions": [
+      "Removed optional pages because source pagination differs."
+    ]
+  },
+  {
+    "id": "rombach2022ldm",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/cvpr52688.2022.01042",
+        "title": [
+          "High-Resolution Image Synthesis with Latent Diffusion Models"
+        ]
+      }
+    ],
+    "issues": [],
+    "resolutions": [
+      "Removed optional pages because source pagination differs."
+    ]
+  },
+  {
+    "id": "saito2019pifu",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/iccv.2019.00239",
+        "title": [
+          "PIFu: Pixel-Aligned Implicit Function for High-Resolution Clothed Human Digitization"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "saito2020pifuhd",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/cvpr42600.2020.00016",
+        "title": [
+          "PIFuHD: Multi-Level Pixel-Aligned Implicit Function for High-Resolution 3D Human Digitization"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "saleem2025genhmr",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/32724/34879",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1609/aaai.v39i7.32724",
+        "title": [
+          "GenHMR: Generative Human Mesh Recovery"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "shao2022doublefield",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/cvpr52688.2022.01541",
+        "title": [
+          "DoubleField: Bridging the Neural Surface and Radiance Fields for High-fidelity Human Reconstruction and Rendering"
+        ]
+      }
+    ],
+    "issues": [],
+    "resolutions": [
+      "Removed optional pages because source pagination differs."
+    ]
+  },
+  {
+    "id": "shao2024human4dit",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1145/3687980",
+        "title": [
+          "360-degree Human Video Generation with 4D Diffusion Transformer"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "shi2023zero123pp",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "https://arxiv.org/pdf/2310.15110",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://arxiv.org/abs/2310.15110",
+        "title": "Zero123++: a Single Image to Consistent Multi-view Diffusion Base Model"
+      }
+    ],
+    "issues": [],
+    "arxiv_title": "Zero123++: a Single Image to Consistent Multi-view Diffusion Base Model",
+    "discovered_code_candidates": [
+      "https://github.com/SUDO-AI-3D/zero123plus",
+      "https://github.com/SUDO-AI-3D/zero123plus",
+      "https://github.com/SUDO-AI-3D/zero123plus"
+    ]
+  },
+  {
+    "id": "shi2024mvdream",
+    "checked": "2026-11-14",
+    "metadata_status": "primary_source_crosschecked",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://proceedings.iclr.cc/paper_files/paper/2024/hash/adbe936993aa7cf41e45054d8b72f183-Abstract-Conference.html",
+        "resolved": "https://proceedings.iclr.cc/paper_files/paper/2024/hash/adbe936993aa7cf41e45054d8b72f183-Abstract-Conference.html",
+        "http_access": true,
+        "title": "MVDream: Multi-view Diffusion for 3D Generation"
+      }
+    ],
+    "issues": [],
+    "historical_issues": []
+  },
+  {
+    "id": "shimada2020physcap",
+    "checked": "2026-11-14",
+    "metadata_status": "primary_source_crosschecked",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/v1/works/10.1145%2F3414685.3417877/transform",
+        "title": ""
+      },
+      {
+        "url": "https://arxiv.org/abs/2008.08880",
+        "resolved": "https://arxiv.org/abs/2008.08880",
+        "http_access": true,
+        "title": "PhysCap: Physically Plausible Monocular 3D Motion Capture in Real Time"
+      }
+    ],
+    "issues": [],
+    "historical_issues": [
+      "HTTPError: HTTP Error 429: Too Many Requests"
+    ]
+  },
+  {
+    "id": "shin2024wham",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/cvpr52733.2024.00202",
+        "title": [
+          "WHAM: Reconstructing World-Grounded Humans with Accurate 3D Motion"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "singh2025sings",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/cvpr52734.2025.00523",
+        "title": [
+          "SinGS: Animatable Single-Image Human Gaussian Splats with Kinematic Priors"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "stathopoulos2024scorehmr",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/cvpr52733.2024.00092",
+        "title": [
+          "Score-Guided Diffusion for 3D Human Recovery"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "su2021anerf",
+    "checked": "2026-11-14",
+    "metadata_status": "primary_source_crosschecked",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://arxiv.org/abs/2102.06199",
+        "resolved": "https://arxiv.org/abs/2102.06199",
+        "http_access": true,
+        "title": "A-NeRF: Articulated Neural Radiance Fields for Learning Human Shape, Appearance, and Pose"
+      }
+    ],
+    "issues": [],
+    "historical_issues": []
+  },
+  {
+    "id": "su2023thuman3",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/tpami.2022.3168569",
+        "title": [
+          "DeepCloth: Neural Garment Representation for Shape and Style Editing"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "sun2021romp",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/iccv48922.2021.01099",
+        "title": [
+          "Monocular, One-stage, Regression of Multiple 3D People"
+        ]
+      }
+    ],
+    "issues": [],
+    "resolutions": [
+      "Removed optional pages because source pagination differs."
+    ]
+  },
+  {
+    "id": "sun2024occfusion",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.52202/079017-2927",
+        "title": [
+          "OccFusion: Rendering Occluded Humans with Generative Diffusion Priors"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "tang2025gaf",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/cvpr52734.2025.00521",
+        "title": [
+          "GAF: Gaussian Avatar Reconstruction from Monocular Videos via Multi-view Diffusion"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "tang2025hap",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/tpami.2025.3552408",
+        "title": [
+          "Human as Points: Explicit Point-Based 3D Human Reconstruction From Single-View RGB Images"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "tang2025hcfm",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "https://github.com/HumanCentricModels/Awesome-Human-Centric-Foundation-Models",
+    "evidence": [
+      {
+        "source": "reference repository; exact normalized title match",
+        "record_title": "Human-Centric Foundation Models: Perception, Generation and Agentic Modeling"
+      },
+      {
+        "url": "https://api.crossref.org/works/10.24963/ijcai.2024/1185",
+        "title": [
+          "Human-Centric Foundation Models: Perception, Generation and Agentic Modeling"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "taubner2025cap4d",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/cvpr52734.2025.00501",
+        "title": [
+          "CAP4D: Creating Animatable 4D Portrait Avatars with Morphable Multi-View Diffusion Models"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "taubner2025mvp4d",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1145/3757377.3763889",
+        "title": [
+          "MVP4D: Multi-View Portrait Video Diffusion for Animatable 4D Avatars"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "tgrhuman2026",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1016/j.fmre.2026.06.019",
+        "title": [
+          "TGRHuman: Text-guided realistic 3D human generation via diffusion renderer"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "threedaware",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1145/3626193",
+        "title": [
+          "A Survey on Deep Generative 3D-aware Image Synthesis"
+        ]
+      }
+    ],
+    "issues": [],
+    "resolutions": [
+      "Retained issue year accompanying volume/issue; Crossref date refers to earlier online publication."
+    ]
+  },
+  {
+    "id": "tian2023hmrsurvey",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "https://github.com/tinatiansjz/hmr-survey",
+    "evidence": [
+      {
+        "source": "reference repository; exact normalized title match",
+        "record_title": "Recovering 3D Human Mesh from Monocular Images: A Survey"
+      },
+      {
+        "url": "https://api.crossref.org/works/10.1109/tpami.2023.3298850",
+        "title": [
+          "Recovering 3D Human Mesh From Monocular Images: A Survey"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "tiwari2022posendf",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1007/978-3-031-20065-6_33",
+        "title": [
+          "Pose-NDF: Modeling Human Pose Manifolds with Neural Distance Fields"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "u4dgs2026",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "https://arxiv.org/pdf/2602.06343",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://arxiv.org/abs/2602.06343",
+        "title": "Uncertainty-Aware 4D Gaussian Splatting for Monocular Occluded Human Rendering"
+      }
+    ],
+    "issues": [],
+    "arxiv_title": "Uncertainty-Aware 4D Gaussian Splatting for Monocular Occluded Human Rendering"
+  },
+  {
+    "id": "usplat4d2026",
+    "checked": "2026-11-14",
+    "metadata_status": "primary_source_crosschecked",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/26300457961c3e056ea61c9d3ebec2a4-Abstract-Conference.html",
+        "resolved": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/26300457961c3e056ea61c9d3ebec2a4-Abstract-Conference.html",
+        "http_access": true,
+        "title": "Uncertainty Matters in Dynamic Gaussian Splatting for Monocular 4D Reconstruction"
+      }
+    ],
+    "issues": [],
+    "historical_issues": []
+  },
+  {
+    "id": "vfavatar2026",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1145/3799902.3811171",
+        "title": [
+          "VFAvatar: Feed-Forward 3D Avatar Reconstruction from Casual Image Collections"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "visdb2024",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1007/978-3-031-19769-7_24",
+        "title": [
+          "Learning Visibility for Robust Dense Human Body Estimation"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "vonmarcard20183dpw",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1007/978-3-030-01249-6_37",
+        "title": [
+          "Recovering Accurate 3D Human Pose in the Wild Using IMUs and a Moving Camera"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "wang2021gfpgan",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/cvpr46437.2021.00905",
+        "title": [
+          "Towards Real-World Blind Face Restoration with Generative Facial Prior"
+        ]
+      }
+    ],
+    "issues": [],
+    "resolutions": [
+      "Removed optional pages because source pagination differs."
+    ]
+  },
+  {
+    "id": "wang2021realesrgan",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/iccvw54120.2021.00217",
+        "title": [
+          "Real-ESRGAN: Training Real-World Blind Super-Resolution with Pure Synthetic Data"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "wang2022arah",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1007/978-3-031-19824-3_1",
+        "title": [
+          "ARAH: Animatable Volume Rendering of Articulated Human SDFs"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "wang2023badnerf",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/cvpr52729.2023.00406",
+        "title": [
+          "BAD-NeRF: Bundle Adjusted Deblur Neural Radiance Fields"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "wang2023prolificdreamer",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.52202/075280-0368",
+        "title": [
+          "ProlificDreamer: High-Fidelity and Diverse Text-to-3D Generation with Variational Score Distillation"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "wang2023sjc",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/cvpr52729.2023.01214",
+        "title": [
+          "Score Jacobian Chaining: Lifting Pretrained 2D Diffusion Models for 3D Generation"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "wang2024avatarsurvey",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "https://arxiv.org/pdf/2406.04253",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://arxiv.org/abs/2406.04253",
+        "title": "A Survey on 3D Human Avatar Modeling -- From Reconstruction to Generation"
+      }
+    ],
+    "issues": [],
+    "arxiv_title": "A Survey on 3D Human Avatar Modeling -- From Reconstruction to Generation"
+  },
+  {
+    "id": "wang2024fourddress",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/cvpr52733.2024.00059",
+        "title": [
+          "4D-DRESS: A 4D Dataset of Real-World Human Clothing with Semantic Annotations"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "wang2024gscream",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1007/978-3-031-72646-0_1",
+        "title": [
+          "Learning 3D Geometry and Feature Consistent Gaussian Splatting for Object Removal"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "wang2024tram",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1007/978-3-031-73247-8_27",
+        "title": [
+          "TRAM: Global Trajectory and Motion of 3D Humans from in-the-Wild Videos"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "weber2024nerfiller",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/cvpr52733.2024.01959",
+        "title": [
+          "NeRFiller: Completing Scenes via Generative 3D Inpainting"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "wehrbein2025uncertainty",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/wacv61041.2025.00571",
+        "title": [
+          "Utilizing Uncertainty in 2D Pose Detectors for Probabilistic 3D Human Mesh Recovery"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "weng2022humannerf",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/cvpr52688.2022.01573",
+        "title": [
+          "HumanNeRF: Free-viewpoint Rendering of Moving People from Monocular Video"
+        ]
+      }
+    ],
+    "issues": [],
+    "resolutions": [
+      "Removed optional pages because source pagination differs."
+    ]
+  },
+  {
+    "id": "weng2024humanlrm",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "https://arxiv.org/pdf/2401.12175",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://arxiv.org/abs/2401.12175",
+        "title": "Template-Free Single-View 3D Human Digitalization with Diffusion-Guided LRM"
+      }
+    ],
+    "issues": [],
+    "arxiv_title": "Template-Free Single-View 3D Human Digitalization with Diffusion-Guided LRM"
+  },
+  {
+    "id": "wilser2026survey",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1142/s0219467826500142",
+        "title": [
+          "A Survey of 3D Human Body Reconstruction from Single and Multiple Camera Views"
+        ]
+      }
+    ],
+    "issues": [],
+    "resolutions": [
+      "Retained issue year accompanying volume/issue; Crossref date refers to earlier online publication."
+    ]
+  },
+  {
+    "id": "xiang2023occnerf",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/iccv51070.2023.00300",
+        "title": [
+          "Rendering Humans from Object-Occluded Monocular Videos"
+        ]
+      }
+    ],
+    "issues": [],
+    "resolutions": [
+      "Removed optional pages because source pagination differs."
+    ]
+  },
+  {
+    "id": "xiang2024wild2avatar",
+    "checked": "2026-11-14",
+    "metadata_status": "published_title_corrected",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/tpami.2025.3603154",
+        "title": [
+          "Rendering Humans behind Occlusions"
+        ]
+      },
+      {
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40864583/",
+        "note": "Published title is Rendering Humans behind Occlusions; Wild2Avatar is the method/preprint name."
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "xiao2025rogsplat",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/cvpr52734.2025.00561",
+        "title": [
+          "RoGSplat: Learning Robust Generalizable Human Gaussian Splatting from Sparse Multi-View Images"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "xie2022chore",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1007/978-3-031-20086-1_8",
+        "title": [
+          "CHORE: Contact, Human and Object Reconstruction from a Single RGB Image"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "xiong2024mvhumannet",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/cvpr52733.2024.01872",
+        "title": [
+          "MVHumanNet: A Large-Scale Dataset of Multi-View Daily Dressing Human Captures"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "xiu2022icon",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/cvpr52688.2022.01294",
+        "title": [
+          "ICON: Implicit Clothed humans Obtained from Normals"
+        ]
+      }
+    ],
+    "issues": [],
+    "resolutions": [
+      "Removed optional pages because source pagination differs."
+    ]
+  },
+  {
+    "id": "xiu2023econ",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/cvpr52729.2023.00057",
+        "title": [
+          "ECON: Explicit Clothed humans Optimized via Normal integration"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "xiu2024puzzleavatar",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1145/3687771",
+        "title": [
+          "PuzzleAvatar: Assembling 3D Avatars from Personal Albums"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "xu2020ghum",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/cvpr42600.2020.00622",
+        "title": [
+          "GHUM &amp; GHUML: Generative 3D Human Shape and Articulated Pose Models"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "xue2024gen3diffusion",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/tpami.2025.3577067",
+        "title": [
+          "Gen-3Diffusion: Realistic Image-to-3D Generation Via 2D &amp; 3D Diffusion Synergy"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "xue2024hsr",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1007/978-3-031-73220-1_25",
+        "title": [
+          "HSR: Holistic 3D Human-Scene Reconstruction from Monocular Videos"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "xue2024human3diffusion",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.52202/079017-3160",
+        "title": [
+          "Human-3Diffusion: Realistic Avatar Creation via Explicit 3D Consistent Diffusion Models"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "yang2023dif",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/iccv51070.2023.00837",
+        "title": [
+          "D-IF: Uncertainty-aware Human Digitization via Implicit Distribution Field"
+        ]
+      }
+    ],
+    "issues": [],
+    "resolutions": [
+      "Removed optional pages because source pagination differs."
+    ]
+  },
+  {
+    "id": "yang2023synbody",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "https://huggingface.co/datasets/caizhongang/SynBody",
+    "code_url": "",
+    "evidence": [
+      {
+        "source": "reference repository; exact normalized title match",
+        "record_title": "SynBody: Synthetic Dataset with Layered Human Models for 3D Human Perception and Modeling"
+      },
+      {
+        "url": "https://api.crossref.org/works/10.1109/iccv51070.2023.01855",
+        "title": [
+          "SynBody: Synthetic Dataset with Layered Human Models for 3D Human Perception and Modeling"
+        ]
+      }
+    ],
+    "issues": [],
+    "resolutions": [
+      "Removed optional pages because source pagination differs."
+    ]
+  },
+  {
+    "id": "yang2025innovative",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s00371-024-03641-7.pdf",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1007/s00371-024-03641-7",
+        "title": [
+          "Innovative AI techniques for photorealistic 3D clothed human reconstruction from monocular images or videos: a survey"
+        ]
+      }
+    ],
+    "issues": [],
+    "resolutions": [
+      "Retained issue year accompanying volume/issue; Crossref date refers to earlier online publication."
+    ]
+  },
+  {
+    "id": "yang2025postometro",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/wacv61041.2025.00465",
+        "title": [
+          "PostoMETRO: Pose Token Enhanced Mesh Transformer for Robust 3D Human Mesh Recovery"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "yang2025sigman",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "https://yyvhang.github.io/SIGMAN_3D/",
+    "code_url": "",
+    "evidence": [
+      {
+        "source": "reference repository; exact normalized title match",
+        "record_title": "SIGMAN: Scaling 3D Human Gaussian Generation with Millions of Assets"
+      },
+      {
+        "url": "https://api.crossref.org/works/10.1109/iccv51701.2025.00487",
+        "title": [
+          "SIGMAN: Scaling 3D Human Gaussian Generation with Millions of Assets"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "ye2023slahmr",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/cvpr52729.2023.02033",
+        "title": [
+          "Decoupling Human and Camera Motion from Videos in the Wild"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "ye2025occgaussian",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1145/3731715.3733406",
+        "title": [
+          "OccGaussian: 3D Gaussian Splatting for Occluded Human Rendering"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "yin2023hi4d",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "https://yifeiyin04.github.io/Hi4D/",
+    "code_url": "https://github.com/yifeiyin04/Hi4D",
+    "evidence": [
+      {
+        "source": "reference repository; exact normalized title match",
+        "record_title": "Hi4D: 4D Instance Segmentation of Close Human Interaction"
+      },
+      {
+        "url": "https://api.crossref.org/works/10.1109/cvpr52729.2023.01632",
+        "title": [
+          "Hi4D: 4D Instance Segmentation of Close Human Interaction"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "yu2021function4d",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/cvpr46437.2021.00569",
+        "title": [
+          "Function4D: Real-time Human Volumetric Capture from Very Sparse Consumer RGBD Sensors"
+        ]
+      }
+    ],
+    "issues": [],
+    "resolutions": [
+      "Removed optional pages because source pagination differs."
+    ]
+  },
+  {
+    "id": "yu2023monohuman",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/cvpr52729.2023.01625",
+        "title": [
+          "MonoHuman: Animatable Human Neural Field from Monocular Video"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "yu2025humanram",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1145/3721238.3730605",
+        "title": [
+          "HumanRAM: Feed-forward Human Reconstruction and Animation Model using Transformers"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "yuan2021simpoe",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/cvpr46437.2021.00708",
+        "title": [
+          "SimPoE: Simulated Character Control for 3D Human Pose Estimation"
+        ]
+      }
+    ],
+    "issues": [],
+    "resolutions": [
+      "Removed optional pages because source pagination differs."
+    ]
+  },
+  {
+    "id": "zhang2018lpips",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/cvpr.2018.00068",
+        "title": [
+          "The Unreasonable Effectiveness of Deep Features as a Perceptual Metric"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "zhang2020phosa",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1007/978-3-030-58610-2_3",
+        "title": [
+          "Perceiving 3D Human-Object Spatial Arrangements from a Single Image in the Wild"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "zhang2023avatargen",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1007/978-3-031-25066-8_39",
+        "title": [
+          "AvatarGen: A 3D Generative Model for Animatable Human Avatars"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "zhang2024sifu",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/cvpr52733.2024.00948",
+        "title": [
+          "SIFU: Side-view Conditioned Implicit Function for Real-world Usable Clothed Human Reconstruction"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "zhao2024badgaussians",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1007/978-3-031-72698-9_14",
+        "title": [
+          "BAD-Gaussians: Bundle Adjusted Deblur Gaussian Splatting"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "zheng2021pamir",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/tpami.2021.3050505",
+        "title": [
+          "PaMIR: Parametric Model-Conditioned Implicit Representation for Image-Based Human Reconstruction"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "zheng2023pointavatar",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/cvpr52729.2023.02017",
+        "title": [
+          "PointAvatar: Deformable Point-Based Head Avatars from Videos"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "zheng2024gpsgaussian",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/cvpr52733.2024.01861",
+        "title": [
+          "GPS-Gaussian: Generalizable Pixel-Wise 3D Gaussian Splatting for Real-Time Human Novel View Synthesis"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "zhou2022codeformer",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.52202/068431-2218",
+        "title": [
+          "Towards Robust Blind Face Restoration with Codebook Lookup Transformer"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "zhou2024headstudio",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1007/978-3-031-73411-3_9",
+        "title": [
+          "HeadStudio: Text to Animatable Head Avatars with 3D Gaussian Splatting"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "zhu2024champ",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1007/978-3-031-73001-6_9",
+        "title": [
+          "Champ: Controllable and Consistent Human Image Animation with 3D Parametric Guidance"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "zhu2025agenticir",
+    "checked": "2026-11-14",
+    "metadata_status": "primary_source_crosschecked",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://proceedings.iclr.cc/paper_files/paper/2025/hash/921ac785fa9edc73cacaf2664f43d234-Abstract-Conference.html",
+        "resolved": "https://proceedings.iclr.cc/paper_files/paper/2025/hash/921ac785fa9edc73cacaf2664f43d234-Abstract-Conference.html",
+        "http_access": true,
+        "title": "An Intelligent Agentic System for Complex Image Restoration Problems"
+      }
+    ],
+    "issues": [],
+    "historical_issues": []
+  },
+  {
+    "id": "zhuang2025idol",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "https://github.com/yiyuzhuang/IDOL",
+    "evidence": [
+      {
+        "source": "reference repository; exact normalized title match",
+        "record_title": "IDOL: Instant Photorealistic 3D Human Creation from a Single Image"
+      },
+      {
+        "source": "reference repository; exact normalized title match",
+        "record_title": "IDOL: Instant Photorealistic 3D Human Creation from a Single Image"
+      },
+      {
+        "url": "https://api.crossref.org/works/10.1109/cvpr52734.2025.02450",
+        "title": [
+          "IDOL: Instant Photorealistic 3D Human Creation from a Single Image"
+        ]
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "zielonka2023insta",
+    "checked": "2026-11-14",
+    "metadata_status": "title_matched",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "evidence": [
+      {
+        "url": "https://api.crossref.org/works/10.1109/cvpr52729.2023.00444",
+        "title": [
+          "Instant Volumetric Head Avatars"
+        ]
+      }
+    ],
+    "issues": []
+  }
+]

@@ -1,0 +1,57 @@
+{
+  "pavlakos2019smplx": {
+    "url": "https://github.com/vchoutas/smplx",
+    "checked": "2026-11-13",
+    "scope": "Official repository page checked; implementation not executed."
+  },
+  "saito2019pifu": {
+    "url": "https://github.com/shunsukesaito/PIFu",
+    "checked": "2026-11-13",
+    "scope": "Official repository page checked; implementation not executed."
+  },
+  "saito2020pifuhd": {
+    "url": "https://github.com/facebookresearch/pifuhd",
+    "checked": "2026-11-13",
+    "scope": "Official repository page checked; implementation not executed."
+  },
+  "xiu2022icon": {
+    "url": "https://github.com/YuliangXiu/ICON",
+    "checked": "2026-11-13",
+    "scope": "Official repository page checked; implementation not executed."
+  },
+  "xiu2023econ": {
+    "url": "https://github.com/YuliangXiu/ECON",
+    "checked": "2026-11-13",
+    "scope": "Official repository page checked; implementation not executed."
+  },
+  "weng2022humannerf": {
+    "url": "https://github.com/chungyiweng/humannerf",
+    "checked": "2026-11-13",
+    "scope": "Official repository page checked; implementation not executed."
+  },
+  "peng2021neuralbody": {
+    "url": "https://github.com/zju3dv/neuralbody",
+    "checked": "2026-11-13",
+    "scope": "Official repository page checked; implementation not executed."
+  },
+  "huang2024tech": {
+    "url": "https://github.com/huangyangyi/TeCH",
+    "checked": "2026-11-13",
+    "scope": "Official repository page checked; implementation not executed."
+  },
+  "pan2024soar": {
+    "url": "https://github.com/hangg7/soar",
+    "checked": "2026-11-13",
+    "scope": "Official repository page checked; implementation not executed."
+  },
+  "qiu2025lhm": {
+    "url": "https://github.com/aigc3d/LHM",
+    "checked": "2026-11-13",
+    "scope": "Official repository page checked; implementation not executed."
+  },
+  "huang2023dreamwaltz": {
+    "url": "https://github.com/IDEA-Research/DreamWaltz",
+    "checked": "2026-11-13",
+    "scope": "Official repository page checked; implementation not executed."
+  }
+}

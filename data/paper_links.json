@@ -1,0 +1,3966 @@
+[
+  {
+    "id": "abe2026gush3r",
+    "pdf_url": "https://arxiv.org/pdf/2607.05243",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2607.05243"
+    },
+    "source_url": "https://arxiv.org/abs/2607.05243",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "alldieck2018peoplesnapshot",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "not located",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "source_url": "https://doi.org/10.1109/cvpr.2018.00875",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "alldieck2021imghum",
+    "pdf_url": "https://arxiv.org/pdf/2108.10842",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/iccv48922.2021.00541",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2108.10842"
+    },
+    "source_url": "https://doi.org/10.1109/iccv48922.2021.00541",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "anguelov2005scape",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "not located",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "source_url": "https://doi.org/10.1145/1073204.1073207",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "anim2024",
+    "pdf_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Pesavento_ANIM_Accurate_Neural_Implicit_Model_for_Human_Reconstruction_from_a_CVPR_2024_paper.pdf",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF linked by primary source",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/cvpr52733.2024.00521",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2403.10357"
+    },
+    "source_url": "https://openaccess.thecvf.com/content/CVPR2024/html/Pesavento_ANIM_Accurate_Neural_Implicit_Model_for_Human_Reconstruction_from_a_CVPR_2024_paper.html",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "arindam2025chrome",
+    "pdf_url": "https://arxiv.org/pdf/2503.15671",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/iccv51701.2025.00853",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2503.15671"
+    },
+    "source_url": "https://doi.org/10.1109/iccv51701.2025.00853",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "bhatnagar2022behave",
+    "pdf_url": "https://arxiv.org/pdf/2204.06950",
+    "project_url": "https://virtualhumans.mpi-inf.mpg.de/behave/",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "accessible; provenance requires source review",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/cvpr52688.2022.01547",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2204.06950",
+      "project_url": "https://virtualhumans.mpi-inf.mpg.de/behave/"
+    },
+    "source_url": "https://doi.org/10.1109/cvpr52688.2022.01547",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "black2023bedlam",
+    "pdf_url": "https://arxiv.org/pdf/2306.16940",
+    "project_url": "https://bedlam.is.tue.mpg.de/",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "accessible; provenance requires source review",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/cvpr52729.2023.00843",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2306.16940",
+      "project_url": "https://bedlam.is.tue.mpg.de/"
+    },
+    "source_url": "https://doi.org/10.1109/cvpr52729.2023.00843",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "blanz1999morphable",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "unconfirmed: HTTP Error 403: Forbidden",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1145/311535.311556",
+    "source_url": "https://doi.org/10.1145/311535.311556",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json",
+    "unconfirmed_pdf_candidate": "https://pure.mpg.de/pubman/item/item_1793809_3/component/file_3271006/SIGGRAPH-1999-Blanz.pdf"
+  },
+  {
+    "id": "bogo2015detailed",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "not located",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "source_url": "https://doi.org/10.1109/iccv.2015.265",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "bogo2016smplify",
+    "pdf_url": "https://arxiv.org/pdf/1607.08128",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1007/978-3-319-46454-1_34",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/1607.08128"
+    },
+    "source_url": "https://doi.org/10.1007/978-3-319-46454-1_34",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "cai2022humman",
+    "pdf_url": "https://arxiv.org/pdf/2204.13686",
+    "project_url": "https://caizhongang.com/projects/HuMMan/",
+    "code_url": "https://github.com/MotrixLab/humman_toolbox",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "accessible; provenance requires source review",
+      "code_url": "accessible; provenance requires source review"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1007/978-3-031-20071-7_33",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2204.13686",
+      "project_url": "https://caizhongang.com/projects/HuMMan/",
+      "code_url": "https://github.com/MotrixLab/humman_toolbox"
+    },
+    "source_url": "https://doi.org/10.1007/978-3-031-20071-7_33",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "cai2023smplerx",
+    "pdf_url": "https://arxiv.org/pdf/2309.17448",
+    "project_url": "",
+    "code_url": "https://github.com/caizhongang/SMPLer-X",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "accessible; provenance requires source review"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.52202/075280-0506",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2309.17448",
+      "code_url": "https://github.com/MotrixLab/SMPLer-X"
+    },
+    "source_url": "https://doi.org/10.52202/075280-0506",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "cai2025up2you",
+    "pdf_url": "https://proceedings.iclr.cc/paper_files/paper/2026/file/63fa7efdd3bcf944a4bd6e0ff6a50041-Paper-Conference.pdf",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF linked by primary source",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "source_url": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/63fa7efdd3bcf944a4bd6e0ff6a50041-Abstract-Conference.html",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "cao2024dreamavatar",
+    "pdf_url": "https://arxiv.org/pdf/2304.00916",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/cvpr52733.2024.00097",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2304.00916"
+    },
+    "source_url": "https://doi.org/10.1109/cvpr52733.2024.00097",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "chatgarment2025",
+    "pdf_url": "https://arxiv.org/pdf/2412.17811",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/cvpr52734.2025.00278",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2412.17811"
+    },
+    "source_url": "https://doi.org/10.1109/cvpr52734.2025.00278",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "chen2022gdna",
+    "pdf_url": "https://arxiv.org/pdf/2201.04123",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/cvpr52688.2022.01978",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2201.04123"
+    },
+    "source_url": "https://doi.org/10.1109/cvpr52688.2022.01978",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "chen2023gta",
+    "pdf_url": "https://arxiv.org/pdf/2309.13524",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.52202/075280-0343",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2309.13524"
+    },
+    "source_url": "https://doi.org/10.52202/075280-0343",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "chen2023primdiffusion",
+    "pdf_url": "https://arxiv.org/pdf/2312.04559",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.52202/075280-0602",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2312.04559"
+    },
+    "source_url": "https://doi.org/10.52202/075280-0602",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "chen2024morphable",
+    "pdf_url": "https://arxiv.org/pdf/2401.04728",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/cvpr52733.2024.00986",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2401.04728"
+    },
+    "source_url": "https://doi.org/10.1109/cvpr52733.2024.00986",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "chen2024restoreagent",
+    "pdf_url": "https://arxiv.org/pdf/2407.18035",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.52202/079017-3512",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2407.18035"
+    },
+    "source_url": "https://doi.org/10.52202/079017-3512",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "chen2025hart",
+    "pdf_url": "https://arxiv.org/pdf/2509.26621",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2509.26621"
+    },
+    "source_url": "https://arxiv.org/abs/2509.26621",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "chen2026clothedsurvey",
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s44443-025-00460-1.pdf",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "resolved_urls": {
+      "pdf_url": "https://link.springer.com/content/pdf/10.1007/s44443-025-00460-1.pdf?error=cookies_not_supported&code=bb6de1bd-7765-4294-9ce4-98711cb6ca95"
+    },
+    "source_url": "https://doi.org/10.1007/s44443-025-00460-1",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "cheng2023dnarendering",
+    "pdf_url": "https://arxiv.org/pdf/2307.10173",
+    "project_url": "https://dna-rendering.github.io/",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "accessible; provenance requires source review",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/iccv51070.2023.01829",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2307.10173",
+      "project_url": "https://dna-rendering.github.io/"
+    },
+    "source_url": "https://doi.org/10.1109/iccv51070.2023.01829",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "chibane2020ifnet",
+    "pdf_url": "https://arxiv.org/pdf/2003.01456",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/cvpr42600.2020.00700",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2003.01456"
+    },
+    "source_url": "https://doi.org/10.1109/cvpr42600.2020.00700",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "chung2023dps",
+    "pdf_url": "https://arxiv.org/pdf/2209.14687",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF linked by primary source",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "source_url": "https://arxiv.org/abs/2209.14687",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "dang2023reconstructing",
+    "pdf_url": "https://arxiv.org/pdf/2310.01228",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1111/cgf.14982",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2310.01228"
+    },
+    "source_url": "https://doi.org/10.1111/cgf.14982",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "deblur4dgs2026",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "HTML response; PDF not confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "resolved_urls": {
+      "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/38047/42009"
+    },
+    "source_url": "https://doi.org/10.1609/aaai.v40i13.38047",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json",
+    "unconfirmed_pdf_candidate": "https://ojs.aaai.org/index.php/AAAI/article/download/38047/42009"
+  },
+  {
+    "id": "deephuman2019",
+    "pdf_url": "https://arxiv.org/pdf/1903.06473",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/iccv.2019.00783",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/1903.06473"
+    },
+    "source_url": "https://doi.org/10.1109/iccv.2019.00783",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "deng2024portrait4d",
+    "pdf_url": "https://arxiv.org/pdf/2311.18729",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/cvpr52733.2024.00680",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2311.18729"
+    },
+    "source_url": "https://doi.org/10.1109/cvpr52733.2024.00680",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "diffusion3dsurvey",
+    "pdf_url": "https://arxiv.org/pdf/2410.04738",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2410.04738"
+    },
+    "source_url": "https://arxiv.org/abs/2410.04738",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "difu2023",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "not located",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "source_url": "https://doi.org/10.1109/cvpr52729.2023.00844",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "digsavatar2026",
+    "pdf_url": "https://arxiv.org/pdf/2608.20759",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1007/978-3-032-37467-7_30",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2608.20759"
+    },
+    "source_url": "https://doi.org/10.1007/978-3-032-37467-7_30",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "dong2025moga",
+    "pdf_url": "https://arxiv.org/pdf/2507.23597",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/iccv51701.2025.01236",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2507.23597"
+    },
+    "source_url": "https://doi.org/10.1109/iccv51701.2025.01236",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "doublefusion2018",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "not located",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "source_url": "https://doi.org/10.1109/cvpr.2018.00761",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "facegpt2025",
+    "pdf_url": "https://arxiv.org/pdf/2406.07163",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2406.07163"
+    },
+    "source_url": "https://arxiv.org/abs/2406.07163",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "feng2021deca",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "unconfirmed: HTTP Error 403: Forbidden",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1145/3450626.3459936",
+    "source_url": "https://doi.org/10.1145/3450626.3459936",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json",
+    "unconfirmed_pdf_candidate": "https://dl.acm.org/doi/pdf/10.1145/3450626.3459936"
+  },
+  {
+    "id": "feng2022fof",
+    "pdf_url": "https://arxiv.org/pdf/2206.02194",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.52202/068431-0537",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2206.02194"
+    },
+    "source_url": "https://doi.org/10.52202/068431-0537",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "feng2024chatpose",
+    "pdf_url": "https://arxiv.org/pdf/2311.18836",
+    "project_url": "",
+    "code_url": "https://github.com/yfeng95/PoseGPT",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "accessible; provenance requires source review"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/cvpr52733.2024.00204",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2311.18836",
+      "code_url": "https://github.com/yfeng95/PoseGPT"
+    },
+    "source_url": "https://doi.org/10.1109/cvpr52733.2024.00204",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "feng2025chathuman",
+    "pdf_url": "https://arxiv.org/pdf/2405.04533",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/cvpr52734.2025.00763",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2405.04533"
+    },
+    "source_url": "https://doi.org/10.1109/cvpr52734.2025.00763",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "finer2025rgbd",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "not located",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "source_url": "https://doi.org/10.1007/978-3-031-82021-2_9",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "flexavatar2026",
+    "pdf_url": "https://arxiv.org/pdf/2512.17717",
+    "project_url": "https://pengc02.github.io/flexavatar/",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF linked by primary source",
+      "project_url": "Author project linked by primary source",
+      "code_url": "not located"
+    },
+    "source_url": "https://arxiv.org/abs/2512.17717",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "gas2025",
+    "pdf_url": "https://arxiv.org/pdf/2502.06957",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/iccv51701.2025.01197",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2502.06957"
+    },
+    "source_url": "https://doi.org/10.1109/iccv51701.2025.01197",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "gbcsplat2025",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "not located",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "source_url": "https://doi.org/10.1109/cvpr52734.2025.02456",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "gene2025man",
+    "pdf_url": "https://arxiv.org/pdf/2411.18624",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.52202/085713-2759",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2411.18624"
+    },
+    "source_url": "https://doi.org/10.52202/085713-2759",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "genlca2026",
+    "pdf_url": "https://arxiv.org/pdf/2604.07273",
+    "project_url": "https://onethousandwu.com/GenLCA-Page/",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "accessible; provenance requires source review",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1007/978-3-032-37335-9_10",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2604.07273",
+      "project_url": "https://onethousandwu.com/GenLCA-Page/"
+    },
+    "source_url": "https://doi.org/10.1007/978-3-032-37335-9_10",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "geopifu2020",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "not located",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "source_url": "https://proceedings.neurips.cc/paper_files/paper/2020/file/690f44c8c2b7ded579d01abe8fdb6110-Paper.pdf",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "goel2023hmr2",
+    "pdf_url": "https://arxiv.org/pdf/2305.20091",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/iccv51070.2023.01358",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2305.20091"
+    },
+    "source_url": "https://doi.org/10.1109/iccv51070.2023.01358",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "gshumansurvey",
+    "pdf_url": "https://arxiv.org/pdf/2401.03890",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1145/3807511",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2401.03890"
+    },
+    "source_url": "https://doi.org/10.1145/3807511",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "guler2018densepose",
+    "pdf_url": "http://openaccess.thecvf.com/content_cvpr_2018/papers/Guler_DensePose_Dense_Human_CVPR_2018_paper.pdf",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF linked by primary source",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/cvpr.2018.00762",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/1802.00434"
+    },
+    "source_url": "https://openaccess.thecvf.com/content_cvpr_2018/html/Guler_DensePose_Dense_Human_CVPR_2018_paper.html",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "guo2023vid2avatar",
+    "pdf_url": "https://arxiv.org/pdf/2302.11566",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/cvpr52729.2023.01236",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2302.11566"
+    },
+    "source_url": "https://doi.org/10.1109/cvpr52729.2023.01236",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "guo2025vid2avatarpro",
+    "pdf_url": "https://arxiv.org/pdf/2503.01610",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/cvpr52734.2025.00522",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2503.01610"
+    },
+    "source_url": "https://doi.org/10.1109/cvpr52734.2025.00522",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "han20232k2k",
+    "pdf_url": "https://arxiv.org/pdf/2303.15108",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/cvpr52729.2023.01237",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2303.15108"
+    },
+    "source_url": "https://doi.org/10.1109/cvpr52729.2023.01237",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "han2023headsculpt",
+    "pdf_url": "https://arxiv.org/pdf/2306.03038",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.52202/075280-0218",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2306.03038"
+    },
+    "source_url": "https://doi.org/10.52202/075280-0218",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "harmony4d2024",
+    "pdf_url": "https://arxiv.org/pdf/2410.20294",
+    "project_url": "https://jyuntins.github.io/harmony4d/",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "accessible; provenance requires source review",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.52202/079017-3407",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2410.20294",
+      "project_url": "https://jyuntins.github.io/harmony4d/"
+    },
+    "source_url": "https://doi.org/10.52202/079017-3407",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "hassan2019prox",
+    "pdf_url": "https://arxiv.org/pdf/1908.06963",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/iccv.2019.00237",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/1908.06963"
+    },
+    "source_url": "https://doi.org/10.1109/iccv.2019.00237",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "havefun2024",
+    "pdf_url": "https://arxiv.org/pdf/2311.15672",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/cvpr52733.2024.00077",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2311.15672"
+    },
+    "source_url": "https://doi.org/10.1109/cvpr52733.2024.00077",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "he2024magicman",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "HTML response; PDF not confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "resolved_urls": {
+      "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/32356/34511"
+    },
+    "source_url": "https://doi.org/10.1609/aaai.v39i3.32356",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json",
+    "unconfirmed_pdf_candidate": "https://ojs.aaai.org/index.php/AAAI/article/download/32356/34511"
+  },
+  {
+    "id": "heihuman2024",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "not located",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "source_url": "https://doi.org/10.1007/978-3-030-88007-1_21",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "heusel2017fid",
+    "pdf_url": "https://proceedings.neurips.cc/paper_files/paper/2017/file/8a1d694707eb0fefe65871369074926d-Paper.pdf",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF linked by primary source",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "source_url": "https://proceedings.neurips.cc/paper/2017/hash/8a1d694707eb0fefe65871369074926d-Abstract.html",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "hint2024",
+    "pdf_url": "https://arxiv.org/pdf/2405.19712",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/iv55156.2024.10588836",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2405.19712"
+    },
+    "source_url": "https://doi.org/10.1109/iv55156.2024.10588836",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "ho2020ddpm",
+    "pdf_url": "https://proceedings.neurips.cc/paper_files/paper/2020/file/4c5bcfec8584af0d967f1ab10179ca4b-Paper.pdf",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF linked by primary source",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "source_url": "https://proceedings.neurips.cc/paper/2020/hash/4c5bcfec8584af0d967f1ab10179ca4b-Abstract.html",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "ho2023customhumans",
+    "pdf_url": "https://arxiv.org/pdf/2305.00121",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/cvpr52729.2023.02014",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2305.00121"
+    },
+    "source_url": "https://doi.org/10.1109/cvpr52729.2023.02014",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "ho2024sith",
+    "pdf_url": "https://arxiv.org/pdf/2311.15855",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/cvpr52733.2024.00058",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2311.15855"
+    },
+    "source_url": "https://doi.org/10.1109/cvpr52733.2024.00058",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "hong2021stereopifu",
+    "pdf_url": "https://arxiv.org/pdf/2104.05289",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/cvpr46437.2021.00060",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2104.05289"
+    },
+    "source_url": "https://doi.org/10.1109/cvpr46437.2021.00060",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "hong2022avatarclip",
+    "pdf_url": "https://arxiv.org/pdf/2205.08535",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1145/3528223.3530094",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2205.08535"
+    },
+    "source_url": "https://doi.org/10.1145/3528223.3530094",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "hong2022eva3d",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "https://github.com/hongfz16/EVA3D",
+    "checks": {
+      "pdf_url": "not located",
+      "project_url": "not located",
+      "code_url": "Official implementation identified through author/paper source"
+    },
+    "source_url": "https://openreview.net/forum?id=g7U9jD_2CUr",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "hong2024lrm",
+    "pdf_url": "https://proceedings.iclr.cc/paper_files/paper/2024/file/dcad3425f5c8c36b5b3885c091bf1257-Paper-Conference.pdf",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF linked by primary source",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "source_url": "https://proceedings.iclr.cc/paper_files/paper/2024/hash/dcad3425f5c8c36b5b3885c091bf1257-Abstract-Conference.html",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "hu2023sherf",
+    "pdf_url": "https://arxiv.org/pdf/2303.12791",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/iccv51070.2023.00858",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2303.12791"
+    },
+    "source_url": "https://doi.org/10.1109/iccv51070.2023.00858",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "hu2024animateanyone",
+    "pdf_url": "https://arxiv.org/pdf/2311.17117",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/cvpr52733.2024.00779",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2311.17117"
+    },
+    "source_url": "https://doi.org/10.1109/cvpr52733.2024.00779",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "hu2024gauhuman",
+    "pdf_url": "https://arxiv.org/pdf/2312.02973",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/cvpr52733.2024.01930",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2312.02973"
+    },
+    "source_url": "https://doi.org/10.1109/cvpr52733.2024.01930",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "hu2024gaussianavatar",
+    "pdf_url": "https://arxiv.org/pdf/2312.02134",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/cvpr52733.2024.00067",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2312.02134"
+    },
+    "source_url": "https://doi.org/10.1109/cvpr52733.2024.00067",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "hu2024structldm",
+    "pdf_url": "https://arxiv.org/pdf/2404.01241",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1007/978-3-031-72983-6_21",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2404.01241"
+    },
+    "source_url": "https://doi.org/10.1007/978-3-031-72983-6_21",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "hu2025humangif",
+    "pdf_url": "https://arxiv.org/pdf/2502.12080",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2502.12080"
+    },
+    "source_url": "https://arxiv.org/abs/2502.12080",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "huang2020arch",
+    "pdf_url": "https://arxiv.org/pdf/2004.04572",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/cvpr42600.2020.00316",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2004.04572"
+    },
+    "source_url": "https://doi.org/10.1109/cvpr42600.2020.00316",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "huang2022ocmotion",
+    "pdf_url": "https://arxiv.org/pdf/2207.05375",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2207.05375"
+    },
+    "source_url": "https://arxiv.org/abs/2207.05375",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "huang2022rich",
+    "pdf_url": "https://arxiv.org/pdf/2206.09553",
+    "project_url": "https://rich.is.tue.mpg.de/",
+    "code_url": "https://github.com/paulchhuang/rich_toolkit",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "accessible; provenance requires source review",
+      "code_url": "accessible; provenance requires source review"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/cvpr52688.2022.01292",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2206.09553",
+      "project_url": "https://rich.is.tue.mpg.de/",
+      "code_url": "https://github.com/paulchhuang/rich_toolkit"
+    },
+    "source_url": "https://doi.org/10.1109/cvpr52688.2022.01292",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "huang2023dreamwaltz",
+    "pdf_url": "https://arxiv.org/pdf/2305.12529",
+    "project_url": "",
+    "code_url": "https://github.com/IDEA-Research/DreamWaltz",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "accessible; provenance requires source review"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.52202/075280-0202",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2305.12529",
+      "code_url": "https://github.com/IDEA-Research/DreamWaltz"
+    },
+    "source_url": "https://doi.org/10.52202/075280-0202",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "huang2024dreamwaltzg",
+    "pdf_url": "https://arxiv.org/pdf/2409.17145",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/tpami.2025.3586284",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2409.17145"
+    },
+    "source_url": "https://doi.org/10.1109/tpami.2025.3586284",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "huang2024humannorm",
+    "pdf_url": "https://arxiv.org/pdf/2310.01406",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/cvpr52733.2024.00437",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2310.01406"
+    },
+    "source_url": "https://doi.org/10.1109/cvpr52733.2024.00437",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "huang2024tech",
+    "pdf_url": "https://arxiv.org/pdf/2308.08545",
+    "project_url": "",
+    "code_url": "https://github.com/huangyangyi/TeCH",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "accessible; provenance requires source review"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/3dv62453.2024.00152",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2308.08545",
+      "code_url": "https://github.com/huangyangyi/TeCH"
+    },
+    "source_url": "https://doi.org/10.1109/3dv62453.2024.00152",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "huang2025adahuman",
+    "pdf_url": "https://arxiv.org/pdf/2505.24877",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/iccv51701.2025.01257",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2505.24877"
+    },
+    "source_url": "https://doi.org/10.1109/iccv51701.2025.01257",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "huang2025wildavatar",
+    "pdf_url": "https://arxiv.org/pdf/2407.02165",
+    "project_url": "https://wildavatar.github.io/",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "accessible; provenance requires source review",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/cvpr52734.2025.01488",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2407.02165",
+      "project_url": "https://wildavatar.github.io/"
+    },
+    "source_url": "https://doi.org/10.1109/cvpr52734.2025.01488",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "human3r2025",
+    "pdf_url": "https://proceedings.iclr.cc/paper_files/paper/2026/file/467c017e2639255e9c5d91a2e582f95a-Paper-Conference.pdf",
+    "project_url": "https://fanegg.github.io/Human3R/",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF linked by primary source",
+      "project_url": "Author project linked by primary source",
+      "code_url": "not located"
+    },
+    "resolved_urls": {
+      "project_url": "https://fanegg.github.io/Human3R/"
+    },
+    "source_url": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/467c017e2639255e9c5d91a2e582f95a-Abstract-Conference.html",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "inpainthuman2026",
+    "pdf_url": "https://arxiv.org/pdf/2601.02098",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2601.02098"
+    },
+    "source_url": "https://arxiv.org/abs/2601.02098",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "isik2023humanrf",
+    "pdf_url": "https://arxiv.org/pdf/2305.06356",
+    "project_url": "https://actors-hq.com/",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "accessible; provenance requires source review",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1145/3592415",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2305.06356",
+      "project_url": "https://actors-hq.com/"
+    },
+    "source_url": "https://doi.org/10.1145/3592415",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "jiang2022selfrecon",
+    "pdf_url": "https://arxiv.org/pdf/2201.12792",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/cvpr52688.2022.00552",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2201.12792"
+    },
+    "source_url": "https://doi.org/10.1109/cvpr52688.2022.00552",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "jiang2023avatarcraft",
+    "pdf_url": "https://arxiv.org/pdf/2303.17606",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/iccv51070.2023.01322",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2303.17606"
+    },
+    "source_url": "https://doi.org/10.1109/iccv51070.2023.01322",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "jiang2023instantavatar",
+    "pdf_url": "https://arxiv.org/pdf/2212.10550",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/cvpr52729.2023.01623",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2212.10550"
+    },
+    "source_url": "https://doi.org/10.1109/cvpr52729.2023.01623",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "jiang2025stgavatar",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "not located",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "source_url": "https://doi.org/10.1109/iros60139.2025.11245654",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "jiang2025symgaussian",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "not located",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "source_url": "https://doi.org/10.1109/icassp49660.2025.10887816",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "kanazawa2018hmr",
+    "pdf_url": "https://arxiv.org/pdf/1712.06584",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/cvpr.2018.00744",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/1712.06584"
+    },
+    "source_url": "https://doi.org/10.1109/cvpr.2018.00744",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "kant2025pippo",
+    "pdf_url": "https://arxiv.org/pdf/2502.07785",
+    "project_url": "",
+    "code_url": "https://github.com/facebookresearch/pippo",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "accessible; provenance requires source review"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/cvpr52734.2025.01531",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2502.07785",
+      "code_url": "https://github.com/facebookresearch/pippo"
+    },
+    "source_url": "https://doi.org/10.1109/cvpr52734.2025.01531",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "kaufmann2023emdb",
+    "pdf_url": "https://arxiv.org/pdf/2308.16894",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/iccv51070.2023.01345",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2308.16894"
+    },
+    "source_url": "https://doi.org/10.1109/iccv51070.2023.01345",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "kerbl2023gaussian",
+    "pdf_url": "https://arxiv.org/pdf/2308.04079",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1145/3592433",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2308.04079"
+    },
+    "source_url": "https://doi.org/10.1145/3592433",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "kim2024mhcdiff",
+    "pdf_url": "https://arxiv.org/pdf/2409.18364",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.52202/079017-2570",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2409.18364"
+    },
+    "source_url": "https://doi.org/10.52202/079017-2570",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "kirschstein2025avat3r",
+    "pdf_url": "https://arxiv.org/pdf/2502.20220",
+    "project_url": "https://tobias-kirschstein.github.io/avat3r/",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "accessible; provenance requires source review",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/iccv51701.2025.01124",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2502.20220",
+      "project_url": "https://tobias-kirschstein.github.io/avat3r/"
+    },
+    "source_url": "https://doi.org/10.1109/iccv51701.2025.01124",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "kocabas2021pare",
+    "pdf_url": "https://arxiv.org/pdf/2104.08527",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/iccv48922.2021.01094",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2104.08527"
+    },
+    "source_url": "https://doi.org/10.1109/iccv48922.2021.01094",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "kolotouros2019spin",
+    "pdf_url": "https://arxiv.org/pdf/1909.12828",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/iccv.2019.00234",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/1909.12828"
+    },
+    "source_url": "https://doi.org/10.1109/iccv.2019.00234",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "kolotouros2021prohmr",
+    "pdf_url": "https://arxiv.org/pdf/2108.11944",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/iccv48922.2021.01140",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2108.11944"
+    },
+    "source_url": "https://doi.org/10.1109/iccv48922.2021.01140",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "kolotouros2023dreamhuman",
+    "pdf_url": "https://arxiv.org/pdf/2306.09329",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.52202/075280-0462",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2306.09329"
+    },
+    "source_url": "https://doi.org/10.52202/075280-0462",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "kolotouros2024avatarpopup",
+    "pdf_url": "https://arxiv.org/pdf/2406.07516",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1007/978-3-031-73021-4_11",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2406.07516"
+    },
+    "source_url": "https://doi.org/10.1007/978-3-031-73021-4_11",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "kwon2021nhp",
+    "pdf_url": "https://proceedings.neurips.cc/paper_files/paper/2021/file/cf866614b6b18cda13fe699a3a65661b-Paper.pdf",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF linked by primary source",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "source_url": "https://papers.neurips.cc/paper_files/paper/2021/hash/cf866614b6b18cda13fe699a3a65661b-Abstract.html",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "kwon2024ghg",
+    "pdf_url": "https://arxiv.org/pdf/2407.12777",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1007/978-3-031-73229-4_26",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2407.12777"
+    },
+    "source_url": "https://doi.org/10.1007/978-3-031-73229-4_26",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "lee2023dpnerf",
+    "pdf_url": "https://arxiv.org/pdf/2211.12046",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/cvpr52729.2023.01192",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2211.12046"
+    },
+    "source_url": "https://doi.org/10.1109/cvpr52729.2023.01192",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "lee2024deblurgs",
+    "pdf_url": "https://arxiv.org/pdf/2401.00834",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1007/978-3-031-73636-0_8",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2401.00834"
+    },
+    "source_url": "https://doi.org/10.1007/978-3-031-73636-0_8",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "lee2024guesstheunseen",
+    "pdf_url": "https://arxiv.org/pdf/2404.14410",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/cvpr52733.2024.00107",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2404.14410"
+    },
+    "source_url": "https://doi.org/10.1109/cvpr52733.2024.00107",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "lei2024gart",
+    "pdf_url": "https://arxiv.org/pdf/2311.16099",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/cvpr52733.2024.01879",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2311.16099"
+    },
+    "source_url": "https://doi.org/10.1109/cvpr52733.2024.01879",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "li2021aist",
+    "pdf_url": "https://arxiv.org/pdf/2101.08779",
+    "project_url": "https://google.github.io/aichoreographer/",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "accessible; provenance requires source review",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/iccv48922.2021.01315",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2101.08779",
+      "project_url": "https://google.github.io/aichoreographer/"
+    },
+    "source_url": "https://doi.org/10.1109/iccv48922.2021.01315",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "li2022cliff",
+    "pdf_url": "https://arxiv.org/pdf/2208.00571",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1007/978-3-031-20065-6_34",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2208.00571"
+    },
+    "source_url": "https://doi.org/10.1007/978-3-031-20065-6_34",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "li2023text23dsurvey",
+    "pdf_url": "https://arxiv.org/pdf/2305.06131",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2305.06131"
+    },
+    "source_url": "https://arxiv.org/abs/2305.06131",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "li2024pshuman",
+    "pdf_url": "https://arxiv.org/pdf/2409.10141",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/cvpr52734.2025.01492",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2409.10141"
+    },
+    "source_url": "https://doi.org/10.1109/cvpr52734.2025.01492",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "liang2024luciddreamer",
+    "pdf_url": "https://arxiv.org/pdf/2311.11284",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/cvpr52733.2024.00623",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2311.11284"
+    },
+    "source_url": "https://doi.org/10.1109/cvpr52733.2024.00623",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "liao2024tada",
+    "pdf_url": "https://arxiv.org/pdf/2308.10899",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/3dv62453.2024.00150",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2308.10899"
+    },
+    "source_url": "https://doi.org/10.1109/3dv62453.2024.00150",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "lin2024diffbir",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "not located",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "source_url": "https://doi.org/10.1007/978-3-031-73202-7_25",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "liu2021neuralactor",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "unconfirmed: HTTP Error 403: Forbidden",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1145/3478513.3480528",
+    "source_url": "https://doi.org/10.1145/3478513.3480528",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json",
+    "unconfirmed_pdf_candidate": "https://dl.acm.org/doi/pdf/10.1145/3478513.3480528"
+  },
+  {
+    "id": "liu2023zero123",
+    "pdf_url": "https://arxiv.org/pdf/2303.11328",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/iccv51070.2023.00853",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2303.11328"
+    },
+    "source_url": "https://doi.org/10.1109/iccv51070.2023.00853",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "liu2024headartist",
+    "pdf_url": "https://arxiv.org/pdf/2312.07539",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1145/3641519.3657512",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2312.07539"
+    },
+    "source_url": "https://doi.org/10.1145/3641519.3657512",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "liu2024infusion",
+    "pdf_url": "https://arxiv.org/pdf/2404.11613",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2404.11613"
+    },
+    "source_url": "https://arxiv.org/abs/2404.11613",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "liu2024syncdreamer",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "https://github.com/liuyuan-pal/SyncDreamer",
+    "checks": {
+      "pdf_url": "not located",
+      "project_url": "not located",
+      "code_url": "Official implementation identified through author/paper source"
+    },
+    "source_url": "https://proceedings.iclr.cc/paper_files/paper/2024/file/753d9584b57ba01a10482f1ea7734a89-Paper-Conference.pdf",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "liu2024texdreamer",
+    "pdf_url": "https://arxiv.org/pdf/2403.12906",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1007/978-3-031-72970-6_11",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2403.12906"
+    },
+    "source_url": "https://doi.org/10.1007/978-3-031-72970-6_11",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "liu2025avatarforge",
+    "pdf_url": "https://arxiv.org/pdf/2503.08165",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2503.08165"
+    },
+    "source_url": "https://arxiv.org/abs/2503.08165",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "liu2026josh",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "https://github.com/genforce/JOSH",
+    "checks": {
+      "pdf_url": "not located",
+      "project_url": "not located",
+      "code_url": "Official implementation identified through author/paper source"
+    },
+    "source_url": "https://openreview.net/forum?id=7eLE4mfEpz",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "long2024wonder3d",
+    "pdf_url": "https://arxiv.org/pdf/2310.15008",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/cvpr52733.2024.00951",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2310.15008"
+    },
+    "source_url": "https://doi.org/10.1109/cvpr52733.2024.00951",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "loper2015smpl",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "not located",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "source_url": "https://doi.org/10.1145/2816795.2818013",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "lu2025dposerx",
+    "pdf_url": "https://arxiv.org/pdf/2508.00599",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/iccv51701.2025.00931",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2508.00599"
+    },
+    "source_url": "https://doi.org/10.1109/iccv51701.2025.00931",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "luo2025debluravatar",
+    "pdf_url": "https://arxiv.org/pdf/2501.13335",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2501.13335"
+    },
+    "source_url": "https://arxiv.org/abs/2501.13335",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "ma2020cape",
+    "pdf_url": "http://openaccess.thecvf.com/content_CVPR_2020/papers/Ma_Learning_to_Dress_3D_People_in_Generative_Clothing_CVPR_2020_paper.pdf",
+    "project_url": "https://cape.is.tue.mpg.de/",
+    "code_url": "https://github.com/qianlim/CAPE",
+    "checks": {
+      "pdf_url": "PDF linked by primary source",
+      "project_url": "Author project linked by primary source",
+      "code_url": "Official implementation identified through author/paper source"
+    },
+    "source_url": "https://openaccess.thecvf.com/content_CVPR_2020/html/Ma_Learning_to_Dress_3D_People_in_Generative_Clothing_CVPR_2020_paper.html",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "ma2022deblurnerf",
+    "pdf_url": "https://arxiv.org/pdf/2111.14292",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/cvpr52688.2022.01252",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2111.14292"
+    },
+    "source_url": "https://doi.org/10.1109/cvpr52688.2022.01252",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "marin2019pop",
+    "pdf_url": "https://diglib.eg.org/bitstreams/b227c692-a1de-48c0-a629-6c2b5bb712c4/download",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF linked by primary source",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "source_url": "https://diglib.eg.org/items/27b69313-455f-4d29-a6f2-5cfdad9bd0f4",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "mazur2026agentstar",
+    "pdf_url": "https://arxiv.org/pdf/2609.24487",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2609.24487"
+    },
+    "source_url": "https://arxiv.org/abs/2609.24487",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "mihajlovic2022keypointnerf",
+    "pdf_url": "https://arxiv.org/pdf/2205.04992",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1007/978-3-031-19784-0_11",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2205.04992"
+    },
+    "source_url": "https://doi.org/10.1007/978-3-031-19784-0_11",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "mildenhall2020nerf",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "not located",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "source_url": "https://doi.org/10.1007/978-3-030-58452-8_24",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "mir2026ahoy",
+    "pdf_url": "https://arxiv.org/pdf/2603.17975",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1007/978-3-032-37095-2_25",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2603.17975"
+    },
+    "source_url": "https://doi.org/10.1007/978-3-032-37095-2_25",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "mononhr2023",
+    "pdf_url": "https://arxiv.org/pdf/2210.00627",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/3dv57658.2022.00036",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2210.00627"
+    },
+    "source_url": "https://doi.org/10.1109/3dv57658.2022.00036",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "muller2025hsfm",
+    "pdf_url": "https://arxiv.org/pdf/2412.17806",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/cvpr52734.2025.02044",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2412.17806"
+    },
+    "source_url": "https://doi.org/10.1109/cvpr52734.2025.02044",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "muralidhar2025physic",
+    "pdf_url": "https://arxiv.org/pdf/2510.11649",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1145/3757377.3763862",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2510.11649"
+    },
+    "source_url": "https://doi.org/10.1145/3757377.3763862",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "nerfhumansurvey",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "not located",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "source_url": "https://doi.org/10.1016/j.imavis.2024.105341",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "niu2024baga",
+    "pdf_url": "https://arxiv.org/pdf/2411.16758",
+    "project_url": "",
+    "code_url": "https://github.com/MyNiuuu/MAD-Avatar",
+    "checks": {
+      "pdf_url": "PDF linked by primary source",
+      "project_url": "not located",
+      "code_url": "Official implementation identified through author/paper source"
+    },
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2411.16758"
+    },
+    "source_url": "https://arxiv.org/abs/2411.16758",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "odhsr2025",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "not located",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "source_url": "https://doi.org/10.1109/cvpr52734.2025.02033",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "ozguroglu2024pix2gestalt",
+    "pdf_url": "https://arxiv.org/pdf/2401.14398",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/cvpr52733.2024.00377",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2401.14398"
+    },
+    "source_url": "https://doi.org/10.1109/cvpr52733.2024.00377",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "pan2023transhuman",
+    "pdf_url": "https://arxiv.org/pdf/2307.12291",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/iccv51070.2023.00328",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2307.12291"
+    },
+    "source_url": "https://doi.org/10.1109/iccv51070.2023.00328",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "pan2024humansplat",
+    "pdf_url": "https://arxiv.org/pdf/2406.12459",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.52202/079017-2367",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2406.12459"
+    },
+    "source_url": "https://doi.org/10.52202/079017-2367",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "pan2024soar",
+    "pdf_url": "https://arxiv.org/pdf/2410.23800",
+    "project_url": "",
+    "code_url": "https://github.com/hangg7/soar",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "accessible; provenance requires source review"
+    },
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2410.23800",
+      "code_url": "https://github.com/hangg7/soar"
+    },
+    "source_url": "https://arxiv.org/abs/2410.23800",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "park2019deepsdf",
+    "pdf_url": "https://arxiv.org/pdf/1901.05103",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/cvpr.2019.00025",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/1901.05103"
+    },
+    "source_url": "https://doi.org/10.1109/cvpr.2019.00025",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "pavlakos2019smplx",
+    "pdf_url": "https://arxiv.org/pdf/1904.05866",
+    "project_url": "",
+    "code_url": "https://github.com/vchoutas/smplx",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "accessible; provenance requires source review"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/cvpr.2019.01123",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/1904.05866",
+      "code_url": "https://github.com/vchoutas/smplx"
+    },
+    "source_url": "https://doi.org/10.1109/cvpr.2019.01123",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "pavlakos2024hamer",
+    "pdf_url": "https://arxiv.org/pdf/2312.05251",
+    "project_url": "",
+    "code_url": "https://github.com/geopavlakos/hamer",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "accessible; provenance requires source review"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/cvpr52733.2024.00938",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2312.05251",
+      "code_url": "https://github.com/geopavlakos/hamer"
+    },
+    "source_url": "https://doi.org/10.1109/cvpr52733.2024.00938",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "peng2021animatable",
+    "pdf_url": "https://arxiv.org/pdf/2105.02872",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/iccv48922.2021.01405",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2105.02872"
+    },
+    "source_url": "https://doi.org/10.1109/iccv48922.2021.01405",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "peng2021neuralbody",
+    "pdf_url": "https://arxiv.org/pdf/2012.15838",
+    "project_url": "",
+    "code_url": "https://github.com/zju3dv/neuralbody",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "accessible; provenance requires source review"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/cvpr46437.2021.00894",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2012.15838",
+      "code_url": "https://github.com/zju3dv/neuralbody"
+    },
+    "source_url": "https://doi.org/10.1109/cvpr46437.2021.00894",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "pfavatar2026",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "HTML response; PDF not confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "resolved_urls": {
+      "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/38069/42031"
+    },
+    "source_url": "https://doi.org/10.1609/aaai.v40i13.38069",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json",
+    "unconfirmed_pdf_candidate": "https://ojs.aaai.org/index.php/AAAI/article/download/38069/42031"
+  },
+  {
+    "id": "pifu-rgbd2023",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "not located",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "source_url": "https://doi.org/10.1109/hdis60872.2023.10499470",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "poole2023dreamfusion",
+    "pdf_url": "https://arxiv.org/pdf/2209.14988",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF linked by primary source",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "source_url": "https://arxiv.org/abs/2209.14988",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "prism2026",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "not located",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "source_url": "https://doi.org/10.1016/j.patcog.2026.115107",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "promptHMR2025",
+    "pdf_url": "https://arxiv.org/pdf/2504.06397",
+    "project_url": "",
+    "code_url": "https://github.com/yufu-wang/PromptHMR",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "accessible; provenance requires source review"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/cvpr52734.2025.00115",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2504.06397",
+      "code_url": "https://github.com/yufu-wang/PromptHMR"
+    },
+    "source_url": "https://doi.org/10.1109/cvpr52734.2025.00115",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "qian2024gsavatar",
+    "pdf_url": "https://arxiv.org/pdf/2312.09228",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/cvpr52733.2024.00480",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2312.09228"
+    },
+    "source_url": "https://doi.org/10.1109/cvpr52733.2024.00480",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "qiu2025anigs",
+    "pdf_url": "https://arxiv.org/pdf/2412.02684",
+    "project_url": "",
+    "code_url": "https://github.com/aigc3d/AniGS",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "accessible; provenance requires source review"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/cvpr52734.2025.01970",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2412.02684",
+      "code_url": "https://github.com/aigc3d/AniGS"
+    },
+    "source_url": "https://doi.org/10.1109/cvpr52734.2025.01970",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "qiu2025lhm",
+    "pdf_url": "https://openaccess.thecvf.com/content/ICCV2025/papers/Qiu_LHM_Large_Animatable_Human_Reconstruction_Model_for_Single_Image_to_ICCV_2025_paper.pdf",
+    "project_url": "",
+    "code_url": "https://github.com/aigc3d/LHM",
+    "checks": {
+      "pdf_url": "PDF linked by primary source",
+      "project_url": "not located",
+      "code_url": "accessible; provenance requires source review"
+    },
+    "resolved_urls": {
+      "code_url": "https://github.com/aigc3d/LHM"
+    },
+    "source_url": "https://openaccess.thecvf.com/content/ICCV2025/html/Qiu_LHM_Large_Animatable_Human_Reconstruction_Model_for_Single_Image_to_ICCV_2025_paper.html",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "qiu2025pflhm",
+    "pdf_url": "https://arxiv.org/pdf/2506.13766",
+    "project_url": "https://lingtengqiu.github.io/LHM++/",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF linked by primary source",
+      "project_url": "Author project linked by primary source",
+      "code_url": "not located"
+    },
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2506.13766"
+    },
+    "source_url": "https://arxiv.org/abs/2506.13766",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "qu2026deocc",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "HTML response; PDF not confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "resolved_urls": {
+      "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/37820/41782"
+    },
+    "source_url": "https://doi.org/10.1609/aaai.v40i11.37820",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json",
+    "unconfirmed_pdf_candidate": "https://ojs.aaai.org/index.php/AAAI/article/download/37820/41782"
+  },
+  {
+    "id": "rempe2021humor",
+    "pdf_url": "https://arxiv.org/pdf/2105.04668",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/iccv48922.2021.01129",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2105.04668"
+    },
+    "source_url": "https://doi.org/10.1109/iccv48922.2021.01129",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "rombach2022ldm",
+    "pdf_url": "https://arxiv.org/pdf/2112.10752",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/cvpr52688.2022.01042",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2112.10752"
+    },
+    "source_url": "https://doi.org/10.1109/cvpr52688.2022.01042",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "saito2019pifu",
+    "pdf_url": "https://arxiv.org/pdf/1905.05172",
+    "project_url": "",
+    "code_url": "https://github.com/shunsukesaito/PIFu",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "accessible; provenance requires source review"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/iccv.2019.00239",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/1905.05172",
+      "code_url": "https://github.com/shunsukesaito/PIFu"
+    },
+    "source_url": "https://doi.org/10.1109/iccv.2019.00239",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "saito2020pifuhd",
+    "pdf_url": "https://arxiv.org/pdf/2004.00452",
+    "project_url": "",
+    "code_url": "https://github.com/facebookresearch/pifuhd",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "accessible; provenance requires source review"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/cvpr42600.2020.00016",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2004.00452",
+      "code_url": "https://github.com/facebookresearch/pifuhd"
+    },
+    "source_url": "https://doi.org/10.1109/cvpr42600.2020.00016",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "saleem2025genhmr",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "HTML response; PDF not confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "resolved_urls": {
+      "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/32724/34879"
+    },
+    "source_url": "https://doi.org/10.1609/aaai.v39i7.32724",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json",
+    "unconfirmed_pdf_candidate": "https://ojs.aaai.org/index.php/AAAI/article/download/32724/34879"
+  },
+  {
+    "id": "shao2022doublefield",
+    "pdf_url": "https://arxiv.org/pdf/2106.03798",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/cvpr52688.2022.01541",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2106.03798"
+    },
+    "source_url": "https://doi.org/10.1109/cvpr52688.2022.01541",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "shao2024human4dit",
+    "pdf_url": "https://arxiv.org/pdf/2405.17405",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1145/3687980",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2405.17405"
+    },
+    "source_url": "https://doi.org/10.1145/3687980",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "shi2023zero123pp",
+    "pdf_url": "https://arxiv.org/pdf/2310.15110",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2310.15110"
+    },
+    "source_url": "https://arxiv.org/abs/2310.15110",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "shi2024mvdream",
+    "pdf_url": "https://proceedings.iclr.cc/paper_files/paper/2024/file/adbe936993aa7cf41e45054d8b72f183-Paper-Conference.pdf",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF linked by primary source",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "source_url": "https://proceedings.iclr.cc/paper_files/paper/2024/hash/adbe936993aa7cf41e45054d8b72f183-Abstract-Conference.html",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "shimada2020physcap",
+    "pdf_url": "https://arxiv.org/pdf/2008.08880",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF linked by primary source",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1145/3414685.3417877",
+    "source_url": "https://arxiv.org/abs/2008.08880",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "shin2024wham",
+    "pdf_url": "https://arxiv.org/pdf/2312.07531",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/cvpr52733.2024.00202",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2312.07531"
+    },
+    "source_url": "https://doi.org/10.1109/cvpr52733.2024.00202",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "singh2025sings",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "not located",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "source_url": "https://doi.org/10.1109/cvpr52734.2025.00523",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "stathopoulos2024scorehmr",
+    "pdf_url": "https://arxiv.org/pdf/2403.09623",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/cvpr52733.2024.00092",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2403.09623"
+    },
+    "source_url": "https://doi.org/10.1109/cvpr52733.2024.00092",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "su2021anerf",
+    "pdf_url": "https://arxiv.org/pdf/2102.06199",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF linked by primary source",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "source_url": "https://arxiv.org/abs/2102.06199",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "su2023thuman3",
+    "pdf_url": "https://arxiv.org/pdf/2011.14619",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/tpami.2022.3168569",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2011.14619"
+    },
+    "source_url": "https://doi.org/10.1109/tpami.2022.3168569",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "sun2021romp",
+    "pdf_url": "https://arxiv.org/pdf/2008.12272",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/iccv48922.2021.01099",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2008.12272"
+    },
+    "source_url": "https://doi.org/10.1109/iccv48922.2021.01099",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "sun2024occfusion",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "HTML response; PDF not confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.52202/079017-2927",
+    "resolved_urls": {
+      "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12199745/pdf/nihms-2086915.pdf"
+    },
+    "source_url": "https://doi.org/10.52202/079017-2927",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json",
+    "unconfirmed_pdf_candidate": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12199745/pdf/nihms-2086915.pdf"
+  },
+  {
+    "id": "tang2025gaf",
+    "pdf_url": "https://arxiv.org/pdf/2412.10209",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/cvpr52734.2025.00521",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2412.10209"
+    },
+    "source_url": "https://doi.org/10.1109/cvpr52734.2025.00521",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "tang2025hap",
+    "pdf_url": "https://arxiv.org/pdf/2311.02892",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/tpami.2025.3552408",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2311.02892"
+    },
+    "source_url": "https://doi.org/10.1109/tpami.2025.3552408",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "tang2025hcfm",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "https://github.com/HumanCentricModels/Awesome-Human-Centric-Foundation-Models",
+    "checks": {
+      "pdf_url": "not located",
+      "project_url": "not located",
+      "code_url": "accessible; provenance requires source review"
+    },
+    "resolved_urls": {
+      "code_url": "https://github.com/HumanCentricModels/Awesome-Human-Centric-Foundation-Models"
+    },
+    "source_url": "https://doi.org/10.24963/ijcai.2024/1185",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "taubner2025cap4d",
+    "pdf_url": "https://arxiv.org/pdf/2412.12093",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/cvpr52734.2025.00501",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2412.12093"
+    },
+    "source_url": "https://doi.org/10.1109/cvpr52734.2025.00501",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "taubner2025mvp4d",
+    "pdf_url": "https://arxiv.org/pdf/2510.12785",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1145/3757377.3763889",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2510.12785"
+    },
+    "source_url": "https://doi.org/10.1145/3757377.3763889",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "tgrhuman2026",
+    "pdf_url": "https://arxiv.org/pdf/2608.12175",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1016/j.fmre.2026.06.019",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2608.12175"
+    },
+    "source_url": "https://doi.org/10.1016/j.fmre.2026.06.019",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "threedaware",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "unconfirmed: HTTP Error 403: Forbidden",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1145/3626193",
+    "source_url": "https://doi.org/10.1145/3626193",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json",
+    "unconfirmed_pdf_candidate": "https://dl.acm.org/doi/pdf/10.1145/3626193"
+  },
+  {
+    "id": "tian2023hmrsurvey",
+    "pdf_url": "https://arxiv.org/pdf/2203.01923",
+    "project_url": "",
+    "code_url": "https://github.com/tinatiansjz/hmr-survey",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "accessible; provenance requires source review"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/tpami.2023.3298850",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2203.01923",
+      "code_url": "https://github.com/tinatiansjz/hmr-survey"
+    },
+    "source_url": "https://doi.org/10.1109/tpami.2023.3298850",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "tiwari2022posendf",
+    "pdf_url": "https://arxiv.org/pdf/2207.13807",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1007/978-3-031-20065-6_33",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2207.13807"
+    },
+    "source_url": "https://doi.org/10.1007/978-3-031-20065-6_33",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "u4dgs2026",
+    "pdf_url": "https://arxiv.org/pdf/2602.06343",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2602.06343"
+    },
+    "source_url": "https://arxiv.org/abs/2602.06343",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "usplat4d2026",
+    "pdf_url": "https://proceedings.iclr.cc/paper_files/paper/2026/file/26300457961c3e056ea61c9d3ebec2a4-Paper-Conference.pdf",
+    "project_url": "https://tamu-visual-ai.github.io/usplat4d/",
+    "code_url": "https://github.com/TAMU-Visual-AI/usplat4d",
+    "checks": {
+      "pdf_url": "PDF linked by primary source",
+      "project_url": "Author project linked by primary source",
+      "code_url": "Official implementation identified through author/paper source"
+    },
+    "source_url": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/26300457961c3e056ea61c9d3ebec2a4-Abstract-Conference.html",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "vfavatar2026",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "not located",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "source_url": "https://doi.org/10.1145/3799902.3811171",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "visdb2024",
+    "pdf_url": "https://arxiv.org/pdf/2208.10652",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1007/978-3-031-19769-7_24",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2208.10652"
+    },
+    "source_url": "https://doi.org/10.1007/978-3-031-19769-7_24",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "vonmarcard20183dpw",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "not located",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "source_url": "https://doi.org/10.1007/978-3-030-01249-6_37",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "wang2021gfpgan",
+    "pdf_url": "https://arxiv.org/pdf/2101.04061",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/cvpr46437.2021.00905",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2101.04061"
+    },
+    "source_url": "https://doi.org/10.1109/cvpr46437.2021.00905",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "wang2021realesrgan",
+    "pdf_url": "https://arxiv.org/pdf/2107.10833",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/iccvw54120.2021.00217",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2107.10833"
+    },
+    "source_url": "https://doi.org/10.1109/iccvw54120.2021.00217",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "wang2022arah",
+    "pdf_url": "https://arxiv.org/pdf/2210.10036",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1007/978-3-031-19824-3_1",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2210.10036"
+    },
+    "source_url": "https://doi.org/10.1007/978-3-031-19824-3_1",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "wang2023badnerf",
+    "pdf_url": "https://arxiv.org/pdf/2211.12853",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/cvpr52729.2023.00406",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2211.12853"
+    },
+    "source_url": "https://doi.org/10.1109/cvpr52729.2023.00406",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "wang2023prolificdreamer",
+    "pdf_url": "https://arxiv.org/pdf/2305.16213",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.52202/075280-0368",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2305.16213"
+    },
+    "source_url": "https://doi.org/10.52202/075280-0368",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "wang2023sjc",
+    "pdf_url": "https://arxiv.org/pdf/2212.00774",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/cvpr52729.2023.01214",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2212.00774"
+    },
+    "source_url": "https://doi.org/10.1109/cvpr52729.2023.01214",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "wang2024avatarsurvey",
+    "pdf_url": "https://arxiv.org/pdf/2406.04253",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2406.04253"
+    },
+    "source_url": "https://arxiv.org/abs/2406.04253",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "wang2024fourddress",
+    "pdf_url": "https://arxiv.org/pdf/2404.18630",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/cvpr52733.2024.00059",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2404.18630"
+    },
+    "source_url": "https://doi.org/10.1109/cvpr52733.2024.00059",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "wang2024gscream",
+    "pdf_url": "https://arxiv.org/pdf/2404.13679",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1007/978-3-031-72646-0_1",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2404.13679"
+    },
+    "source_url": "https://doi.org/10.1007/978-3-031-72646-0_1",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "wang2024tram",
+    "pdf_url": "https://arxiv.org/pdf/2403.17346",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1007/978-3-031-73247-8_27",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2403.17346"
+    },
+    "source_url": "https://doi.org/10.1007/978-3-031-73247-8_27",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "weber2024nerfiller",
+    "pdf_url": "https://arxiv.org/pdf/2312.04560",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/cvpr52733.2024.01959",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2312.04560"
+    },
+    "source_url": "https://doi.org/10.1109/cvpr52733.2024.01959",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "wehrbein2025uncertainty",
+    "pdf_url": "https://arxiv.org/pdf/2411.16289",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/wacv61041.2025.00571",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2411.16289"
+    },
+    "source_url": "https://doi.org/10.1109/wacv61041.2025.00571",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "weng2022humannerf",
+    "pdf_url": "https://arxiv.org/pdf/2201.04127",
+    "project_url": "",
+    "code_url": "https://github.com/chungyiweng/humannerf",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "accessible; provenance requires source review"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/cvpr52688.2022.01573",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2201.04127",
+      "code_url": "https://github.com/chungyiweng/humannerf"
+    },
+    "source_url": "https://doi.org/10.1109/cvpr52688.2022.01573",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "weng2024humanlrm",
+    "pdf_url": "https://arxiv.org/pdf/2401.12175",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2401.12175"
+    },
+    "source_url": "https://arxiv.org/abs/2401.12175",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "wilser2026survey",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "not located",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "source_url": "https://doi.org/10.1142/s0219467826500142",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "xiang2023occnerf",
+    "pdf_url": "https://arxiv.org/pdf/2308.04622",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/iccv51070.2023.00300",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2308.04622"
+    },
+    "source_url": "https://doi.org/10.1109/iccv51070.2023.00300",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "xiang2024wild2avatar",
+    "pdf_url": "https://arxiv.org/pdf/2401.00431",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/tpami.2025.3603154",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2401.00431"
+    },
+    "source_url": "https://doi.org/10.1109/tpami.2025.3603154",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "xiao2025rogsplat",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "not located",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "source_url": "https://doi.org/10.1109/cvpr52734.2025.00561",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "xie2022chore",
+    "pdf_url": "https://arxiv.org/pdf/2204.02445",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1007/978-3-031-20086-1_8",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2204.02445"
+    },
+    "source_url": "https://doi.org/10.1007/978-3-031-20086-1_8",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "xiong2024mvhumannet",
+    "pdf_url": "https://arxiv.org/pdf/2312.02963",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/cvpr52733.2024.01872",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2312.02963"
+    },
+    "source_url": "https://doi.org/10.1109/cvpr52733.2024.01872",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "xiu2022icon",
+    "pdf_url": "https://arxiv.org/pdf/2112.09127",
+    "project_url": "",
+    "code_url": "https://github.com/YuliangXiu/ICON",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "accessible; provenance requires source review"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/cvpr52688.2022.01294",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2112.09127",
+      "code_url": "https://github.com/YuliangXiu/ICON"
+    },
+    "source_url": "https://doi.org/10.1109/cvpr52688.2022.01294",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "xiu2023econ",
+    "pdf_url": "https://arxiv.org/pdf/2212.07422",
+    "project_url": "",
+    "code_url": "https://github.com/YuliangXiu/ECON",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "accessible; provenance requires source review"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/cvpr52729.2023.00057",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2212.07422",
+      "code_url": "https://github.com/YuliangXiu/ECON"
+    },
+    "source_url": "https://doi.org/10.1109/cvpr52729.2023.00057",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "xiu2024puzzleavatar",
+    "pdf_url": "https://arxiv.org/pdf/2405.14869",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1145/3687771",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2405.14869"
+    },
+    "source_url": "https://doi.org/10.1145/3687771",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "xu2020ghum",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "not located",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "source_url": "https://doi.org/10.1109/cvpr42600.2020.00622",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "xue2024gen3diffusion",
+    "pdf_url": "https://arxiv.org/pdf/2412.06698",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/tpami.2025.3577067",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2412.06698"
+    },
+    "source_url": "https://doi.org/10.1109/tpami.2025.3577067",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "xue2024hsr",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "HTML response; PDF not confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1007/978-3-031-73220-1_25",
+    "resolved_urls": {
+      "pdf_url": "https://link.springer.com/chapter/10.1007/978-3-031-73220-1_25?error=cookies_not_supported&code=6cf4a891-c3c1-4bb6-9d1c-e1c0b663d651"
+    },
+    "source_url": "https://doi.org/10.1007/978-3-031-73220-1_25",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json",
+    "unconfirmed_pdf_candidate": "https://link.springer.com/content/pdf/10.1007/978-3-031-73220-1_25.pdf"
+  },
+  {
+    "id": "xue2024human3diffusion",
+    "pdf_url": "https://arxiv.org/pdf/2406.08475",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.52202/079017-3160",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2406.08475"
+    },
+    "source_url": "https://doi.org/10.52202/079017-3160",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "yang2023dif",
+    "pdf_url": "https://arxiv.org/pdf/2308.08857",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/iccv51070.2023.00837",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2308.08857"
+    },
+    "source_url": "https://doi.org/10.1109/iccv51070.2023.00837",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "yang2023synbody",
+    "pdf_url": "https://arxiv.org/pdf/2303.17368",
+    "project_url": "https://huggingface.co/datasets/caizhongang/SynBody",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "accessible; provenance requires source review",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/iccv51070.2023.01855",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2303.17368",
+      "project_url": "https://huggingface.co/datasets/caizhongang/SynBody"
+    },
+    "source_url": "https://doi.org/10.1109/iccv51070.2023.01855",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "yang2025innovative",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "HTML response; PDF not confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "resolved_urls": {
+      "pdf_url": "https://link.springer.com/article/10.1007/s00371-024-03641-7?error=cookies_not_supported&code=89f6e81b-e6aa-4949-bb36-78ec9440d1df"
+    },
+    "source_url": "https://doi.org/10.1007/s00371-024-03641-7",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json",
+    "unconfirmed_pdf_candidate": "https://link.springer.com/content/pdf/10.1007/s00371-024-03641-7.pdf"
+  },
+  {
+    "id": "yang2025postometro",
+    "pdf_url": "https://arxiv.org/pdf/2403.12473",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/wacv61041.2025.00465",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2403.12473"
+    },
+    "source_url": "https://doi.org/10.1109/wacv61041.2025.00465",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "yang2025sigman",
+    "pdf_url": "https://arxiv.org/pdf/2504.06982",
+    "project_url": "https://yyvhang.github.io/SIGMAN_3D/",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "accessible; provenance requires source review",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/iccv51701.2025.00487",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2504.06982",
+      "project_url": "https://yyvhang.github.io/SIGMAN_3D/"
+    },
+    "source_url": "https://doi.org/10.1109/iccv51701.2025.00487",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "ye2023slahmr",
+    "pdf_url": "https://arxiv.org/pdf/2302.12827",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/cvpr52729.2023.02033",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2302.12827"
+    },
+    "source_url": "https://doi.org/10.1109/cvpr52729.2023.02033",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "ye2025occgaussian",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "unconfirmed: HTTP Error 404: Not Found",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1145/3731715.3733406",
+    "source_url": "https://doi.org/10.1145/3731715.3733406",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json",
+    "unconfirmed_pdf_candidate": "https://arxiv.org/pdf/2404.08449"
+  },
+  {
+    "id": "yin2023hi4d",
+    "pdf_url": "https://arxiv.org/pdf/2303.15380",
+    "project_url": "https://yifeiyin04.github.io/Hi4D/",
+    "code_url": "https://github.com/yifeiyin04/Hi4D",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "accessible; provenance requires source review",
+      "code_url": "accessible; provenance requires source review"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/cvpr52729.2023.01632",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2303.15380",
+      "project_url": "https://yifeiyin04.github.io/Hi4D/",
+      "code_url": "https://github.com/yifeiyin04/Hi4D"
+    },
+    "source_url": "https://doi.org/10.1109/cvpr52729.2023.01632",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "yu2021function4d",
+    "pdf_url": "https://arxiv.org/pdf/2105.01859",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/cvpr46437.2021.00569",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2105.01859"
+    },
+    "source_url": "https://doi.org/10.1109/cvpr46437.2021.00569",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "yu2023monohuman",
+    "pdf_url": "https://arxiv.org/pdf/2304.02001",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/cvpr52729.2023.01625",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2304.02001"
+    },
+    "source_url": "https://doi.org/10.1109/cvpr52729.2023.01625",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "yu2025humanram",
+    "pdf_url": "https://arxiv.org/pdf/2506.03118",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1145/3721238.3730605",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2506.03118"
+    },
+    "source_url": "https://doi.org/10.1145/3721238.3730605",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "yuan2021simpoe",
+    "pdf_url": "https://arxiv.org/pdf/2104.00683",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/cvpr46437.2021.00708",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2104.00683"
+    },
+    "source_url": "https://doi.org/10.1109/cvpr46437.2021.00708",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "zhang2018lpips",
+    "pdf_url": "https://arxiv.org/pdf/1801.03924",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/cvpr.2018.00068",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/1801.03924"
+    },
+    "source_url": "https://doi.org/10.1109/cvpr.2018.00068",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "zhang2020phosa",
+    "pdf_url": "https://arxiv.org/pdf/2007.15649",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1007/978-3-030-58610-2_3",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2007.15649"
+    },
+    "source_url": "https://doi.org/10.1007/978-3-030-58610-2_3",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "zhang2023avatargen",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "not located",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "source_url": "https://doi.org/10.1007/978-3-031-25066-8_39",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "zhang2024sifu",
+    "pdf_url": "https://arxiv.org/pdf/2312.06704",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/cvpr52733.2024.00948",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2312.06704"
+    },
+    "source_url": "https://doi.org/10.1109/cvpr52733.2024.00948",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "zhao2024badgaussians",
+    "pdf_url": "https://arxiv.org/pdf/2403.11831",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1007/978-3-031-72698-9_14",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2403.11831"
+    },
+    "source_url": "https://doi.org/10.1007/978-3-031-72698-9_14",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "zheng2021pamir",
+    "pdf_url": "https://arxiv.org/pdf/2007.03858",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/tpami.2021.3050505",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2007.03858"
+    },
+    "source_url": "https://doi.org/10.1109/tpami.2021.3050505",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "zheng2023pointavatar",
+    "pdf_url": "https://arxiv.org/pdf/2212.08377",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/cvpr52729.2023.02017",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2212.08377"
+    },
+    "source_url": "https://doi.org/10.1109/cvpr52729.2023.02017",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "zheng2024gpsgaussian",
+    "pdf_url": "https://arxiv.org/pdf/2312.02155",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/cvpr52733.2024.01861",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2312.02155"
+    },
+    "source_url": "https://doi.org/10.1109/cvpr52733.2024.01861",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "zhou2022codeformer",
+    "pdf_url": "https://arxiv.org/pdf/2206.11253",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.52202/068431-2218",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2206.11253"
+    },
+    "source_url": "https://doi.org/10.52202/068431-2218",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "zhou2024headstudio",
+    "pdf_url": "https://arxiv.org/pdf/2402.06149",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1007/978-3-031-73411-3_9",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2402.06149"
+    },
+    "source_url": "https://doi.org/10.1007/978-3-031-73411-3_9",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "zhu2024champ",
+    "pdf_url": "https://arxiv.org/pdf/2403.14781",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1007/978-3-031-73001-6_9",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2403.14781"
+    },
+    "source_url": "https://doi.org/10.1007/978-3-031-73001-6_9",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "zhu2025agenticir",
+    "pdf_url": "https://proceedings.iclr.cc/paper_files/paper/2025/file/921ac785fa9edc73cacaf2664f43d234-Paper-Conference.pdf",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF linked by primary source",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "source_url": "https://proceedings.iclr.cc/paper_files/paper/2025/hash/921ac785fa9edc73cacaf2664f43d234-Abstract-Conference.html",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "zhuang2025idol",
+    "pdf_url": "https://arxiv.org/pdf/2412.14963",
+    "project_url": "",
+    "code_url": "https://github.com/yiyuzhuang/IDOL",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "accessible; provenance requires source review"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/cvpr52734.2025.02450",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2412.14963",
+      "code_url": "https://github.com/yiyuzhuang/IDOL"
+    },
+    "source_url": "https://doi.org/10.1109/cvpr52734.2025.02450",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  },
+  {
+    "id": "zielonka2023insta",
+    "pdf_url": "https://arxiv.org/pdf/2211.12499",
+    "project_url": "",
+    "code_url": "",
+    "checks": {
+      "pdf_url": "PDF response confirmed",
+      "project_url": "not located",
+      "code_url": "not located"
+    },
+    "pdf_discovery_source": "https://api.openalex.org/works/https://doi.org/10.1109/cvpr52729.2023.00444",
+    "resolved_urls": {
+      "pdf_url": "https://arxiv.org/pdf/2211.12499"
+    },
+    "source_url": "https://doi.org/10.1109/cvpr52729.2023.00444",
+    "source_status": "Primary publisher/arXiv record or registered DOI; see reference_audit.json"
+  }
+]

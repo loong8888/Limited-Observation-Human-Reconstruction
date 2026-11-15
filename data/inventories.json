@@ -1,0 +1,3100 @@
+[
+  {
+    "id": "template",
+    "title": "Template-Constrained Fitting",
+    "section": "4.1",
+    "headers": [
+      "Method",
+      "Year",
+      "Inference",
+      "Evidence",
+      "Prior",
+      "Occlusion / limitation handling"
+    ],
+    "summary": "Restrict the human state to a statistical body-model manifold. Optimization, regression, and language-conditioned recovery can share this scaffold.",
+    "caveat": "Complete articulation does not imply complete clothed geometry. This inventory also includes neighboring scene, garment, and RGB-D estimation systems.",
+    "rows": [
+      {
+        "name": "SMPLify",
+        "cells": [
+          "SMPLify",
+          "2016",
+          "optimization",
+          "keypoints",
+          "GMM pose",
+          "-"
+        ],
+        "citations": [
+          "bogo2016smplify"
+        ],
+        "group": "Body recovery from RGB",
+        "source_table": "tab:s-template",
+        "source_section": "4.1"
+      },
+      {
+        "name": "HMR",
+        "cells": [
+          "HMR",
+          "2018",
+          "regression",
+          "image",
+          "Adversarial",
+          "-"
+        ],
+        "citations": [
+          "kanazawa2018hmr"
+        ],
+        "group": "Body recovery from RGB",
+        "source_table": "tab:s-template",
+        "source_section": "4.1"
+      },
+      {
+        "name": "SMPLify-X",
+        "cells": [
+          "SMPLify-X",
+          "2019",
+          "optimization",
+          "keypoints; parametric body/shape; hand; head",
+          "VAE pose (VPoser)",
+          "-"
+        ],
+        "citations": [
+          "pavlakos2019smplx"
+        ],
+        "group": "Body recovery from RGB",
+        "source_table": "tab:s-template",
+        "source_section": "4.1"
+      },
+      {
+        "name": "SPIN",
+        "cells": [
+          "SPIN",
+          "2019",
+          "regression; optimization",
+          "image; keypoints",
+          "GMM pose",
+          "-"
+        ],
+        "citations": [
+          "kolotouros2019spin"
+        ],
+        "group": "Body recovery from RGB",
+        "source_table": "tab:s-template",
+        "source_section": "4.1"
+      },
+      {
+        "name": "PARE",
+        "cells": [
+          "PARE",
+          "2021",
+          "regression",
+          "image",
+          "Learned",
+          "Part attention"
+        ],
+        "citations": [
+          "kocabas2021pare"
+        ],
+        "group": "Body recovery from RGB",
+        "source_table": "tab:s-template",
+        "source_section": "4.1"
+      },
+      {
+        "name": "ProHMR",
+        "cells": [
+          "ProHMR",
+          "2021",
+          "regression",
+          "image",
+          "Normalizing flow",
+          "Pose distribution"
+        ],
+        "citations": [
+          "kolotouros2021prohmr"
+        ],
+        "group": "Body recovery from RGB",
+        "source_table": "tab:s-template",
+        "source_section": "4.1"
+      },
+      {
+        "name": "HuMoR",
+        "cells": [
+          "HuMoR",
+          "2021",
+          "optimization",
+          "monocular video; keypoints",
+          "CVAE motion",
+          "Temporal in-filling"
+        ],
+        "citations": [
+          "rempe2021humor"
+        ],
+        "group": "Body recovery from RGB",
+        "source_table": "tab:s-template",
+        "source_section": "4.1"
+      },
+      {
+        "name": "CLIFF",
+        "cells": [
+          "CLIFF",
+          "2022",
+          "regression",
+          "image; bounding box",
+          "Learned",
+          "Full-frame location"
+        ],
+        "citations": [
+          "li2022cliff"
+        ],
+        "group": "Body recovery from RGB",
+        "source_table": "tab:s-template",
+        "source_section": "4.1"
+      },
+      {
+        "name": "Pose-NDF",
+        "cells": [
+          "Pose-NDF",
+          "2022",
+          "prior",
+          "-",
+          "Neural distance field",
+          "Manifold projection"
+        ],
+        "citations": [
+          "tiwari2022posendf"
+        ],
+        "group": "Body recovery from RGB",
+        "source_table": "tab:s-template",
+        "source_section": "4.1"
+      },
+      {
+        "name": "VisDB",
+        "cells": [
+          "VisDB",
+          "2022",
+          "regression; optimization",
+          "image",
+          "Learned",
+          "Visibility prediction"
+        ],
+        "citations": [
+          "visdb2024"
+        ],
+        "group": "Body recovery from RGB",
+        "source_table": "tab:s-template",
+        "source_section": "4.1"
+      },
+      {
+        "name": "HMR 2.0",
+        "cells": [
+          "HMR 2.0",
+          "2023",
+          "regression",
+          "image",
+          "Data scale",
+          "-"
+        ],
+        "citations": [
+          "goel2023hmr2"
+        ],
+        "group": "Body recovery from RGB",
+        "source_table": "tab:s-template",
+        "source_section": "4.1"
+      },
+      {
+        "name": "ScoreHMR",
+        "cells": [
+          "ScoreHMR",
+          "2024",
+          "sampling",
+          "image; keypoints",
+          "Pose diffusion",
+          "Posterior sampling"
+        ],
+        "citations": [
+          "stathopoulos2024scorehmr"
+        ],
+        "group": "Body recovery from RGB",
+        "source_table": "tab:s-template",
+        "source_section": "4.1"
+      },
+      {
+        "name": "HaMeR",
+        "cells": [
+          "HaMeR",
+          "2024",
+          "regression",
+          "image; hand",
+          "Data scale",
+          "Truncation robustness"
+        ],
+        "citations": [
+          "pavlakos2024hamer"
+        ],
+        "group": "Body recovery from RGB",
+        "source_table": "tab:s-template",
+        "source_section": "4.1"
+      },
+      {
+        "name": "GenHMR",
+        "cells": [
+          "GenHMR",
+          "2025",
+          "sampling",
+          "image",
+          "Pose tokens",
+          "Generative uncertainty"
+        ],
+        "citations": [
+          "saleem2025genhmr"
+        ],
+        "group": "Body recovery from RGB",
+        "source_table": "tab:s-template",
+        "source_section": "4.1"
+      },
+      {
+        "name": "DPoser-X",
+        "cells": [
+          "DPoser-X",
+          "2025",
+          "prior",
+          "-",
+          "Pose diffusion",
+          "Whole-body prior"
+        ],
+        "citations": [
+          "lu2025dposerx"
+        ],
+        "group": "Body recovery from RGB",
+        "source_table": "tab:s-template",
+        "source_section": "4.1"
+      },
+      {
+        "name": "PostoMETRO",
+        "cells": [
+          "PostoMETRO",
+          "2025",
+          "regression",
+          "image",
+          "VQ-VAE pose tokens",
+          "Pose tokens"
+        ],
+        "citations": [
+          "yang2025postometro"
+        ],
+        "group": "Body recovery from RGB",
+        "source_table": "tab:s-template",
+        "source_section": "4.1"
+      },
+      {
+        "name": "Wehrbein et al.",
+        "cells": [
+          "Wehrbein et al.",
+          "2025",
+          "regression",
+          "image",
+          "Normalizing flow",
+          "Heatmap supervision"
+        ],
+        "citations": [
+          "wehrbein2025uncertainty"
+        ],
+        "group": "Body recovery from RGB",
+        "source_table": "tab:s-template",
+        "source_section": "4.1"
+      },
+      {
+        "name": "SLAHMR",
+        "cells": [
+          "SLAHMR",
+          "2023",
+          "optimization",
+          "monocular video; camera trajectory",
+          "Motion prior",
+          "Motion in-filling"
+        ],
+        "citations": [
+          "ye2023slahmr"
+        ],
+        "group": "Joint human, scene, and camera estimation",
+        "source_table": "tab:s-template",
+        "source_section": "4.1"
+      },
+      {
+        "name": "WHAM",
+        "cells": [
+          "WHAM",
+          "2024",
+          "regression",
+          "monocular video",
+          "Motion encoder",
+          "Foot contact"
+        ],
+        "citations": [
+          "shin2024wham"
+        ],
+        "group": "Joint human, scene, and camera estimation",
+        "source_table": "tab:s-template",
+        "source_section": "4.1"
+      },
+      {
+        "name": "TRAM",
+        "cells": [
+          "TRAM",
+          "2025",
+          "regression; camera trajectory",
+          "monocular video",
+          "Video transformer",
+          "Human-robust SLAM"
+        ],
+        "citations": [
+          "wang2024tram"
+        ],
+        "group": "Joint human, scene, and camera estimation",
+        "source_table": "tab:s-template",
+        "source_section": "4.1"
+      },
+      {
+        "name": "HSR",
+        "cells": [
+          "HSR",
+          "2025",
+          "optimization",
+          "monocular video",
+          "SMPL, implicit surfaces",
+          "Joint human-scene rendering"
+        ],
+        "citations": [
+          "xue2024hsr"
+        ],
+        "group": "Joint human, scene, and camera estimation",
+        "source_table": "tab:s-template",
+        "source_section": "4.1"
+      },
+      {
+        "name": "HSfM",
+        "cells": [
+          "HSfM",
+          "2025",
+          "optimization",
+          "sparse views",
+          "SMPL-X, scene prior",
+          "Multi-view alignment"
+        ],
+        "citations": [
+          "muller2025hsfm"
+        ],
+        "group": "Joint human, scene, and camera estimation",
+        "source_table": "tab:s-template",
+        "source_section": "4.1"
+      },
+      {
+        "name": "ODHSR",
+        "cells": [
+          "ODHSR",
+          "2025",
+          "optimization",
+          "monocular video",
+          "SMPL, GS",
+          "Occlusion-aware silhouettes"
+        ],
+        "citations": [
+          "odhsr2025"
+        ],
+        "group": "Joint human, scene, and camera estimation",
+        "source_table": "tab:s-template",
+        "source_section": "4.1"
+      },
+      {
+        "name": "JOSH",
+        "cells": [
+          "JOSH",
+          "2026",
+          "optimization",
+          "monocular video",
+          "Scene, HMR initialization",
+          "Contact constraints"
+        ],
+        "citations": [
+          "liu2026josh"
+        ],
+        "group": "Joint human, scene, and camera estimation",
+        "source_table": "tab:s-template",
+        "source_section": "4.1"
+      },
+      {
+        "name": "Human3R",
+        "cells": [
+          "Human3R",
+          "2026",
+          "regression",
+          "monocular video",
+          "4D foundation model",
+          "Visual prompt tuning"
+        ],
+        "citations": [
+          "human3r2025"
+        ],
+        "group": "Joint human, scene, and camera estimation",
+        "source_table": "tab:s-template",
+        "source_section": "4.1"
+      },
+      {
+        "name": "GUSH3R",
+        "cells": [
+          "GUSH3R",
+          "2026",
+          "regression",
+          "monocular video",
+          "Feed-forward GS",
+          "Human-scene Gaussians"
+        ],
+        "citations": [
+          "abe2026gush3r"
+        ],
+        "group": "Joint human, scene, and camera estimation",
+        "source_table": "tab:s-template",
+        "source_section": "4.1"
+      },
+      {
+        "name": "Bogo et al.",
+        "cells": [
+          "Bogo et al.",
+          "2015",
+          "optimization",
+          "image; depth",
+          "Multi-resolution model",
+          "Coarse-to-fine alignment"
+        ],
+        "citations": [
+          "bogo2015detailed"
+        ],
+        "group": "Depth input",
+        "source_table": "tab:s-template",
+        "source_section": "4.1"
+      },
+      {
+        "name": "DoubleFusion",
+        "cells": [
+          "DoubleFusion",
+          "2018",
+          "optimization",
+          "image; depth",
+          "SMPL",
+          "Embedded deformation"
+        ],
+        "citations": [
+          "doublefusion2018"
+        ],
+        "group": "Depth input",
+        "source_table": "tab:s-template",
+        "source_section": "4.1"
+      },
+      {
+        "name": "POP",
+        "cells": [
+          "POP",
+          "2019",
+          "optimization",
+          "image; depth",
+          "Body model",
+          "Full model from partial view"
+        ],
+        "citations": [
+          "marin2019pop"
+        ],
+        "group": "Depth input",
+        "source_table": "tab:s-template",
+        "source_section": "4.1"
+      },
+      {
+        "name": "Dang et al.",
+        "cells": [
+          "Dang et al.",
+          "2023",
+          "optimization",
+          "image; depth",
+          "Free space, shadow volume",
+          "Volumetric constraints"
+        ],
+        "citations": [
+          "dang2023reconstructing"
+        ],
+        "group": "Depth input",
+        "source_table": "tab:s-template",
+        "source_section": "4.1"
+      },
+      {
+        "name": "PIFU-RGBD",
+        "cells": [
+          "PIFU-RGBD",
+          "2023",
+          "regression",
+          "image; depth",
+          "Implicit function",
+          "Depth point cloud"
+        ],
+        "citations": [
+          "pifu-rgbd2023"
+        ],
+        "group": "Depth input",
+        "source_table": "tab:s-template",
+        "source_section": "4.1"
+      },
+      {
+        "name": "ANIM",
+        "cells": [
+          "ANIM",
+          "2024",
+          "regression",
+          "image; depth",
+          "Implicit function",
+          "Depth-based geometry"
+        ],
+        "citations": [
+          "anim2024"
+        ],
+        "group": "Depth input",
+        "source_table": "tab:s-template",
+        "source_section": "4.1"
+      },
+      {
+        "name": "Zhu et al.",
+        "cells": [
+          "Zhu et al.",
+          "2025",
+          "regression",
+          "image; depth",
+          "Parametric refinement",
+          "Front-back silhouette loss"
+        ],
+        "citations": [
+          "finer2025rgbd"
+        ],
+        "group": "Depth input",
+        "source_table": "tab:s-template",
+        "source_section": "4.1"
+      },
+      {
+        "name": "ChatPose",
+        "cells": [
+          "ChatPose",
+          "2024",
+          "regression",
+          "image; text",
+          "MLLM",
+          "Reasoning about pose"
+        ],
+        "citations": [
+          "feng2024chatpose"
+        ],
+        "group": "Language-model priors",
+        "source_table": "tab:s-template",
+        "source_section": "4.1"
+      },
+      {
+        "name": "PromptHMR",
+        "cells": [
+          "PromptHMR",
+          "2025",
+          "regression",
+          "image; text; bounding box",
+          "Promptable model",
+          "Spatial and text prompts"
+        ],
+        "citations": [
+          "promptHMR2025"
+        ],
+        "group": "Language-model priors",
+        "source_table": "tab:s-template",
+        "source_section": "4.1"
+      },
+      {
+        "name": "ChatGarment",
+        "cells": [
+          "ChatGarment",
+          "2025",
+          "regression",
+          "image; text",
+          "MLLM",
+          "Sewing patterns"
+        ],
+        "citations": [
+          "chatgarment2025"
+        ],
+        "group": "Language-model priors",
+        "source_table": "tab:s-template",
+        "source_section": "4.1"
+      }
+    ]
+  },
+  {
+    "id": "feature",
+    "title": "Feature-Aligned Reconstruction",
+    "section": "4.2",
+    "headers": [
+      "Method",
+      "Year",
+      "Input",
+      "Representation",
+      "Alignment",
+      "Mechanism"
+    ],
+    "summary": "Associate image evidence with 3D queries or primitives through projection, voxel features, stereo matching, or cross-view correspondence.",
+    "caveat": "Supervised completion is learned from training data. Hybrids such as ECON and SIFU also use mechanisms discussed in other families.",
+    "rows": [
+      {
+        "name": "PIFu",
+        "cells": [
+          "PIFu",
+          "2019",
+          "image",
+          "occupancy; texture/UV",
+          "PA",
+          "Pixel-aligned implicit function"
+        ],
+        "citations": [
+          "saito2019pifu"
+        ],
+        "group": "",
+        "source_table": "tab:s-feature",
+        "source_section": "4.2"
+      },
+      {
+        "name": "DeepHuman",
+        "cells": [
+          "DeepHuman",
+          "2019",
+          "image",
+          "occupancy",
+          "VA",
+          "Volume-to-volume translation"
+        ],
+        "citations": [
+          "deephuman2019"
+        ],
+        "group": "",
+        "source_table": "tab:s-feature",
+        "source_section": "4.2"
+      },
+      {
+        "name": "PIFuHD",
+        "cells": [
+          "PIFuHD",
+          "2020",
+          "image",
+          "occupancy",
+          "PA",
+          "Coarse-to-fine with normal maps"
+        ],
+        "citations": [
+          "saito2020pifuhd"
+        ],
+        "group": "",
+        "source_table": "tab:s-feature",
+        "source_section": "4.2"
+      },
+      {
+        "name": "Geo-PIFu",
+        "cells": [
+          "Geo-PIFu",
+          "2020",
+          "image",
+          "occupancy",
+          "PA, VA",
+          "Latent voxel features"
+        ],
+        "citations": [
+          "geopifu2020"
+        ],
+        "group": "",
+        "source_table": "tab:s-feature",
+        "source_section": "4.2"
+      },
+      {
+        "name": "ARCH",
+        "cells": [
+          "ARCH",
+          "2020",
+          "image",
+          "occupancy",
+          "PA",
+          "Canonical-space prediction"
+        ],
+        "citations": [
+          "huang2020arch"
+        ],
+        "group": "",
+        "source_table": "tab:s-feature",
+        "source_section": "4.2"
+      },
+      {
+        "name": "StereoPIFu",
+        "cells": [
+          "StereoPIFu",
+          "2021",
+          "stereo pair",
+          "occupancy",
+          "PA, VA",
+          "Stereo cost volume and relative depth"
+        ],
+        "citations": [
+          "hong2021stereopifu"
+        ],
+        "group": "",
+        "source_table": "tab:s-feature",
+        "source_section": "4.2"
+      },
+      {
+        "name": "NHP",
+        "cells": [
+          "NHP",
+          "2021",
+          "sparse-view video",
+          "NeRF",
+          "PA, body",
+          "Temporal and cross-view feature fusion"
+        ],
+        "citations": [
+          "kwon2021nhp"
+        ],
+        "group": "",
+        "source_table": "tab:s-feature",
+        "source_section": "4.2"
+      },
+      {
+        "name": "HEI-Human",
+        "cells": [
+          "HEI-Human",
+          "2021",
+          "image",
+          "mesh; SDF",
+          "PA",
+          "Explicit-implicit hybrid"
+        ],
+        "citations": [
+          "heihuman2024"
+        ],
+        "group": "",
+        "source_table": "tab:s-feature",
+        "source_section": "4.2"
+      },
+      {
+        "name": "PaMIR",
+        "cells": [
+          "PaMIR",
+          "2022",
+          "image",
+          "occupancy",
+          "PA, VA",
+          "Voxelized SMPL condition"
+        ],
+        "citations": [
+          "zheng2021pamir"
+        ],
+        "group": "",
+        "source_table": "tab:s-feature",
+        "source_section": "4.2"
+      },
+      {
+        "name": "ICON",
+        "cells": [
+          "ICON",
+          "2022",
+          "image",
+          "SDF",
+          "PA",
+          "SMPL normal and distance cues"
+        ],
+        "citations": [
+          "xiu2022icon"
+        ],
+        "group": "",
+        "source_table": "tab:s-feature",
+        "source_section": "4.2"
+      },
+      {
+        "name": "FOF",
+        "cells": [
+          "FOF",
+          "2022",
+          "image",
+          "occupancy",
+          "PA",
+          "Fourier occupancy field"
+        ],
+        "citations": [
+          "feng2022fof"
+        ],
+        "group": "",
+        "source_table": "tab:s-feature",
+        "source_section": "4.2"
+      },
+      {
+        "name": "DoubleField",
+        "cells": [
+          "DoubleField",
+          "2022",
+          "sparse views",
+          "occupancy; NeRF",
+          "PA",
+          "Surface-radiance coupling"
+        ],
+        "citations": [
+          "shao2022doublefield"
+        ],
+        "group": "",
+        "source_table": "tab:s-feature",
+        "source_section": "4.2"
+      },
+      {
+        "name": "KeypointNeRF",
+        "cells": [
+          "KeypointNeRF",
+          "2022",
+          "sparse views",
+          "NeRF",
+          "PA",
+          "Keypoint-relative encoding"
+        ],
+        "citations": [
+          "mihajlovic2022keypointnerf"
+        ],
+        "group": "",
+        "source_table": "tab:s-feature",
+        "source_section": "4.2"
+      },
+      {
+        "name": "ECON",
+        "cells": [
+          "ECON",
+          "2023",
+          "image",
+          "mesh",
+          "PA",
+          "Normal integration, SMPL-X completion"
+        ],
+        "citations": [
+          "xiu2023econ"
+        ],
+        "group": "",
+        "source_table": "tab:s-feature",
+        "source_section": "4.2"
+      },
+      {
+        "name": "D-IF",
+        "cells": [
+          "D-IF",
+          "2023",
+          "image",
+          "occupancy",
+          "PA",
+          "Implicit distribution field"
+        ],
+        "citations": [
+          "yang2023dif"
+        ],
+        "group": "",
+        "source_table": "tab:s-feature",
+        "source_section": "4.2"
+      },
+      {
+        "name": "DIFu",
+        "cells": [
+          "DIFu",
+          "2023",
+          "image",
+          "occupancy",
+          "PA, VA",
+          "Depth-guided voxel features"
+        ],
+        "citations": [
+          "difu2023"
+        ],
+        "group": "",
+        "source_table": "tab:s-feature",
+        "source_section": "4.2"
+      },
+      {
+        "name": "GTA",
+        "cells": [
+          "GTA",
+          "2023",
+          "image",
+          "mesh; texture/UV",
+          "PA",
+          "Transformer geometry-texture decoupling"
+        ],
+        "citations": [
+          "chen2023gta"
+        ],
+        "group": "",
+        "source_table": "tab:s-feature",
+        "source_section": "4.2"
+      },
+      {
+        "name": "2K2K",
+        "cells": [
+          "2K2K",
+          "2023",
+          "image",
+          "depth; mesh",
+          "PA",
+          "Part-wise high-resolution depth"
+        ],
+        "citations": [
+          "han20232k2k"
+        ],
+        "group": "",
+        "source_table": "tab:s-feature",
+        "source_section": "4.2"
+      },
+      {
+        "name": "TransHuman",
+        "cells": [
+          "TransHuman",
+          "2023",
+          "sparse views",
+          "NeRF",
+          "Body, image",
+          "Canonical encoding and part relationships"
+        ],
+        "citations": [
+          "pan2023transhuman"
+        ],
+        "group": "",
+        "source_table": "tab:s-feature",
+        "source_section": "4.2"
+      },
+      {
+        "name": "SHERF",
+        "cells": [
+          "SHERF",
+          "2023",
+          "image",
+          "NeRF",
+          "Hierarchical",
+          "Global, point, and pixel features"
+        ],
+        "citations": [
+          "hu2023sherf"
+        ],
+        "group": "",
+        "source_table": "tab:s-feature",
+        "source_section": "4.2"
+      },
+      {
+        "name": "SIFU",
+        "cells": [
+          "SIFU",
+          "2024",
+          "image",
+          "mesh; texture/UV",
+          "PA",
+          "Side-view decoupling, diffusion texture"
+        ],
+        "citations": [
+          "zhang2024sifu"
+        ],
+        "group": "",
+        "source_table": "tab:s-feature",
+        "source_section": "4.2"
+      },
+      {
+        "name": "ANIM",
+        "cells": [
+          "ANIM",
+          "2024",
+          "image; depth",
+          "SDF",
+          "PA, VA",
+          "Pixel- and voxel-aligned features"
+        ],
+        "citations": [
+          "anim2024"
+        ],
+        "group": "",
+        "source_table": "tab:s-feature",
+        "source_section": "4.2"
+      },
+      {
+        "name": "GPS-Gaussian",
+        "cells": [
+          "GPS-Gaussian",
+          "2024",
+          "sparse views",
+          "3D Gaussians",
+          "Pixel, depth",
+          "Stereo depth and pixel-wise GS maps"
+        ],
+        "citations": [
+          "zheng2024gpsgaussian"
+        ],
+        "group": "",
+        "source_table": "tab:s-feature",
+        "source_section": "4.2"
+      },
+      {
+        "name": "GHG",
+        "cells": [
+          "GHG",
+          "2025",
+          "sparse views",
+          "3D Gaussians",
+          "UV",
+          "Multiple body-template scaffolds"
+        ],
+        "citations": [
+          "kwon2024ghg"
+        ],
+        "group": "",
+        "source_table": "tab:s-feature",
+        "source_section": "4.2"
+      },
+      {
+        "name": "RoGSplat",
+        "cells": [
+          "RoGSplat",
+          "2025",
+          "sparse views",
+          "3D Gaussians",
+          "PA, VA",
+          "Image-aligned prior points"
+        ],
+        "citations": [
+          "xiao2025rogsplat"
+        ],
+        "group": "",
+        "source_table": "tab:s-feature",
+        "source_section": "4.2"
+      },
+      {
+        "name": "HaP",
+        "cells": [
+          "HaP",
+          "2025",
+          "image",
+          "point cloud",
+          "Explicit",
+          "Points guided by depth and SMPL"
+        ],
+        "citations": [
+          "tang2025hap"
+        ],
+        "group": "",
+        "source_table": "tab:s-feature",
+        "source_section": "4.2"
+      },
+      {
+        "name": "GBC-Splat",
+        "cells": [
+          "GBC-Splat",
+          "2025",
+          "sparse views",
+          "3D Gaussians",
+          "PA",
+          "Generalizable Gaussians"
+        ],
+        "citations": [
+          "gbcsplat2025"
+        ],
+        "group": "",
+        "source_table": "tab:s-feature",
+        "source_section": "4.2"
+      }
+    ]
+  },
+  {
+    "id": "temporal",
+    "title": "Canonical-Space Temporal Aggregation",
+    "section": "4.3",
+    "headers": [
+      "Method",
+      "Year",
+      "Input",
+      "Representation",
+      "Completion / occlusion mechanism"
+    ],
+    "summary": "Register observations to a pose-neutral domain and accumulate reliable evidence over time.",
+    "caveat": "Transient occlusion can be resolved by other frames; permanently unseen content needs additional assumptions. MonoNHR is a single-image structural counterpart, not temporal aggregation.",
+    "rows": [
+      {
+        "name": "Neural Body",
+        "cells": [
+          "Neural Body",
+          "2021",
+          "sparse-view video",
+          "NeRF",
+          "-"
+        ],
+        "citations": [
+          "peng2021neuralbody"
+        ],
+        "group": "",
+        "source_table": "tab:s-temporal",
+        "source_section": "4.3"
+      },
+      {
+        "name": "HumanNeRF",
+        "cells": [
+          "HumanNeRF",
+          "2022",
+          "monocular video",
+          "NeRF",
+          "-"
+        ],
+        "citations": [
+          "weng2022humannerf"
+        ],
+        "group": "",
+        "source_table": "tab:s-temporal",
+        "source_section": "4.3"
+      },
+      {
+        "name": "ARAH",
+        "cells": [
+          "ARAH",
+          "2022",
+          "sparse-view video",
+          "SDF",
+          "-"
+        ],
+        "citations": [
+          "wang2022arah"
+        ],
+        "group": "",
+        "source_table": "tab:s-temporal",
+        "source_section": "4.3"
+      },
+      {
+        "name": "SelfRecon",
+        "cells": [
+          "SelfRecon",
+          "2022",
+          "monocular video",
+          "SDF; mesh",
+          "-"
+        ],
+        "citations": [
+          "jiang2022selfrecon"
+        ],
+        "group": "",
+        "source_table": "tab:s-temporal",
+        "source_section": "4.3"
+      },
+      {
+        "name": "MonoNHR",
+        "cells": [
+          "MonoNHR",
+          "2022",
+          "image",
+          "mesh; NeRF",
+          "Symmetry-based mesh inpainting"
+        ],
+        "citations": [
+          "mononhr2023"
+        ],
+        "group": "",
+        "source_table": "tab:s-temporal",
+        "source_section": "4.3"
+      },
+      {
+        "name": "Vid2Avatar",
+        "cells": [
+          "Vid2Avatar",
+          "2023",
+          "monocular video",
+          "SDF",
+          "Self-supervised scene decomposition"
+        ],
+        "citations": [
+          "guo2023vid2avatar"
+        ],
+        "group": "",
+        "source_table": "tab:s-temporal",
+        "source_section": "4.3"
+      },
+      {
+        "name": "InstantAvatar",
+        "cells": [
+          "InstantAvatar",
+          "2023",
+          "monocular video",
+          "NeRF",
+          "-"
+        ],
+        "citations": [
+          "jiang2023instantavatar"
+        ],
+        "group": "",
+        "source_table": "tab:s-temporal",
+        "source_section": "4.3"
+      },
+      {
+        "name": "OccNeRF",
+        "cells": [
+          "OccNeRF",
+          "2023",
+          "occluded monocular video",
+          "NeRF",
+          "Visibility, rendering-order priors"
+        ],
+        "citations": [
+          "xiang2023occnerf"
+        ],
+        "group": "",
+        "source_table": "tab:s-temporal",
+        "source_section": "4.3"
+      },
+      {
+        "name": "3DGS-Avatar",
+        "cells": [
+          "3DGS-Avatar",
+          "2024",
+          "monocular video",
+          "3D Gaussians",
+          "-"
+        ],
+        "citations": [
+          "qian2024gsavatar"
+        ],
+        "group": "",
+        "source_table": "tab:s-temporal",
+        "source_section": "4.3"
+      },
+      {
+        "name": "GaussianAvatar",
+        "cells": [
+          "GaussianAvatar",
+          "2024",
+          "monocular video",
+          "3D Gaussians",
+          "Pose-dependent deformation"
+        ],
+        "citations": [
+          "hu2024gaussianavatar"
+        ],
+        "group": "",
+        "source_table": "tab:s-temporal",
+        "source_section": "4.3"
+      },
+      {
+        "name": "GauHuman",
+        "cells": [
+          "GauHuman",
+          "2024",
+          "monocular video",
+          "3D Gaussians",
+          "-"
+        ],
+        "citations": [
+          "hu2024gauhuman"
+        ],
+        "group": "",
+        "source_table": "tab:s-temporal",
+        "source_section": "4.3"
+      },
+      {
+        "name": "GART",
+        "cells": [
+          "GART",
+          "2024",
+          "monocular video",
+          "3D Gaussians",
+          "-"
+        ],
+        "citations": [
+          "lei2024gart"
+        ],
+        "group": "",
+        "source_table": "tab:s-temporal",
+        "source_section": "4.3"
+      },
+      {
+        "name": "HINT",
+        "cells": [
+          "HINT",
+          "2024",
+          "sparse views",
+          "NeRF",
+          "Sagittal symmetry prior"
+        ],
+        "citations": [
+          "hint2024"
+        ],
+        "group": "",
+        "source_table": "tab:s-temporal",
+        "source_section": "4.3"
+      },
+      {
+        "name": "Wild2Avatar",
+        "cells": [
+          "Wild2Avatar",
+          "2025",
+          "occluded monocular video",
+          "NeRF",
+          "Occluder, human, background layers"
+        ],
+        "citations": [
+          "xiang2024wild2avatar"
+        ],
+        "group": "",
+        "source_table": "tab:s-temporal",
+        "source_section": "4.3"
+      },
+      {
+        "name": "OccGaussian",
+        "cells": [
+          "OccGaussian",
+          "2025",
+          "occluded monocular video",
+          "3D Gaussians",
+          "Occlusion-aware feature aggregation"
+        ],
+        "citations": [
+          "ye2025occgaussian"
+        ],
+        "group": "",
+        "source_table": "tab:s-temporal",
+        "source_section": "4.3"
+      },
+      {
+        "name": "SymGaussian",
+        "cells": [
+          "SymGaussian",
+          "2025",
+          "occluded monocular video",
+          "3D Gaussians",
+          "Multi-scale symmetry features"
+        ],
+        "citations": [
+          "jiang2025symgaussian"
+        ],
+        "group": "",
+        "source_table": "tab:s-temporal",
+        "source_section": "4.3"
+      },
+      {
+        "name": "Vid2Avatar-Pro",
+        "cells": [
+          "Vid2Avatar-Pro",
+          "2025",
+          "monocular video",
+          "3D Gaussians",
+          "Universal prior from capture data"
+        ],
+        "citations": [
+          "guo2025vid2avatarpro"
+        ],
+        "group": "",
+        "source_table": "tab:s-temporal",
+        "source_section": "4.3"
+      },
+      {
+        "name": "STG-Avatar",
+        "cells": [
+          "STG-Avatar",
+          "2025",
+          "monocular video",
+          "3D Gaussians",
+          "-"
+        ],
+        "citations": [
+          "jiang2025stgavatar"
+        ],
+        "group": "",
+        "source_table": "tab:s-temporal",
+        "source_section": "4.3"
+      },
+      {
+        "name": "U-4DGS",
+        "cells": [
+          "U-4DGS",
+          "2026",
+          "occluded monocular video",
+          "3D Gaussians",
+          "Per-Gaussian uncertainty"
+        ],
+        "citations": [
+          "u4dgs2026"
+        ],
+        "group": "",
+        "source_table": "tab:s-temporal",
+        "source_section": "4.3"
+      }
+    ]
+  },
+  {
+    "id": "priorguided",
+    "title": "Generative-Prior-Guided Optimization",
+    "section": "4.4",
+    "headers": [
+      "Method",
+      "Year",
+      "Prior / mechanism",
+      "Input",
+      "Conditioning"
+    ],
+    "summary": "Couple subject-specific reconstruction to generative guidance through image completion, 3D/UV completion, score distillation, observation synthesis, or iterative loops.",
+    "caveat": "The inventory includes neighboring restoration methods. Guidance must remain anchored to valid evidence; photorealism alone does not establish identity fidelity.",
+    "rows": [
+      {
+        "name": "OccFusion",
+        "cells": [
+          "OccFusion",
+          "2024",
+          "Inpainting and SDS",
+          "occluded monocular video",
+          "current renders; mask; rendered body/face structure"
+        ],
+        "citations": [
+          "sun2024occfusion"
+        ],
+        "group": "Image-space completion and restoration",
+        "source_table": "tab:s-priorguided",
+        "source_section": "4.4"
+      },
+      {
+        "name": "BAGA",
+        "cells": [
+          "BAGA",
+          "2024",
+          "Blur formation model",
+          "blurred monocular video; multi-view",
+          "-"
+        ],
+        "citations": [
+          "niu2024baga"
+        ],
+        "group": "Image-space completion and restoration",
+        "source_table": "tab:s-priorguided",
+        "source_section": "4.4"
+      },
+      {
+        "name": "Deblur-Avatar",
+        "cells": [
+          "Deblur-Avatar",
+          "2025",
+          "Human-motion blur model",
+          "blurred monocular video",
+          "-"
+        ],
+        "citations": [
+          "luo2025debluravatar"
+        ],
+        "group": "Image-space completion and restoration",
+        "source_table": "tab:s-priorguided",
+        "source_section": "4.4"
+      },
+      {
+        "name": "InpaintHuman",
+        "cells": [
+          "InpaintHuman",
+          "2026",
+          "Identity-preserving inpainting",
+          "occluded monocular video",
+          "image; mask"
+        ],
+        "citations": [
+          "inpainthuman2026"
+        ],
+        "group": "Image-space completion and restoration",
+        "source_table": "tab:s-priorguided",
+        "source_section": "4.4"
+      },
+      {
+        "name": "Deblur4DGS",
+        "cells": [
+          "Deblur4DGS",
+          "2026",
+          "Exposure regularization",
+          "blurred monocular video",
+          "-"
+        ],
+        "citations": [
+          "deblur4dgs2026"
+        ],
+        "group": "Image-space completion and restoration",
+        "source_table": "tab:s-priorguided",
+        "source_section": "4.4"
+      },
+      {
+        "name": "AHOY",
+        "cells": [
+          "AHOY",
+          "2026",
+          "Identity-finetuned diffusion",
+          "occluded monocular video",
+          "image; rendered body/face structure"
+        ],
+        "citations": [
+          "mir2026ahoy"
+        ],
+        "group": "Image-space completion and restoration",
+        "source_table": "tab:s-priorguided",
+        "source_section": "4.4"
+      },
+      {
+        "name": "ECON",
+        "cells": [
+          "ECON",
+          "2023",
+          "IF-Net shape completion",
+          "image",
+          "rendered body/face structure"
+        ],
+        "citations": [
+          "xiu2023econ"
+        ],
+        "group": "Completion in 3D and UV space",
+        "source_table": "tab:s-priorguided",
+        "source_section": "4.4"
+      },
+      {
+        "name": "InFusion",
+        "cells": [
+          "InFusion",
+          "2024",
+          "Depth-guided Gaussian inpainting",
+          "occluded 3D Gaussians",
+          "current renders; mask"
+        ],
+        "citations": [
+          "liu2024infusion"
+        ],
+        "group": "Completion in 3D and UV space",
+        "source_table": "tab:s-priorguided",
+        "source_section": "4.4"
+      },
+      {
+        "name": "TexDreamer",
+        "cells": [
+          "TexDreamer",
+          "2025",
+          "UV texture diffusion",
+          "text; image",
+          "text; image"
+        ],
+        "citations": [
+          "liu2024texdreamer"
+        ],
+        "group": "Completion in 3D and UV space",
+        "source_table": "tab:s-priorguided",
+        "source_section": "4.4"
+      },
+      {
+        "name": "MoGA",
+        "cells": [
+          "MoGA",
+          "2025",
+          "3D generative avatar inversion",
+          "image",
+          "image"
+        ],
+        "citations": [
+          "dong2025moga"
+        ],
+        "group": "Completion in 3D and UV space",
+        "source_table": "tab:s-priorguided",
+        "source_section": "4.4"
+      },
+      {
+        "name": "DiGS-Avatar",
+        "cells": [
+          "DiGS-Avatar",
+          "2026",
+          "UV-latent diffusion completion",
+          "image",
+          "image"
+        ],
+        "citations": [
+          "digsavatar2026"
+        ],
+        "group": "Completion in 3D and UV space",
+        "source_table": "tab:s-priorguided",
+        "source_section": "4.4"
+      },
+      {
+        "name": "TeCH",
+        "cells": [
+          "TeCH",
+          "2024",
+          "Personalized SDS",
+          "image",
+          "text; image; rendered body/face structure"
+        ],
+        "citations": [
+          "huang2024tech"
+        ],
+        "group": "Score distillation with observation-conditioned priors",
+        "source_table": "tab:s-priorguided",
+        "source_section": "4.4"
+      },
+      {
+        "name": "PuzzleAvatar",
+        "cells": [
+          "PuzzleAvatar",
+          "2024",
+          "Asset tokens and SDS",
+          "photo album",
+          "text; image"
+        ],
+        "citations": [
+          "xiu2024puzzleavatar"
+        ],
+        "group": "Score distillation with observation-conditioned priors",
+        "source_table": "tab:s-priorguided",
+        "source_section": "4.4"
+      },
+      {
+        "name": "SOAR",
+        "cells": [
+          "SOAR",
+          "2024",
+          "SDS refinement of video avatar",
+          "monocular video",
+          "image"
+        ],
+        "citations": [
+          "pan2024soar"
+        ],
+        "group": "Score distillation with observation-conditioned priors",
+        "source_table": "tab:s-priorguided",
+        "source_section": "4.4"
+      },
+      {
+        "name": "GeneMAN",
+        "cells": [
+          "GeneMAN",
+          "2025",
+          "Human-specific diffusion priors",
+          "image",
+          "text; image"
+        ],
+        "citations": [
+          "gene2025man"
+        ],
+        "group": "Score distillation with observation-conditioned priors",
+        "source_table": "tab:s-priorguided",
+        "source_section": "4.4"
+      },
+      {
+        "name": "PFAvatar",
+        "cells": [
+          "PFAvatar",
+          "2026",
+          "Pose-aware personalization",
+          "photo album",
+          "image; rendered body/face structure"
+        ],
+        "citations": [
+          "pfavatar2026"
+        ],
+        "group": "Score distillation with observation-conditioned priors",
+        "source_table": "tab:s-priorguided",
+        "source_section": "4.4"
+      },
+      {
+        "name": "SiTH",
+        "cells": [
+          "SiTH",
+          "2024",
+          "Back-view hallucination",
+          "image",
+          "image; rendered body/face structure"
+        ],
+        "citations": [
+          "ho2024sith"
+        ],
+        "group": "Multi-view and video diffusion as observation synthesis",
+        "source_table": "tab:s-priorguided",
+        "source_section": "4.4"
+      },
+      {
+        "name": "Morphable Diff.",
+        "cells": [
+          "Morphable Diff.",
+          "2024",
+          "Morphable-mesh conditioning",
+          "image",
+          "image; rendered body/face structure"
+        ],
+        "citations": [
+          "chen2024morphable"
+        ],
+        "group": "Multi-view and video diffusion as observation synthesis",
+        "source_table": "tab:s-priorguided",
+        "source_section": "4.4"
+      },
+      {
+        "name": "Human4DiT",
+        "cells": [
+          "Human4DiT",
+          "2024",
+          "Orbit video diffusion",
+          "image",
+          "image; rendered body/face structure"
+        ],
+        "citations": [
+          "shao2024human4dit"
+        ],
+        "group": "Multi-view and video diffusion as observation synthesis",
+        "source_table": "tab:s-priorguided",
+        "source_section": "4.4"
+      },
+      {
+        "name": "MagicMan",
+        "cells": [
+          "MagicMan",
+          "2025",
+          "Dense multi-view diffusion",
+          "image",
+          "image; rendered body/face structure"
+        ],
+        "citations": [
+          "he2024magicman"
+        ],
+        "group": "Multi-view and video diffusion as observation synthesis",
+        "source_table": "tab:s-priorguided",
+        "source_section": "4.4"
+      },
+      {
+        "name": "PSHuman",
+        "cells": [
+          "PSHuman",
+          "2025",
+          "Normal and color diffusion",
+          "image",
+          "image; rendered body/face structure"
+        ],
+        "citations": [
+          "li2024pshuman"
+        ],
+        "group": "Multi-view and video diffusion as observation synthesis",
+        "source_table": "tab:s-priorguided",
+        "source_section": "4.4"
+      },
+      {
+        "name": "Pippo",
+        "cells": [
+          "Pippo",
+          "2025",
+          "Multi-view diffusion transformer",
+          "image",
+          "image"
+        ],
+        "citations": [
+          "kant2025pippo"
+        ],
+        "group": "Multi-view and video diffusion as observation synthesis",
+        "source_table": "tab:s-priorguided",
+        "source_section": "4.4"
+      },
+      {
+        "name": "CAP4D",
+        "cells": [
+          "CAP4D",
+          "2025",
+          "Morphable multi-view diffusion",
+          "1-100 image",
+          "image; rendered body/face structure"
+        ],
+        "citations": [
+          "taubner2025cap4d"
+        ],
+        "group": "Multi-view and video diffusion as observation synthesis",
+        "source_table": "tab:s-priorguided",
+        "source_section": "4.4"
+      },
+      {
+        "name": "GAF",
+        "cells": [
+          "GAF",
+          "2025",
+          "Multi-view head diffusion",
+          "monocular video",
+          "image; rendered body/face structure"
+        ],
+        "citations": [
+          "tang2025gaf"
+        ],
+        "group": "Multi-view and video diffusion as observation synthesis",
+        "source_table": "tab:s-priorguided",
+        "source_section": "4.4"
+      },
+      {
+        "name": "CHROME",
+        "cells": [
+          "CHROME",
+          "2025",
+          "Occlusion-free view synthesis",
+          "occluded image",
+          "image"
+        ],
+        "citations": [
+          "arindam2025chrome"
+        ],
+        "group": "Multi-view and video diffusion as observation synthesis",
+        "source_table": "tab:s-priorguided",
+        "source_section": "4.4"
+      },
+      {
+        "name": "AniGS",
+        "cells": [
+          "AniGS",
+          "2025",
+          "Canonical multi-view synthesis",
+          "image",
+          "image; rendered body/face structure"
+        ],
+        "citations": [
+          "qiu2025anigs"
+        ],
+        "group": "Multi-view and video diffusion as observation synthesis",
+        "source_table": "tab:s-priorguided",
+        "source_section": "4.4"
+      },
+      {
+        "name": "SinGS",
+        "cells": [
+          "SinGS",
+          "2025",
+          "Kinematic human diffusion",
+          "image",
+          "image; rendered body/face structure"
+        ],
+        "citations": [
+          "singh2025sings"
+        ],
+        "group": "Multi-view and video diffusion as observation synthesis",
+        "source_table": "tab:s-priorguided",
+        "source_section": "4.4"
+      },
+      {
+        "name": "GAS",
+        "cells": [
+          "GAS",
+          "2025",
+          "Video diffusion on NeRF renders",
+          "image",
+          "image; rendered body/face structure"
+        ],
+        "citations": [
+          "gas2025"
+        ],
+        "group": "Multi-view and video diffusion as observation synthesis",
+        "source_table": "tab:s-priorguided",
+        "source_section": "4.4"
+      },
+      {
+        "name": "MVP4D",
+        "cells": [
+          "MVP4D",
+          "2025",
+          "Multi-view video diffusion",
+          "image",
+          "image"
+        ],
+        "citations": [
+          "taubner2025mvp4d"
+        ],
+        "group": "Multi-view and video diffusion as observation synthesis",
+        "source_table": "tab:s-priorguided",
+        "source_section": "4.4"
+      },
+      {
+        "name": "UP2You",
+        "cells": [
+          "UP2You",
+          "2026",
+          "Photo rectification",
+          "photo album",
+          "image"
+        ],
+        "citations": [
+          "cai2025up2you"
+        ],
+        "group": "Multi-view and video diffusion as observation synthesis",
+        "source_table": "tab:s-priorguided",
+        "source_section": "4.4"
+      },
+      {
+        "name": "PRISM",
+        "cells": [
+          "PRISM",
+          "2027",
+          "Multi-source prior distillation",
+          "image",
+          "image; rendered body/face structure"
+        ],
+        "citations": [
+          "prism2026"
+        ],
+        "group": "Multi-view and video diffusion as observation synthesis",
+        "source_table": "tab:s-priorguided",
+        "source_section": "4.4"
+      },
+      {
+        "name": "NeRFiller",
+        "cells": [
+          "NeRFiller",
+          "2024",
+          "Iterative dataset update",
+          "occluded scene",
+          "current renders; mask"
+        ],
+        "citations": [
+          "weber2024nerfiller"
+        ],
+        "group": "Iterative reconstruction-generation loops",
+        "source_table": "tab:s-priorguided",
+        "source_section": "4.4"
+      },
+      {
+        "name": "Human-3Diffusion",
+        "cells": [
+          "Human-3Diffusion",
+          "2024",
+          "Per-step 3DGS projection",
+          "image",
+          "image; current renders"
+        ],
+        "citations": [
+          "xue2024human3diffusion"
+        ],
+        "group": "Iterative reconstruction-generation loops",
+        "source_table": "tab:s-priorguided",
+        "source_section": "4.4"
+      },
+      {
+        "name": "Gen-3Diffusion",
+        "cells": [
+          "Gen-3Diffusion",
+          "2024",
+          "2D-3D diffusion synergy",
+          "image",
+          "image; current renders"
+        ],
+        "citations": [
+          "xue2024gen3diffusion"
+        ],
+        "group": "Iterative reconstruction-generation loops",
+        "source_table": "tab:s-priorguided",
+        "source_section": "4.4"
+      },
+      {
+        "name": "AdaHuman",
+        "cells": [
+          "AdaHuman",
+          "2025",
+          "Joint diffusion, part-aware refinement",
+          "image",
+          "image; rendered body/face structure; current renders"
+        ],
+        "citations": [
+          "huang2025adahuman"
+        ],
+        "group": "Iterative reconstruction-generation loops",
+        "source_table": "tab:s-priorguided",
+        "source_section": "4.4"
+      }
+    ]
+  },
+  {
+    "id": "feedforward",
+    "title": "Feed-Forward Generative Reconstruction",
+    "section": "4.5",
+    "headers": [
+      "Method",
+      "Year",
+      "Input",
+      "Representation",
+      "Animatable",
+      "Mechanism"
+    ],
+    "summary": "Predict or sample subject-specific humans using shared learned models without per-subject parameter optimization.",
+    "caveat": "Sampling can require repeated network evaluations. Fast prediction, complete geometry, calibrated uncertainty, and native animatability are different properties.",
+    "rows": [
+      {
+        "name": "SHERF",
+        "cells": [
+          "SHERF",
+          "2023",
+          "image",
+          "NeRF",
+          "yes",
+          "Canonical-space feature encoding"
+        ],
+        "citations": [
+          "hu2023sherf"
+        ],
+        "group": "Full body",
+        "source_table": "tab:s-feedforward",
+        "source_section": "4.5"
+      },
+      {
+        "name": "Human-LRM",
+        "cells": [
+          "Human-LRM",
+          "2024",
+          "image",
+          "triplane",
+          "no",
+          "Initial triplane, novel-view diffusion, reconstruction"
+        ],
+        "citations": [
+          "weng2024humanlrm"
+        ],
+        "group": "Full body",
+        "source_table": "tab:s-feedforward",
+        "source_section": "4.5"
+      },
+      {
+        "name": "HumanSplat",
+        "cells": [
+          "HumanSplat",
+          "2024",
+          "image",
+          "3D Gaussians",
+          "no",
+          "Multi-view diffusion latents, structure priors"
+        ],
+        "citations": [
+          "pan2024humansplat"
+        ],
+        "group": "Full body",
+        "source_table": "tab:s-feedforward",
+        "source_section": "4.5"
+      },
+      {
+        "name": "MHCDiff",
+        "cells": [
+          "MHCDiff",
+          "2024",
+          "occluded image",
+          "point cloud",
+          "no",
+          "Point diffusion conditioned on body hypotheses"
+        ],
+        "citations": [
+          "kim2024mhcdiff"
+        ],
+        "group": "Full body",
+        "source_table": "tab:s-feedforward",
+        "source_section": "4.5"
+      },
+      {
+        "name": "Human-3Diffusion",
+        "cells": [
+          "Human-3Diffusion",
+          "2024",
+          "image",
+          "3D Gaussians",
+          "-",
+          "Repeated 3D reconstruction inside diffusion sampling"
+        ],
+        "citations": [
+          "xue2024human3diffusion"
+        ],
+        "group": "Full body",
+        "source_table": "tab:s-feedforward",
+        "source_section": "4.5"
+      },
+      {
+        "name": "IDOL",
+        "cells": [
+          "IDOL",
+          "2025",
+          "image",
+          "3D Gaussians",
+          "yes",
+          "Synthetic HuGe100K corpus"
+        ],
+        "citations": [
+          "zhuang2025idol"
+        ],
+        "group": "Full body",
+        "source_table": "tab:s-feedforward",
+        "source_section": "4.5"
+      },
+      {
+        "name": "LHM",
+        "cells": [
+          "LHM",
+          "2025",
+          "image",
+          "3D Gaussians",
+          "yes",
+          "Body-structure and image tokens"
+        ],
+        "citations": [
+          "qiu2025lhm"
+        ],
+        "group": "Full body",
+        "source_table": "tab:s-feedforward",
+        "source_section": "4.5"
+      },
+      {
+        "name": "PF-LHM",
+        "cells": [
+          "PF-LHM",
+          "2025",
+          "1-N image",
+          "3D Gaussians",
+          "yes",
+          "Pose-free multi-image input"
+        ],
+        "citations": [
+          "qiu2025pflhm"
+        ],
+        "group": "Full body",
+        "source_table": "tab:s-feedforward",
+        "source_section": "4.5"
+      },
+      {
+        "name": "HumanRAM",
+        "cells": [
+          "HumanRAM",
+          "2025",
+          "1-N image",
+          "neural rendering",
+          "yes",
+          "SMPL-X neural texture, pose conditions"
+        ],
+        "citations": [
+          "yu2025humanram"
+        ],
+        "group": "Full body",
+        "source_table": "tab:s-feedforward",
+        "source_section": "4.5"
+      },
+      {
+        "name": "SIGMAN",
+        "cells": [
+          "SIGMAN",
+          "2025",
+          "image",
+          "3D Gaussians",
+          "-",
+          "Latent diffusion over UV Gaussians"
+        ],
+        "citations": [
+          "yang2025sigman"
+        ],
+        "group": "Full body",
+        "source_table": "tab:s-feedforward",
+        "source_section": "4.5"
+      },
+      {
+        "name": "HART",
+        "cells": [
+          "HART",
+          "2025",
+          "sparse views",
+          "mesh; 3D Gaussians",
+          "yes",
+          "Human-aligned mesh and SMPL-X"
+        ],
+        "citations": [
+          "chen2025hart"
+        ],
+        "group": "Full body",
+        "source_table": "tab:s-feedforward",
+        "source_section": "4.5"
+      },
+      {
+        "name": "Human3R",
+        "cells": [
+          "Human3R",
+          "2026",
+          "monocular video",
+          "parametric body/shape; scene",
+          "yes",
+          "Prompt-tuned CUT3R"
+        ],
+        "citations": [
+          "human3r2025"
+        ],
+        "group": "Full body",
+        "source_table": "tab:s-feedforward",
+        "source_section": "4.5"
+      },
+      {
+        "name": "Portrait4D",
+        "cells": [
+          "Portrait4D",
+          "2024",
+          "image",
+          "triplane",
+          "yes",
+          "Synthetic 4D head data"
+        ],
+        "citations": [
+          "deng2024portrait4d"
+        ],
+        "group": "Heads",
+        "source_table": "tab:s-feedforward",
+        "source_section": "4.5"
+      },
+      {
+        "name": "Avat3r",
+        "cells": [
+          "Avat3r",
+          "2025",
+          "sparse views",
+          "3D Gaussians",
+          "yes",
+          "DUSt3R and Sapiens features"
+        ],
+        "citations": [
+          "kirschstein2025avat3r"
+        ],
+        "group": "Heads",
+        "source_table": "tab:s-feedforward",
+        "source_section": "4.5"
+      },
+      {
+        "name": "FlexAvatar",
+        "cells": [
+          "FlexAvatar",
+          "2026",
+          "1-N image",
+          "3D Gaussians",
+          "yes",
+          "Head query tokens, no pose labels"
+        ],
+        "citations": [
+          "flexavatar2026"
+        ],
+        "group": "Heads",
+        "source_table": "tab:s-feedforward",
+        "source_section": "4.5"
+      }
+    ]
+  },
+  {
+    "id": "condgen",
+    "title": "Conditional Generation",
+    "section": "4.6",
+    "headers": [
+      "Method",
+      "Year",
+      "Condition",
+      "Representation",
+      "Mechanism"
+    ],
+    "summary": "Generate human geometry or appearance from semantic, identity, or latent conditions; also provide priors to reconstruction pipelines.",
+    "caveat": "Conditional generation need not recover a particular observed subject. Body scaffolds and volumetric primitives do not automatically imply full clothed-surface recovery.",
+    "rows": [
+      {
+        "name": "AvatarCLIP",
+        "cells": [
+          "AvatarCLIP",
+          "2022",
+          "text",
+          "SDF; parametric body/shape",
+          "CLIP-guided optimization"
+        ],
+        "citations": [
+          "hong2022avatarclip"
+        ],
+        "group": "Text-driven score distillation",
+        "source_table": "tab:s-condgen",
+        "source_section": "4.6"
+      },
+      {
+        "name": "DreamHuman",
+        "cells": [
+          "DreamHuman",
+          "2023",
+          "text",
+          "NeRF; parametric body/shape",
+          "SDS"
+        ],
+        "citations": [
+          "kolotouros2023dreamhuman"
+        ],
+        "group": "Text-driven score distillation",
+        "source_table": "tab:s-condgen",
+        "source_section": "4.6"
+      },
+      {
+        "name": "AvatarCraft",
+        "cells": [
+          "AvatarCraft",
+          "2023",
+          "text",
+          "implicit field/surface; parametric body/shape",
+          "SDS, shape control"
+        ],
+        "citations": [
+          "jiang2023avatarcraft"
+        ],
+        "group": "Text-driven score distillation",
+        "source_table": "tab:s-condgen",
+        "source_section": "4.6"
+      },
+      {
+        "name": "DreamWaltz",
+        "cells": [
+          "DreamWaltz",
+          "2023",
+          "text",
+          "NeRF; parametric body/shape",
+          "Skeleton-conditioned SDS"
+        ],
+        "citations": [
+          "huang2023dreamwaltz"
+        ],
+        "group": "Text-driven score distillation",
+        "source_table": "tab:s-condgen",
+        "source_section": "4.6"
+      },
+      {
+        "name": "HeadSculpt",
+        "cells": [
+          "HeadSculpt",
+          "2023",
+          "text",
+          "head",
+          "Landmark-conditioned SDS"
+        ],
+        "citations": [
+          "han2023headsculpt"
+        ],
+        "group": "Text-driven score distillation",
+        "source_table": "tab:s-condgen",
+        "source_section": "4.6"
+      },
+      {
+        "name": "DreamAvatar",
+        "cells": [
+          "DreamAvatar",
+          "2024",
+          "text; parametric body/shape",
+          "NeRF; parametric body/shape",
+          "SMPL-guided SDS"
+        ],
+        "citations": [
+          "cao2024dreamavatar"
+        ],
+        "group": "Text-driven score distillation",
+        "source_table": "tab:s-condgen",
+        "source_section": "4.6"
+      },
+      {
+        "name": "TADA",
+        "cells": [
+          "TADA",
+          "2024",
+          "text",
+          "mesh; texture/UV; parametric body/shape",
+          "SDS"
+        ],
+        "citations": [
+          "liao2024tada"
+        ],
+        "group": "Text-driven score distillation",
+        "source_table": "tab:s-condgen",
+        "source_section": "4.6"
+      },
+      {
+        "name": "HumanNorm",
+        "cells": [
+          "HumanNorm",
+          "2024",
+          "text",
+          "mesh",
+          "Normal and depth SDS"
+        ],
+        "citations": [
+          "huang2024humannorm"
+        ],
+        "group": "Text-driven score distillation",
+        "source_table": "tab:s-condgen",
+        "source_section": "4.6"
+      },
+      {
+        "name": "HeadArtist",
+        "cells": [
+          "HeadArtist",
+          "2024",
+          "text",
+          "head",
+          "Self score distillation"
+        ],
+        "citations": [
+          "liu2024headartist"
+        ],
+        "group": "Text-driven score distillation",
+        "source_table": "tab:s-condgen",
+        "source_section": "4.6"
+      },
+      {
+        "name": "HeadStudio",
+        "cells": [
+          "HeadStudio",
+          "2025",
+          "text",
+          "3D Gaussians; head",
+          "SDS"
+        ],
+        "citations": [
+          "zhou2024headstudio"
+        ],
+        "group": "Text-driven score distillation",
+        "source_table": "tab:s-condgen",
+        "source_section": "4.6"
+      },
+      {
+        "name": "DreamWaltz-G",
+        "cells": [
+          "DreamWaltz-G",
+          "2025",
+          "text",
+          "3D Gaussians; parametric body/shape",
+          "Skeleton-guided SDS"
+        ],
+        "citations": [
+          "huang2024dreamwaltzg"
+        ],
+        "group": "Text-driven score distillation",
+        "source_table": "tab:s-condgen",
+        "source_section": "4.6"
+      },
+      {
+        "name": "TGRHuman",
+        "cells": [
+          "TGRHuman",
+          "2026",
+          "text",
+          "mesh; texture/UV",
+          "Diffusion renderer, UV inpainting"
+        ],
+        "citations": [
+          "tgrhuman2026"
+        ],
+        "group": "Related observation-synthesis pipeline",
+        "source_table": "tab:s-condgen",
+        "source_section": "4.6"
+      },
+      {
+        "name": "gDNA",
+        "cells": [
+          "gDNA",
+          "2022",
+          "latent code",
+          "implicit field/surface",
+          "Generative model of scans"
+        ],
+        "citations": [
+          "chen2022gdna"
+        ],
+        "group": "3D generative models and image-to-3D lifting",
+        "source_table": "tab:s-condgen",
+        "source_section": "4.6"
+      },
+      {
+        "name": "AvatarGen",
+        "cells": [
+          "AvatarGen",
+          "2023",
+          "latent code",
+          "triplane; parametric body/shape",
+          "3D-aware GAN"
+        ],
+        "citations": [
+          "zhang2023avatargen"
+        ],
+        "group": "3D generative models and image-to-3D lifting",
+        "source_table": "tab:s-condgen",
+        "source_section": "4.6"
+      },
+      {
+        "name": "EVA3D",
+        "cells": [
+          "EVA3D",
+          "2023",
+          "latent code",
+          "NeRF",
+          "3D-aware GAN"
+        ],
+        "citations": [
+          "hong2022eva3d"
+        ],
+        "group": "3D generative models and image-to-3D lifting",
+        "source_table": "tab:s-condgen",
+        "source_section": "4.6"
+      },
+      {
+        "name": "PrimDiffusion",
+        "cells": [
+          "PrimDiffusion",
+          "2023",
+          "noise",
+          "occupancy",
+          "3D diffusion"
+        ],
+        "citations": [
+          "chen2023primdiffusion"
+        ],
+        "group": "3D generative models and image-to-3D lifting",
+        "source_table": "tab:s-condgen",
+        "source_section": "4.6"
+      },
+      {
+        "name": "StructLDM",
+        "cells": [
+          "StructLDM",
+          "2025",
+          "noise; edits",
+          "surface latent",
+          "Latent diffusion"
+        ],
+        "citations": [
+          "hu2024structldm"
+        ],
+        "group": "3D generative models and image-to-3D lifting",
+        "source_table": "tab:s-condgen",
+        "source_section": "4.6"
+      },
+      {
+        "name": "AvatarPopUp",
+        "cells": [
+          "AvatarPopUp",
+          "2025",
+          "text; image",
+          "parametric body/shape; texture/UV",
+          "Image diffusion and 3D lifting"
+        ],
+        "citations": [
+          "kolotouros2024avatarpopup"
+        ],
+        "group": "3D generative models and image-to-3D lifting",
+        "source_table": "tab:s-condgen",
+        "source_section": "4.6"
+      },
+      {
+        "name": "GenLCA",
+        "cells": [
+          "GenLCA",
+          "2026",
+          "noise",
+          "codec avatar",
+          "3D diffusion from videos"
+        ],
+        "citations": [
+          "genlca2026"
+        ],
+        "group": "3D generative models and image-to-3D lifting",
+        "source_table": "tab:s-condgen",
+        "source_section": "4.6"
+      },
+      {
+        "name": "Animate Anyone",
+        "cells": [
+          "Animate Anyone",
+          "2024",
+          "image; pose",
+          "monocular video",
+          "Pose-guided video diffusion"
+        ],
+        "citations": [
+          "hu2024animateanyone"
+        ],
+        "group": "Human image and video generation (no 3D state)",
+        "source_table": "tab:s-condgen",
+        "source_section": "4.6"
+      },
+      {
+        "name": "Champ",
+        "cells": [
+          "Champ",
+          "2025",
+          "image; parametric body/shape",
+          "monocular video",
+          "SMPL-guided video diffusion"
+        ],
+        "citations": [
+          "zhu2024champ"
+        ],
+        "group": "Human image and video generation (no 3D state)",
+        "source_table": "tab:s-condgen",
+        "source_section": "4.6"
+      },
+      {
+        "name": "HumanGif",
+        "cells": [
+          "HumanGif",
+          "2025",
+          "image",
+          "image",
+          "View and pose synthesis"
+        ],
+        "citations": [
+          "hu2025humangif"
+        ],
+        "group": "Human image and video generation (no 3D state)",
+        "source_table": "tab:s-condgen",
+        "source_section": "4.6"
+      }
+    ]
+  },
+  {
+    "id": "datasets",
+    "title": "Datasets and Capture Resources",
+    "section": "5.1",
+    "headers": [
+      "Dataset",
+      "Type",
+      "Scale",
+      "Use",
+      "Axes",
+      "Reference"
+    ],
+    "summary": "Separate dataset content, input restriction, and reference fidelity before selecting an evaluation protocol.",
+    "caveat": "Sp / Te / Qu / Co indicate spatial, temporal, quality, and coherence axes. Parentheses denote imposed restrictions. Counts have different units; fitted bodies and generated images are not ground-truth clothed geometry.",
+    "rows": [
+      {
+        "name": "THuman2.0/ 2.1",
+        "cells": [
+          "THuman2.0/ 2.1",
+          "scan; (real capture)",
+          "about 500 scans (2.0)",
+          "Training",
+          "(Sp)",
+          "Textured scans"
+        ],
+        "citations": [
+          "yu2021function4d"
+        ],
+        "group": "",
+        "source_table": "tab:s-datasets",
+        "source_section": "5.1"
+      },
+      {
+        "name": "THuman3.0",
+        "cells": [
+          "THuman3.0",
+          "scan; (real capture)",
+          "20 human-garment combinations",
+          "Garment variation",
+          "(Sp)",
+          "Textured scans"
+        ],
+        "citations": [
+          "su2023thuman3"
+        ],
+        "group": "",
+        "source_table": "tab:s-datasets",
+        "source_section": "5.1"
+      },
+      {
+        "name": "2K2K",
+        "cells": [
+          "2K2K",
+          "scan; (real capture)",
+          "2,050 scans",
+          "High-resolution training",
+          "(Sp)",
+          "Textured scans"
+        ],
+        "citations": [
+          "han20232k2k"
+        ],
+        "group": "",
+        "source_table": "tab:s-datasets",
+        "source_section": "5.1"
+      },
+      {
+        "name": "CustomHumans",
+        "cells": [
+          "CustomHumans",
+          "scan; (real capture)",
+          "See cited release",
+          "Training",
+          "(Sp)",
+          "Textured scans"
+        ],
+        "citations": [
+          "ho2023customhumans"
+        ],
+        "group": "",
+        "source_table": "tab:s-datasets",
+        "source_section": "5.1"
+      },
+      {
+        "name": "ZJU-MoCap",
+        "cells": [
+          "ZJU-MoCap",
+          "multi-view video; (real capture)",
+          "about 10 subjects",
+          "Aggregation, occlusion",
+          "(Sp, Qu)",
+          "Body fits; held-out views"
+        ],
+        "citations": [
+          "peng2021neuralbody"
+        ],
+        "group": "",
+        "source_table": "tab:s-datasets",
+        "source_section": "5.1"
+      },
+      {
+        "name": "ActorsHQ",
+        "cells": [
+          "ActorsHQ",
+          "dense multi-view video; (real capture)",
+          "8 actors",
+          "High-fidelity reference",
+          "(Sp, Te)",
+          "Held-out views"
+        ],
+        "citations": [
+          "isik2023humanrf"
+        ],
+        "group": "",
+        "source_table": "tab:s-datasets",
+        "source_section": "5.1"
+      },
+      {
+        "name": "DNA-Rendering",
+        "cells": [
+          "DNA-Rendering",
+          "dense multi-view video; (real capture)",
+          "about 500 actors",
+          "4D prior training",
+          "(Sp, Te)",
+          "Body fits; held-out views"
+        ],
+        "citations": [
+          "cheng2023dnarendering"
+        ],
+        "group": "",
+        "source_table": "tab:s-datasets",
+        "source_section": "5.1"
+      },
+      {
+        "name": "MVHumanNet",
+        "cells": [
+          "MVHumanNet",
+          "multi-view video; (real capture)",
+          "4,500 identities",
+          "Scaling 4D priors",
+          "(Sp, Te)",
+          "Body fits; held-out views"
+        ],
+        "citations": [
+          "xiong2024mvhumannet"
+        ],
+        "group": "",
+        "source_table": "tab:s-datasets",
+        "source_section": "5.1"
+      },
+      {
+        "name": "HuMMan",
+        "cells": [
+          "HuMMan",
+          "image; depth; temporal/4D; (real capture)",
+          "1,000 subjects",
+          "Multi-sensor training",
+          "(Sp, Te)",
+          "Depth, body fits"
+        ],
+        "citations": [
+          "cai2022humman"
+        ],
+        "group": "",
+        "source_table": "tab:s-datasets",
+        "source_section": "5.1"
+      },
+      {
+        "name": "4D-DRESS",
+        "cells": [
+          "4D-DRESS",
+          "scan; temporal/4D; (real capture)",
+          "64 outfits",
+          "Cloth dynamics",
+          "(Te)",
+          "Clothed meshes"
+        ],
+        "citations": [
+          "wang2024fourddress"
+        ],
+        "group": "",
+        "source_table": "tab:s-datasets",
+        "source_section": "5.1"
+      },
+      {
+        "name": "3DPW",
+        "cells": [
+          "3DPW",
+          "in-the-wild; monocular video; (real capture)",
+          "60 sequences",
+          "Pose under occlusion",
+          "Qu",
+          "Body pose and shape"
+        ],
+        "citations": [
+          "vonmarcard20183dpw"
+        ],
+        "group": "",
+        "source_table": "tab:s-datasets",
+        "source_section": "5.1"
+      },
+      {
+        "name": "EMDB",
+        "cells": [
+          "EMDB",
+          "in-the-wild; monocular video; (real capture)",
+          "10 subjects",
+          "Global body and camera",
+          "Te",
+          "Body, camera motion"
+        ],
+        "citations": [
+          "kaufmann2023emdb"
+        ],
+        "group": "",
+        "source_table": "tab:s-datasets",
+        "source_section": "5.1"
+      },
+      {
+        "name": "WildAvatar",
+        "cells": [
+          "WildAvatar",
+          "in-the-wild; monocular video; (real capture)",
+          "over 10,000 subjects",
+          "In-the-wild avatars",
+          "(Sp, Te)",
+          "Estimated SMPL"
+        ],
+        "citations": [
+          "huang2025wildavatar"
+        ],
+        "group": "",
+        "source_table": "tab:s-datasets",
+        "source_section": "5.1"
+      },
+      {
+        "name": "BEDLAM",
+        "cells": [
+          "BEDLAM",
+          "monocular video; (synthetic)",
+          "271 bodies",
+          "Pose pretraining",
+          "(Sp, Te)",
+          "Synthetic meshes, pose"
+        ],
+        "citations": [
+          "black2023bedlam"
+        ],
+        "group": "",
+        "source_table": "tab:s-datasets",
+        "source_section": "5.1"
+      },
+      {
+        "name": "SynBody",
+        "cells": [
+          "SynBody",
+          "image; (synthetic)",
+          "10,000 bodies",
+          "Perception pretraining",
+          "(Sp)",
+          "Synthetic meshes, pose"
+        ],
+        "citations": [
+          "yang2023synbody"
+        ],
+        "group": "",
+        "source_table": "tab:s-datasets",
+        "source_section": "5.1"
+      },
+      {
+        "name": "HuGe100K",
+        "cells": [
+          "HuGe100K",
+          "multi-view; image; (synthetic)",
+          "100K subjects",
+          "Feed-forward training",
+          "(Sp)",
+          "Generated images only"
+        ],
+        "citations": [
+          "zhuang2025idol"
+        ],
+        "group": "",
+        "source_table": "tab:s-datasets",
+        "source_section": "5.1"
+      },
+      {
+        "name": "RenderPeople",
+        "cells": [
+          "RenderPeople",
+          "Commercial scans",
+          "Catalog-dependent",
+          "Training",
+          "(Sp)",
+          "Textured meshes"
+        ],
+        "citations": [],
+        "group": "",
+        "source_table": "tab:s-datasets",
+        "source_section": "5.1"
+      },
+      {
+        "name": "People-Snapshot",
+        "cells": [
+          "People-Snapshot",
+          "monocular video; (real capture)",
+          "See cited release",
+          "Avatar recovery",
+          "Te",
+          "Fits and images"
+        ],
+        "citations": [
+          "alldieck2018peoplesnapshot"
+        ],
+        "group": "",
+        "source_table": "tab:s-datasets",
+        "source_section": "5.1"
+      },
+      {
+        "name": "CAPE",
+        "cells": [
+          "CAPE",
+          "scan; temporal/4D; (real capture)",
+          "15 subjects",
+          "Pose-dependent clothing",
+          "(Sp, Te)",
+          "Clothed meshes"
+        ],
+        "citations": [
+          "ma2020cape"
+        ],
+        "group": "",
+        "source_table": "tab:s-datasets",
+        "source_section": "5.1"
+      },
+      {
+        "name": "AIST++",
+        "cells": [
+          "AIST++",
+          "multi-view video; pose; (real capture)",
+          "30 subjects",
+          "Motion and rendering",
+          "(Sp, Te)",
+          "Pose, cameras"
+        ],
+        "citations": [
+          "li2021aist"
+        ],
+        "group": "",
+        "source_table": "tab:s-datasets",
+        "source_section": "5.1"
+      },
+      {
+        "name": "Hi4D",
+        "cells": [
+          "Hi4D",
+          "interaction; multi-view; (real capture)",
+          "20 pairs",
+          "Inter-person occlusion",
+          "Qu",
+          "Per-person meshes"
+        ],
+        "citations": [
+          "yin2023hi4d"
+        ],
+        "group": "",
+        "source_table": "tab:s-datasets",
+        "source_section": "5.1"
+      },
+      {
+        "name": "BEHAVE",
+        "cells": [
+          "BEHAVE",
+          "multi-view; depth; (real capture)",
+          "8 subjects",
+          "Human-object contact",
+          "Qu",
+          "Body and object fits"
+        ],
+        "citations": [
+          "bhatnagar2022behave"
+        ],
+        "group": "",
+        "source_table": "tab:s-datasets",
+        "source_section": "5.1"
+      },
+      {
+        "name": "RICH",
+        "cells": [
+          "RICH",
+          "monocular video; scan; scene; (real capture)",
+          "22 subjects",
+          "Human-scene contact",
+          "Qu",
+          "SMPL-X and scene"
+        ],
+        "citations": [
+          "huang2022rich"
+        ],
+        "group": "",
+        "source_table": "tab:s-datasets",
+        "source_section": "5.1"
+      },
+      {
+        "name": "PuzzleIOI",
+        "cells": [
+          "PuzzleIOI",
+          "photo album; (real capture)",
+          "41 identities, nearly 1K outfits",
+          "Album reconstruction",
+          "Sp, Co",
+          "A-posed scans"
+        ],
+        "citations": [
+          "xiu2024puzzleavatar"
+        ],
+        "group": "",
+        "source_table": "tab:s-datasets",
+        "source_section": "5.1"
+      },
+      {
+        "name": "Harmony4D",
+        "cells": [
+          "Harmony4D",
+          "interaction; monocular video; (real capture)",
+          "See cited release",
+          "Close interactions",
+          "Qu",
+          "Motion annotations"
+        ],
+        "citations": [
+          "harmony4d2024"
+        ],
+        "group": "",
+        "source_table": "tab:s-datasets",
+        "source_section": "5.1"
+      },
+      {
+        "name": "OcMotion",
+        "cells": [
+          "OcMotion",
+          "occluded monocular video; (real capture)",
+          "43 sequences",
+          "Occlusion robustness",
+          "Qu",
+          "Body annotations; no hidden RGB"
+        ],
+        "citations": [
+          "huang2022ocmotion"
+        ],
+        "group": "",
+        "source_table": "tab:s-datasets",
+        "source_section": "5.1"
+      }
+    ]
+  }
+]

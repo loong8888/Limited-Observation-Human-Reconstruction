@@ -1,0 +1,10 @@
+.DS_Store
+__pycache__/
+*.pyc
+.tmp/
+
+data/audit-cache/
+
+# Local review artifacts, not part of the public resource collection.
+/BUILD_REPORT.md
+/RELEASE_CHECKLIST.md

@@ -1,0 +1,10 @@
+{
+  "snapshot_date": "2026-11-14",
+  "source_manuscript": "human_reconstruction_arxiv_v2.tex",
+  "source_bibliography": "human_ref_v7.bib",
+  "manuscript_sha256": "73c30cf616e0b16d81b3813b1ef1acc7cdc437012fb06094affcb4166ea8a366",
+  "bibliography_sha256": "86e41079ae364add17e72cd802b478fa0a23edff72ae85d6e17e1d247b6d10b9",
+  "policy": "Inventory membership reproduces manuscript tables, including boundary cases; it is not an exclusive method label. Metadata is imported, not a new bibliographic audit.",
+  "reference_structure": "https://github.com/cseeyangchen/Human-Centric-AI",
+  "external_resources_checked": "2026-11-13"
+}
