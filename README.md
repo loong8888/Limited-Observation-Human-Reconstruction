@@ -1,7 +1,7 @@
 <h1 align="center">Limited-Observation Human Reconstruction</h1>
 <p align="center"><strong>From incomplete evidence to complete 3D humans.</strong></p>
 <p align="center">A companion resource for<br><em>Reconstructing Complete 3D Humans from Limited Observations: A Survey</em></p>
-<p align="center"><a href="https://loong8888.github.io/Limited-Observation-Human-Reconstruction/homepage/">Search the Literature</a> &middot; <a href="paper/survey-draft.pdf">Survey</a> &middot; <a href="resources/taxonomy.md">Taxonomy</a> &middot; <a href="resources/papers.md">Paper index</a> &middot; <a href="data/references.bib">BibTeX</a> &middot; <a href="CONTRIBUTING.md">Contribute</a></p>
+<p align="center"><a href="paper/survey-draft.pdf">Survey</a> &middot; <a href="resources/taxonomy.md">Taxonomy</a> &middot; <a href="resources/papers.md">Paper index</a> &middot; <a href="data/references.bib">BibTeX</a> &middot; <a href="CONTRIBUTING.md">Contribute</a></p>
 
 <p align="center"><img src="assets/survey-overview.png" width="900" alt="Survey overview: six reconstruction and generation families, their composition, datasets, evaluation, and research directions"></p>
 
@@ -14,6 +14,16 @@ In our survey, **Reconstructing Complete 3D Humans from Limited Observations**, 
 We maintain this repository as a companion to the survey and a practical entry point into the field. Alongside the literature organized by our taxonomy, we collect datasets, official implementations, reusable tools, reading routes, and evaluation considerations. These resources help readers compare assumptions, identify suitable starting points, and distinguish fidelity to observed evidence from the plausibility of completed regions. We welcome contributions that extend the collection and clarify the connections between methods.
 
 **Repository:** [loong8888/Limited-Observation-Human-Reconstruction](https://github.com/loong8888/Limited-Observation-Human-Reconstruction)
+
+## Search the Literature
+
+**[Open the searchable literature catalogue](https://loong8888.github.io/Limited-Observation-Human-Reconstruction/homepage/)**
+
+Search papers by title, author, method, input, or representation; filter by method family and year, explore datasets and tools, and copy BibTeX citations. Click the preview below to start searching.
+
+<a href="https://loong8888.github.io/Limited-Observation-Human-Reconstruction/homepage/">
+  <img src="assets/literature-search-preview.png" width="960" alt="Search our literature catalogue: search field, method-family and year filters, and results for occlusion-related papers">
+</a>
 
 ## Start Here
 
