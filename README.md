@@ -5,7 +5,7 @@
 
 <p align="center"><img src="assets/survey-overview.png" width="900" alt="Survey overview: six reconstruction and generation families, their composition, datasets, evaluation, and research directions"></p>
 
-**Jinlong Fan · Jing Zhang · Mingming Gong · Yuxiang Yang · Dacheng Tao**
+**Jinlong Fan · Jing Zhang · Mingming Gong · Yuxiang Yang**
 
 How can we reconstruct a complete 3D human when the available observations reveal only part of the person? A single photograph leaves the back unseen; an occluded video may never expose a hidden limb; and a personal photo collection may span different poses, outfits, cameras, and years. Recovering geometry, appearance, and deformation from such evidence requires more than fitting what is visible: it requires deciding how observations and prior knowledge should work together.
 

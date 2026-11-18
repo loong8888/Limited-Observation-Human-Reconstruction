@@ -2,7 +2,7 @@
 
 **Reconstructing Complete 3D Humans from Limited Observations: A Survey**
 
-Jinlong Fan, Jing Zhang, Mingming Gong, Yuxiang Yang, and Dacheng Tao.
+Jinlong Fan, Jing Zhang, Mingming Gong, and Yuxiang Yang.
 
 [Read our survey](survey-draft.pdf) · [BibTeX](citation.bib)
 
